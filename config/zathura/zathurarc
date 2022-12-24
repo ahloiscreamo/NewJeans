@@ -1,0 +1,35 @@
+# Rosé Pine 
+# Author: Ahloi
+
+set default-bg                  "#232136"
+set default-fg                  "#e0def4"
+
+set statusbar-fg                "#232136"
+set statusbar-bg                "#c4a7e7"
+
+set inputbar-bg                 "#f6c177"
+set inputbar-fg                 "#232136"
+
+set notification-bg             "#9ccfd8"
+set notification-fg             "#232136"
+
+set notification-error-bg       "#eb6f92"
+set notification-error-fg       "#232136"
+
+set notification-warning-bg     "#eb6f92"
+set notification-warning-fg     "#e0def4"
+
+set highlight-color             "#3e8fb0"
+set highlight-active-color      "#e0def4"
+
+set completion-bg               "#9ccfd8"
+set completion-fg               "#c4a7e7"
+
+set completion-highlight-fg     "#e0def4"
+set completion-highlight-bg     "#232136"
+
+set recolor-lightcolor          "#232136"
+set recolor-darkcolor           "#e0def4"
+
+set recolor                     "true"
+set recolor-keephue             "false"

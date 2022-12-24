@@ -1,0 +1,44 @@
+#!/bin/sh
+
+tmp="/tmp/nsxiv_rifle_$$"
+
+listfiles () {
+    find -L "///${1%/*}" -maxdepth 1 -type f -print |
+      grep -iE '\.(jpe?g|png|gif|webp|tiff|bmp)$' |
+      sort | tee "$tmp"
+}
+
+is_img () {
+    case "${1##*.}" in
+        "jpg"|"jpeg"|"png"|"gif"|"webp"|"tiff"|"bmp") return 0 ;;
+        *) return 1 ;;
+    esac
+}
+
+open_img () {
+    is_img "$1" || exit 1
+    trap 'rm -f $tmp' EXIT
+    count="$(listfiles "$1" | grep -nF "$1")"
+    if [ -n "$count" ]; then
+        nsxiv -i -n "${count%%:*}" -- < "$tmp"
+    else
+        nsxiv -- "$@" # fallback
+    fi
+}
+
+while getopts abcfhiopqrtvZA:e:G:g:N:S:s:z: opt; do
+    case "$opt" in
+        [a-z]|[A-Z]) args="$args -$opt $OPTARG" ;;
+        *) exit 1 ;;
+    esac
+done
+shift "$((OPTIND-1))"
+[ "$1" = '--' ] && shift
+
+case "$1" in
+    "") echo "Usage: ${0##*/} PICTURES" >&2; exit 1 ;;
+    /*) open_img "$1" ;;
+    "~"/*) open_img "$HOME/${1#"~"/}" ;;
+    *) open_img "$PWD/$1" ;;
+esac
+

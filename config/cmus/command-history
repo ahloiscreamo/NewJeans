@@ -1,0 +1,224 @@
+set show_remaining_time=false
+set show_playback_position=true
+set show_playback_position=false
+set format_trackwin_album= %l
+set format_trackwin_album=%= %l
+set format_trackwin= %t%=
+set format_trackwin= %t
+set format_statusline= %{status} %02n %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }}
+set format_current= %a  %l  %=  %04y 
+set follow=true
+set follow=false
+set format_current= %a  %l  %=  %04y  
+set format_statusline= %{status} %02n %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }} 
+set format_statusline= %{status} %02n %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration}} } 
+set format_statusline= %{status} %02n %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration}}} 
+set format_current= %a %l %= %04y 
+set format_playlist= %-18a  %-18l  %t%=  %04y 
+set format_current= %a %l %= %04y
+set format_current= %a %= %l  %04y
+set option= 
+set option=<TAB>
+set option=<TAB>.
+set format_current= %a  %l  %04y
+set format_current= %a  %l %{status}  %04y
+set format_current= %a  %l %04y
+set format_current= %a  %l  %04y
+set format_current= %a x %l x %04y
+set format_current= %a: %l x  %04y
+set format_current= %a: %l  %04y
+set format_current= %a: %l: %04y
+set format_current= %a: %l:= %04y
+set format_current= %a: %l: %t%= %04y
+set color_win_cur_attr=bold
+set color_win_cur_attr=default
+set color_titleline_attr=bold
+set color_titleline_attr=default
+update cache
+add /mnt/Kingston/Music
+set color_trackwin_album_fg=white
+set color_trackwin_album_fg=whie
+set color_trackwin_album_fg=blue
+set color_trackwin_album_attr=default
+set color_win_title_bg=black
+set color_trackwin_album_bg=default
+set color_trackwin_album_bg=blue
+set color_titleline_fg=red
+set color_titleline_fg=white
+set color_statusline_bg=black
+set color_separator=black
+set color_titleline_fg=cyan
+set color_titleline_bg=black
+set color_trackwin_album_bg=black
+set color_win_cur_attr=black
+set color_win_bg=default
+set color_win_bg=black
+set color_win_inactive_cur_sel_bg=black
+set color_win_cur_sel_fg=cyan
+set color_win_cur_sel_bg=black
+set color_win_inactive_sel_fg=cyan
+set color_win_inactive_sel_bg=black
+set color_win_sel_fg=cyan
+set color_win_sel_bg=black
+set color_titleline_fg=black
+set color_win_sel_fg=black
+set color_win_sel_bg=cyan
+set color_win_cur_sel_fg=black
+set color_win_inactive_sel_fg=black
+set color_win_inactive_sel_bg=cyan
+set color_win_inactive_sel_bg=default
+set color_win_inactive_sel_fg=white
+set color_win_inactive_sel_bg=white
+set color_win_cur_sel_fg=white
+set color_win_cur_sel_bg=cyan
+set color_titleline_bg=red
+set color_win_cur_sel_bg=
+set color_titleline_bg=cyan
+set color_win_inactive_cur_sel_fg=magenta
+set color_win_cur=magenta
+set color_win_cur=cyan
+set color_win_inactive_cur_sel_fg=cyan
+set color_win_inactive_cur_sel_fg=
+set color_win_inactive_cur_sel_fg=yellow
+set color_win_title_fg=white
+set color_win_title_attr=default
+set color_win_sel_fg=white
+set color_win_sel_bg=red
+set color_win_sel_attr=default
+set color_win_sel_attr=red
+set color_win_inactive_sel_bg=
+set color_win_inactive_sel_attr=default
+set color_win_inactive_sel_attr=red
+set color_win_inactive_cur_sel_bg=default
+set color_win_inactive_cur_sel_fg=white
+set color_win_inactive_cur_sel_bg=magenta
+set color_win_inactive_cur_sel_attr=default
+set color_win_inactive_cur_sel_attr=magenta
+set color_win_fg=white
+set color_win_fg=
+set color_win_fg=red
+set color_win_dir=default
+set color_win_dir=black
+set color_win_cur_sel_bg=red
+set color_win_cur_sel_bg=default
+set color_win_cur_sel_attr=default
+set color_win_cur_sel_attr=yellow
+set color_win_cur_attr=yellow
+set color_win_attr=default
+set color_win_attr=yellow
+set color_win_bg=yellow
+set color_trackwin_album_fg=yellow
+set color_info=green
+set color_info=blue
+set color_cur_sel_attr=default
+set color_cur_sel_attr=white
+set color_cmdline_fg=white
+set color_cmdline_fg=red
+set color_cmdline_bg=default
+set color_cmdline_bg=magenta
+set color_cmdline_attr=default
+set color_cmdline_attr=yellow
+set color_cmdline_attr=white
+set color_win_title_fg=red
+set color_win_title_bg=default
+set color_win_title_bg=red
+set color_win_sel_bg=default
+set color_win_sel_fg=magenta
+set color_win_sel_fg=default
+set color_win_sel_attr=blue
+set color_win_sel_attr=magenta
+set color_win_inactive_sel_fg=default
+set color_win_inactive_sel_fg=magenta
+set color_win_inactive_sel_fg=red
+set color_win_inactive_sel_bg=red
+set color_win_inactive_sel_bg=magenta
+set color_win_inactive_sel_attr=magenta
+set color_win_inactive_cur_sel_bg=blue
+set color_win_inactive_cur_sel_fg=black
+set color_win_inactive_cur_sel_fg=default
+set color_win_inactive_cur_sel_bg=red
+set color_win_dir=white
+set color_win_dir=yellow
+set color_win_cur=yellow
+set color_win_cur=red
+set color_win_cur=green
+set color_win_bg=white
+set color_win_attr=white
+set color_trackwin_album_bg=red
+set color_titleline_fg=blue
+set color_titleline_fg=default
+set color_titleline_bg=re
+set color_titleline_attr=white
+set color_titleline_attr=whtie
+set color_statusline_fg=white
+set color_statusline_fg=red
+set color_statusline_fg=black
+set color_statusline_attr=default
+set color_statusline_attr=red
+set color_cur_sel_attr=false
+update-cache
+clear
+add /mnt/Kingston/Music/Quran
+filter 
+set color_win_inactive_sel_fg=blue
+set color_win_inactive_cur_sel_attr=red
+set color_win_inactive_cur_sel_fg=blue
+set color_win_fg=blue
+set color_win_fg=default
+set color_trackwin_album_fg=default
+set format_clipped_text=* 
+-p
+p
+l
+clear playlist
+set altformat_trackwin= %f%= %d
+set altformat_trackwin= %f%= %d bold
+set format_trackwin=%t%= 
+set time_show_leading_zero=true
+set time_show_leading_zero=false
+set format_statusline= %a: %l: %04y
+set format_current= %{status} %02n %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }}
+set altformat_title=%f
+set altformat_title=%F
+set auto_reshuffle=false
+set format_current= %{status} %02n %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_po
+set format_treewin= %l
+set format_treewin= %a
+set format_clipped_text=*
+set format_clipped_text=|
+set format_clipped_text=#
+set format_clipped_text=#
+set format_current= %a: %l: %02n %04y
+set format_trackwin=%t%=  
+set format_current= %a: %l: %02n
+set format_current= %a: %l: %02n %{status} %t%= %1{follow}%1{repeat}%1{shuffle}
+set format_statusline= %{status} %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }} 
+set format_current= %a: %l: %02n %t%= %04y
+set format_current= %l: %02n
+set tree_width_percent=30
+set tree_width_percent=35
+set tree_width_percent=20
+set tree_width_percent=10
+set tree_width_percent=0
+set tree_width_percent=40
+set skip_track_info=false
+set skip_track_info=true
+colorscheme nord
+cmus-theme-selector
+theme-selector
+bind common <key> filter
+bind -f library a set lib_sort=artist album discnumber tracknumber title filename
+bind -f library a set lib_sort=artist album discnumber tracknumber title
+set lib_sort=artist album discnumber tracknumber title filename
+U
+add mnt/Kingston/Music
+update-cache -f
+set resume=true
+set status_display_program=/usr/local/bin/cmus-notify
+set format_statusline= %{status} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }}- %{total} %{?bpm>0?at %{bpm} BPM }%{?volume>=0?vol: %{?lvolume!=rvolume?%{lvolume},%{rvolume} ?%{volume} }}%{?stream?buf: %{buffer} }%{?show_current_bitrate & bitrate>=0? %{bitrate} kbps }%=%{?repeat_current?repeat current?%{?play_library?%{playlist_mode} from %{?play_sorted?sorted }library?playlist}} | %1{continue}%1{follow}%1{repeat}%1{shuffle} 1
+set status_display_program=
+set lib_sort=albumartist date album discnumber tracknumber title filename play_count
+set format_statusline= %{status} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }}- %{total} %{?bpm>0?at %{bpm} BPM }%{?volume>=0?vol: %{?lvolume!=rvolume?%{lvolume},%{rvolume} ?%{volume} }}%{?stream?buf: %{buffer} }%{?show_current_bitrate & bitrate>=0? %{bitrate} kbps }%=%{?repeat_current?repeat current?%{?play_library?%{playlist_mode} from %{?play_sorted?sorted }library?playlist}} | %1{continue}%1{follow}%1{repeat}%1{shuffle} 
+set nord colorscheme
+set colorscheme nord
+set colorscheme manta

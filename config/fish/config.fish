@@ -1,0 +1,132 @@
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+    set -U fish_greeting 
+end
+
+#NNN
+export NNN_FIFO="/tmp/nnn.fifo nnn"
+export NNN_PREVIEW="/tmp/nnn-preview-tui-fifopid."
+export NNN_OPENER="xdg-open"
+export NNN_OPENER_DETACH=1
+export EDITOR="nvim"
+export NNN_EDITOR="/usr/bin/nvim"
+export NNN_VISUAL="nvim"
+export NNN_COLORS="5639"
+export NNN_FCOLORS="0B0B04060006060009060B06"
+export NNN_BMS='m:/mnt;g:/mnt/Kingston/gallery-dl/instagram;d:~/Downloads;p:~/Pictures;t:~/Documents;f:~/Desktop'
+export NNN_PLUG='j:autojump;p:preview-tui;l:launch;r:renamer;w:wallpaper;o:organize;x:xdgdefault'
+
+#Googler
+#for Google Videos (any source)
+alias v='googler -V --url-handler mpv $argv'
+#for site-specific videos (e.g. YouTube)
+alias yv='googler -w youtube.com --url-handler mpv $argv'
+
+#Ddgr
+export BROWSER=w3m
+
+#Qt5ct
+export QT_QPA_PLATFORMTHEME="qt5ct"
+
+#fzf
+export FZF_DEFAULT_OPTS='
+--color fg:#e0def4,bg:#232136,hl:#3e8fb0,fg+:#e0def4,bg+:#eb6f92,hl+:#3e8fb0
+--color pointer:#e0def4,info:#e0def4,spinner:#e0def4,header:#e0def4,prompt:#9ccfd8,marker:#f6c177,border:#c4a7e7,gutter:#9ccfd8
+'
+
+#Bat
+export BAT_THEME="Nord"
+
+#Alias
+#alias nnn="nnn -r -e -x -D -C" 
+alias nnn="nnn -r -e -x -C"
+alias icat="kitty +kitten icat"
+alias stig="stig tui hide topbar"
+alias w3m="w3m -o inline_img_protocol=4"
+alias exa="exa --icons"
+alias ls="exa"
+
+#Firefox
+export MOZ_X11_EGL="1"
+
+#Ranger
+#export RANGER_LOAD_DEFAULT_RC=false
+
+#Kunst
+# The size of the album art to be displayed
+export KUNST_SIZE="250x250"
+
+#Font Preview
+# Input prompt of fuzzy searcher
+export FONTPREVIEW_SEARCH_PROMPT="❯ "
+
+# Size of the font preview window
+export FONTPREVIEW_SIZE=532x365
+
+# The position where the font preview window should be displayed
+export FONTPREVIEW_POSITION="+0+0"
+
+# Font size
+export FONTPREVIEW_FONT_SIZE=38
+
+# Background color of the font preview window
+export FONTPREVIEW_BG_COLOR="#ffffff"
+
+# Foreground color of the font preview window
+export FONTPREVIEW_FG_COLOR="#000000"
+
+# Preview text that should be displayed in the font preview window
+export FONTPREVIEW_PREVIEW_TEXT="ABCDEFGHIJKLM\nNOPQRSTUVWXYZ\nabcdefghijklm\nnopqrstuvwxyz\n1234567890\n!@\%(){}[]"
+
+# Where your music is located
+export KUNST_MUSIC_DIR="/gallery/Music/"
+
+#fff
+# w3m-img offsets.
+export FFF_W3M_XOFFSET=27
+export FFF_W3M_YOFFSET=13
+
+# Text Editor
+export EDITOR="nvim"
+
+# File Opener
+export FFF_OPENER="xdg-open"
+
+# (Ignores FFF_COL1)
+export FFF_LS_COLORS=1
+
+# Directory color [0-9]
+export FFF_COL1=4
+
+# Status background color [0-9]
+export FFF_COL2=4
+
+# Selection color [0-9] (copied/moved files)
+export FFF_COL3=6
+
+# Cursor color [0-9]
+export FFF_COL4=3
+
+# Status foreground color [0-9]
+export FFF_COL5=0
+
+# Shfm
+#export SHFM_OPENER="$HOME/.config/shfm/SHFM_OPENER"
+
+# Pip packages path
+#export PATH="$HOME/.local/bin:$PATH"
+
+# fish 
+set -gx BROWSER firefox
+set -U fish_color_command 81a1c1
+set -U fish_color_match --background=blue
+set -U fish_color_user green
+
+# THEME PURE #
+set fish_function_path /home/ahloi/.config/fish/functions/theme-pure/functions/ $fish_function_path
+source /home/ahloi/.config/fish/functions/theme-pure/conf.d/pure.fish
+set -U pure_symbol_prompt "❯"
+set -U pure_symbol_reverse_prompt "❮"
+set -U pure_symbol_git_unpulled_commits "⇣"
+set -U pure_symbol_git_unpushed_commits "⇡"
+
