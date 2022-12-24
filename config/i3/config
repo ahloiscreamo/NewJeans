@@ -1,0 +1,266 @@
+# Font for window titles. Will also be used by the bar unless a different font
+# is used in the bar {} block below.
+font pango:Readex Pro Bold italic 0
+title_align center
+
+# Start XDG autostart .desktop files using dex. See also
+# https://wiki.archlinux.org/index.php/XDG_Autostart
+exec --no-startup-id dex --autostart --environment i3
+
+# use these keys for focus, movement, and resize directions when reaching for
+# the arrows is not convenient
+set $up k
+set $down l
+set $left j
+set $right semicolon
+
+# use Mouse+Mod1 to drag floating windows to their wanted position
+floating_modifier Mod1
+
+# start a terminal
+bindsym Mod1+Return exec kitty
+
+# window management
+# disable border
+#for_window [class="^.*"] border normal 0
+for_window [class="^.*"] border pixel 4
+
+# Activate smart borders (always)
+smart_borders on
+
+# Activate smart gaps
+# smart_gaps on
+
+# Toggle title bar
+bindsym Mod1+t border normal 0
+bindsym Mod1+u border none
+bindsym Mod1+y border pixel 4
+
+# Farge
+bindsym Mod1+Shift+f --release exec farge
+
+# Kunst
+# bindsym Mod+Ctrl+m exec kunst
+
+# gaps default
+gaps inner 0
+gaps outer 0
+#gaps outer 10
+gaps top 40
+
+# enable autotiling
+exec autotiling -w 1 
+
+# floating mode
+#for_window [class=".*"] [floating] move absolute position center
+for_window [class="kitty"] floating enable, border normal 0
+for_window [window_role="About"] floating enable
+for_window [class="mpv"] floating enable, border pixel 4, move absolute position center
+for_window [title="Authy"] floating enable
+for_window [class="Yad"] floating enable
+#for_window [class="Sxiv"] floating enable, resize set 349px 440px
+for_window [class="cmusCoverViewer"] floating enable, border normal 0, resize set 280px 280px
+for_window [class="Thunar"] floating enable, move absolute position center
+for_window [class="Sxiv"] floating enable, border pixel 4
+for_window [class="Nsxiv"] floating enable, border pixel 4, resize set 709px 840px, move absolute position center
+for_window [class="firefox" window_role="Organizer"] floating enable
+for_window [class="Zathura"] floating enable, resize set 645 950
+for_window [class="Gpick"] floating enable
+for_window [class="FreeTube"] floating enable, move absolute position center
+for_window [class="Gcolor3"] floating enable
+for_window [class="gmic_qt"] floating enable
+#for_window [class="fragments"] floating enable, move absolute position center
+for_window [class="Transmission-gtk"] floating enable, move absolute position center
+for_window [title="Farge"] floating enable
+for_window [instance="fontpreview"] floating enable
+for_window [class="SimpleScreenRecorder"] floating enable
+for_window [class="Gnome-screenshot"] floating enable, move absolute position center
+for_window [class="ark"] floating enable, move absolute position center
+
+# exec on startup
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec --no-startup-id picom -b
+exec_always xinput set-prop 11 "Device Enabled" 0
+exec_always xinput set-prop 9 "Device Enabled" 0
+exec --no-startup-id feh --bg-fill ~/Pictures/NewJeans.png
+#exec --no-startup-id feh --bg-fill ~/Pictures/Bicycle.jpg
+#exec --no-startup-id hsetroot -solid '#e0def4'
+exec --no-startup-id unclutter
+
+# xclip mpv
+bindsym Mod1+Shift+p exec /home/ahloi/youtube-watch.sh
+
+# wmfocus
+bindsym Mod1+w exec wmfocus --font "Readex Pro":50 --textcolor "#ea9a97" --textcoloralt "#c4a7e7" --bgcolor "#232136" --textcolorcurrent "#c4a7e7" --textcolorcurrentalt "#ea9a97" --bgcolorcurrent "#232136" 
+
+# kill focused window
+bindsym Mod1+q kill
+
+# start rofi (a program launcher)
+bindsym Mod1+d exec rofi -show drun 
+
+# follow mouse
+focus_follows_mouse no
+
+# change focus
+bindsym Mod1+$left focus left
+bindsym Mod1+$down focus down
+bindsym Mod1+$up focus up
+bindsym Mod1+$right focus right
+
+# alternatively, you can use the cursor keys:
+bindsym Mod1+Left focus left
+bindsym Mod1+Down focus down
+bindsym Mod1+Up focus up
+bindsym Mod1+Right focus right
+
+# move focused window
+bindsym Mod1+Shift+$left move left
+bindsym Mod1+Shift+$down move down
+bindsym Mod1+Shift+$up move up
+bindsym Mod1+Shift+$right move right
+
+# alternatively, you can use the cursor keys:
+bindsym Mod1+Ctrl+Left move left 30px
+bindsym Mod1+Ctrl+Down move down 30px
+bindsym Mod1+Ctrl+Up move up 30px
+bindsym Mod1+Ctrl+Right move right 30px
+
+# split in horizontal orientation
+bindsym Mod1+h split h
+
+# split in vertical orientation
+bindsym Mod1+v split v
+
+# enter fullscreen mode for the focused container
+bindsym Mod1+f fullscreen toggle
+
+# change container layout (stacked, tabbed, toggle split)
+bindsym Mod1+s layout stacking
+#bindsym Mod1+w layout tabbed
+bindsym Mod1+e layout toggle split
+
+# toggle tiling / floating
+bindsym Mod1+Shift+space floating toggle
+
+# change focus between tiling / floating windows
+bindsym Mod1+space focus mode_toggle
+
+# focus the parent container
+bindsym Mod1+a focus parent
+
+# focus the child container
+#bindsym Mod1+d focus child
+
+# move the currently focused window to the scratchpad
+bindsym Mod1+Shift+minus move scratchpad
+
+# Show the next scratchpad window or hide the focused scratchpad window.
+# If there are multiple scratchpad windows, this command cycles through them.
+bindsym Mod1+minus scratchpad show
+
+# Define names for default workspaces for which we configure key bindings later on.
+# We use variables to avoid repeating the names in multiple places.
+set $ws1 "TERM "
+set $ws2 "WEB "
+set $ws3 "DRAW "
+set $ws4 "MPV "
+set $ws5 "SEED "
+set $ws6 "CIDER "
+set $ws7 "EASYEFFECT "
+set $ws8 "8"
+set $ws9 "9"
+set $ws10 "10"
+
+#bind program to workspace
+assign [class="kitty"] $ws1
+assign [class="firefox"] $ws2
+assign [class="MyPaint"] $ws3
+assign [class="krita"] $ws3
+assign [class="Inkscape"] $ws3
+assign [class="mpv"] $ws4
+assign [class="Transmission-gtk"] $ws5
+assign [class="Cider"] $ws6
+assign [class="easyeffects"] $ws7
+assign [window_role="PictureInPictures"] $ws4
+
+# switch to workspace
+bindsym Mod1+1 workspace $ws1
+bindsym Mod1+2 workspace $ws2
+bindsym Mod1+3 workspace $ws3
+bindsym Mod1+4 workspace $ws4
+bindsym Mod1+5 workspace $ws5
+bindsym Mod1+6 workspace $ws6
+bindsym Mod1+7 workspace $ws7
+bindsym Mod1+8 workspace $ws8
+bindsym Mod1+9 workspace $ws9
+bindsym Mod1+0 workspace $ws10
+
+# move focused container to workspace
+bindsym Mod1+Shift+1 move container to workspace $ws1
+bindsym Mod1+Shift+2 move container to workspace $ws2
+bindsym Mod1+Shift+3 move container to workspace $ws3
+bindsym Mod1+Shift+4 move container to workspace $ws4
+bindsym Mod1+Shift+5 move container to workspace $ws5
+bindsym Mod1+Shift+6 move container to workspace $ws6
+bindsym Mod1+Shift+7 move container to workspace $ws7
+bindsym Mod1+Shift+8 move container to workspace $ws8
+bindsym Mod1+Shift+9 move container to workspace $ws9
+bindsym Mod1+Shift+0 move container to workspace $ws10
+
+# reload the configuration file
+bindsym Mod1+Shift+c reload
+# restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
+bindsym Mod1+Shift+r restart
+# exit i3 (logs you out of your X session)
+bindsym Mod1+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+
+# resize window (you can also use the mouse for that)
+mode "resize" {
+        # These bindings trigger as soon as you enter the resize mode
+
+        # Pressing left will shrink the window’s width.
+        # Pressing right will grow the window’s width.
+        # Pressing up will shrink the window’s height.
+        # Pressing down will grow the window’s height.
+        bindsym h resize shrink width 3 px or 3 ppt
+        bindsym j resize grow height 3 px or 3 ppt
+        bindsym k resize shrink height 3 px or 3 ppt
+        bindsym l resize grow width 3 px or 3 ppt
+
+        # same bindings, but for the arrow keys
+        bindsym Left resize shrink width 30 px or 30 ppt
+        bindsym Down resize grow height 30 px or 30 ppt
+        bindsym Up resize shrink height 30 px or 30 ppt
+        bindsym Right resize grow width 30 px or 30 ppt
+
+        # back to normal: Enter or Escape or Mod1+r
+        bindsym Return mode "default"
+        bindsym Escape mode "default"
+        bindsym Mod1+r mode "default"
+}
+
+bindsym Mod1+r mode "resize"
+
+# Resizing by 1
+
+bindsym Mod1+control+l resize grow width 1 px or 1 ppt
+
+bindsym Mod1+control+h resize shrink width 1 px or 1 ppt
+
+bindsym Mod1+control+k resize shrink height 1 px or 1 ppt
+
+bindsym Mod1+control+j resize grow height 1 px or 1 ppt
+
+set $x_spd 30
+set $hx_spd 15
+bindsym Mod1+Shift+Up resize shrink width $x_spd px or $x_spd ppt, resize shrink height $x_spd px or $x_spd ppt, move right $hx_spd px, move down $hx_spd px
+bindsym Mod1+Shift+Down resize grow width $x_spd px or $x_spd ppt, resize grow height $x_spd px or $x_spd ppt, move left $hx_spd px, move up $hx_spd px
+
+# class                 border  backgr. text    indicator child_border
+client.focused          #c4a7e7 #c4a7e7 #c4a7e7   #c4a7e7   #c4a7e7 
+client.focused_inactive #ea9a97 #ea9a97 #ea9a97   #ea9a97   #ea9a97
+client.unfocused        #c4a7e7 #c4a7e7 #c4a7e7   #c4a7e7   #c4a7e7 
+client.urgent           #eb6f92 #eb6f92 #eb6f92   #eb6f92   #eb6f92
+client.placeholder      #232136 #232136 #232136   #232136   #232136
+client.background       #e0def4
