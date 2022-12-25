@@ -30,8 +30,8 @@ export QT_QPA_PLATFORMTHEME="qt5ct"
 
 #fzf
 export FZF_DEFAULT_OPTS='
---color fg:#e0def4,bg:#232136,hl:#3e8fb0,fg+:#e0def4,bg+:#eb6f92,hl+:#3e8fb0
---color pointer:#e0def4,info:#e0def4,spinner:#e0def4,header:#e0def4,prompt:#9ccfd8,marker:#f6c177,border:#c4a7e7,gutter:#9ccfd8
+--color fg:#e0def4,bg:#232136,hl:#3e8fb0,fg+:#232136,bg+:#ea9a97,hl+:#3e8fb0
+--color pointer:#232136,info:#e0def4,spinner:#e0def4,header:#e0def4,prompt:#c4a7e7,marker:#c4a7e7,border:#393552,gutter:#c4a7e7
 '
 
 #Bat
