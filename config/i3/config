@@ -91,7 +91,7 @@ exec --no-startup-id unclutter
 bindsym Mod1+Shift+p exec /home/ahloi/youtube-watch.sh
 
 # wmfocus
-bindsym Mod1+w exec wmfocus --font "Readex Pro":50 --textcolor "#ea9a97" --textcoloralt "#c4a7e7" --bgcolor "#232136" --textcolorcurrent "#c4a7e7" --textcolorcurrentalt "#ea9a97" --bgcolorcurrent "#232136" 
+bindsym Mod1+w exec /home/ahloi/wmfocus
 
 # kill focused window
 bindsym Mod1+q kill
