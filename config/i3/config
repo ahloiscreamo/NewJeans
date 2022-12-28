@@ -64,7 +64,7 @@ for_window [class="Thunar"] floating enable, move absolute position center
 for_window [class="Sxiv"] floating enable, border pixel 4
 for_window [class="Nsxiv"] floating enable, border pixel 4, resize set 709px 840px, move absolute position center
 for_window [class="firefox" window_role="Organizer"] floating enable
-for_window [class="Zathura"] floating enable, resize set 645 950
+for_window [class="Zathura"] floating enable, resize set 645 950, move absolute position center
 for_window [class="Gpick"] floating enable
 for_window [class="FreeTube"] floating enable, move absolute position center
 for_window [class="Gcolor3"] floating enable
