@@ -45,6 +45,7 @@ alias stig="stig tui hide topbar"
 alias w3m="w3m -o inline_img_protocol=4"
 alias exa="exa --icons"
 alias ls="exa"
+alias ncdu="ncdu --color dark"
 
 #Firefox
 export MOZ_X11_EGL="1"
