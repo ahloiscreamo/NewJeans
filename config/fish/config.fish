@@ -35,7 +35,7 @@ export FZF_DEFAULT_OPTS='
 '
 
 #Bat
-export BAT_THEME="Nord"
+#export BAT_THEME="Nord"
 
 #Alias
 #alias nnn="nnn -r -e -x -D -C" 
@@ -46,6 +46,7 @@ alias w3m="w3m -o inline_img_protocol=4"
 alias exa="exa --icons"
 alias ls="exa"
 alias ncdu="ncdu --color dark"
+alias cat="bat --paging=never"
 
 #Firefox
 export MOZ_X11_EGL="1"
