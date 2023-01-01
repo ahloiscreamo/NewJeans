@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+player="umpv"
+selection=${NNN_SEL:-${XDG_CONFIG_HOME:-$HOME/.config}/nnn/.selection}
+if [ -s "$selection" ]; then
+  xargs -0 "$player" < "$selection"
+else
+  "$player" "$1"
+fi
+EOF
