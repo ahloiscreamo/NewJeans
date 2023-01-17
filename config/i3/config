@@ -1,6 +1,6 @@
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:Readex Pro Bold italic 0
+font pango:Readex Pro Bold italic 4
 title_align center
 
 # Start XDG autostart .desktop files using dex. See also
@@ -23,7 +23,7 @@ bindsym Mod1+Return exec kitty
 # window management
 # disable border
 #for_window [class="^.*"] border normal 0
-for_window [class="^.*"] border pixel 4
+for_window [class="^.*"] border pixel 6
 
 # Activate smart borders (always)
 smart_borders on
@@ -34,7 +34,7 @@ smart_borders on
 # Toggle title bar
 bindsym Mod1+t border normal 0
 bindsym Mod1+u border none
-bindsym Mod1+y border pixel 4
+bindsym Mod1+y border pixel 6
 
 # Farge
 bindsym Mod1+Shift+f --release exec farge
@@ -55,14 +55,14 @@ exec autotiling -w 1
 #for_window [class=".*"] [floating] move absolute position center
 for_window [class="kitty"] floating enable, border normal 0
 for_window [window_role="About"] floating enable
-for_window [class="mpv"] floating enable, border pixel 4, move absolute position center
+for_window [class="mpv"] floating enable, border pixel 6, move absolute position center
 for_window [title="Authy"] floating enable
 for_window [class="Yad"] floating enable
 #for_window [class="Sxiv"] floating enable, resize set 349px 440px
 for_window [class="cmusCoverViewer"] floating enable, border normal 0, resize set 280px 280px
 for_window [class="Thunar"] floating enable, move absolute position center
-for_window [class="Sxiv"] floating enable, border pixel 4
-for_window [class="Nsxiv"] floating enable, border pixel 4, resize set 709px 840px, move absolute position center
+for_window [class="Sxiv"] floating enable, border pixel 6
+for_window [class="Nsxiv"] floating enable, border pixel 6, resize set 709px 840px, move absolute position center
 for_window [class="firefox" window_role="Organizer"] floating enable
 for_window [class="Zathura"] floating enable, resize set 645 950, move absolute position center
 for_window [class="Gpick"] floating enable
