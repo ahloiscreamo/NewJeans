@@ -14,7 +14,7 @@ export NNN_VISUAL="nvim"
 export NNN_COLORS="5639"
 export NNN_FCOLORS="0B0B04060006060009060B06"
 export NNN_BMS='m:/mnt;g:/mnt/Kingston/gallery-dl/instagram;d:~/Downloads;p:~/Pictures;t:~/Documents;f:~/Desktop'
-export NNN_PLUG='a:addtoplaylist;j:autojump;p:preview-tui;l:launch;r:renamer;w:wallpaper;o:organize;x:xdgdefault'
+export NNN_PLUG='a:addtoplaylist;j:autojump;p:preview-tui;i:imgview;l:launch;r:renamer;w:wallpaper;o:organize;x:xdgdefault'
 
 #Googler
 #for Google Videos (any source)
@@ -48,6 +48,7 @@ alias ls="exa"
 alias ncdu="ncdu --color dark"
 alias cat="bat --paging=never"
 alias muc="muc --file ~/.local/share/fish/fish_history --count 10 --pretty --shell="fish""
+alias ytfzf="ytfzf -T kitty"
 
 #Firefox
 export MOZ_X11_EGL="1"
