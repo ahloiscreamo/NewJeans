@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#set video as wallpaper using xwinwrap and mpv - change path to your video!!
+
+xwinwrap -ov -g 1920x1080 -- mpv -wid %WID --panscan=1.0 --no-audio --no-osc --no-osd-bar --no-input-default-bindings --loop Videos/gradient.mp4
+
+
+
