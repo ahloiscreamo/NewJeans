@@ -7,9 +7,9 @@ SERVICE="mpv"
 MPVNP=$(ponymix list --short | awk -F '\t' '/sink-input/ && $4 == "mpv Media Player" {print $3}' ) ; 
 if pgrep -x "$SERVICE" >/dev/null ; then
 sleep 3
-dunstify -i "$icon" -r 100  "📺 MPV Now Playing  "  "$MPVNP" && echo -n  "$MPVNP" | osd_cat -A left -p bottom -f '-*-envy code r-*-*-*-*-22-*-*-*-*-*-*-*' -o 40 -c '#00ff00' -s2
+dunstify -i "$icon" -r 100  "📺 MPV Now Playing  "  "$MPVNP" && echo -n  "$MPVNP" | osd_cat -A left -p bottom -o 40 -c '#00ff00' -s2
 
 else
 echo /dev/null 2>&1
 fi
-
+#this script use xosd+ponymix dependencies.
