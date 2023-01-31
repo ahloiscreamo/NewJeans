@@ -12,8 +12,14 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'godlygeek/tabular'
 Plugin 'preservim/vim-markdown'
+Plugin 'rose-pine/vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
+
+"RosePine
+set background=dark
+colorscheme rosepine_moon
+let g:disable_bg = 1
 
 "Always show current position
 set ruler

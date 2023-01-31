@@ -8,9 +8,9 @@ export NNN_FIFO="/tmp/nnn.fifo nnn"
 export NNN_PREVIEW="/tmp/nnn-preview-tui-fifopid."
 export NNN_OPENER="xdg-open"
 export NNN_OPENER_DETACH=1
-export EDITOR="nvim"
-export NNN_EDITOR="/usr/bin/nvim"
-export NNN_VISUAL="nvim"
+export EDITOR="vim"
+export NNN_EDITOR="/usr/bin/vim"
+export NNN_VISUAL="vim"
 export NNN_COLORS="5639"
 export NNN_FCOLORS="0B0B04060006060009060B06"
 export NNN_BMS='m:/mnt;g:/mnt/Kingston/gallery-dl/instagram;d:~/Downloads;p:~/Pictures;t:~/Documents;f:~/Desktop'
@@ -90,9 +90,6 @@ export KUNST_MUSIC_DIR="/gallery/Music/"
 export FFF_W3M_XOFFSET=27
 export FFF_W3M_YOFFSET=13
 
-# Text Editor
-export EDITOR="nvim"
-
 # File Opener
 export FFF_OPENER="xdg-open"
 
@@ -119,6 +116,9 @@ export FFF_COL5=0
 
 # Pip packages path
 #export PATH="$HOME/.local/bin:$PATH"
+
+# Cargo Rust path
+export PATH="$HOME/.cargo/bin:$PATH"
 
 # fish 
 set -gx BROWSER firefox
