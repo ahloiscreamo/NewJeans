@@ -35,7 +35,8 @@ export FZF_DEFAULT_OPTS='
 '
 
 #Bat
-#export BAT_THEME="Nord"
+export BAT_THEME="Rose Pine Moon"
+#export BAT_THEME="Catppuccin-mocha"
 
 #Alias
 #alias nnn="nnn -r -e -x -D -C" 
