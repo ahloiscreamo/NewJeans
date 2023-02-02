@@ -6,6 +6,6 @@ Dotfile for Dec 2022 | I3WM | Rosé Pine colorscheme
 
 ![Screenshot from 2023-02-02 07-23-47](https://user-images.githubusercontent.com/9318372/216190342-316bd973-da29-40c5-a510-89041a7e5cdd.png)
 
-![Screenshot from 2023-01-18 04-08-05](https://user-images.githubusercontent.com/9318372/213001865-43abba0a-0108-414a-a6d3-95e0f252c370.png)
+![Screenshot from 2023-02-02 07-54-28](https://user-images.githubusercontent.com/9318372/216195025-6b17f4dc-4ee5-4c1c-9eee-b6a85f64d9cd.png)
 
 ![Screenshot from 2023-01-18 04-11-07](https://user-images.githubusercontent.com/9318372/213001935-ec8d3fab-e26a-44de-b773-7ab0e9687116.png)
