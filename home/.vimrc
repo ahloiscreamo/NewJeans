@@ -22,8 +22,7 @@ colorscheme rosepine_moon
 let g:disable_bg = 1
 
 " indentLine
-"let g:indentLine_setColors = 0
-let g:indentLine_color_term = 8
+let g:indentLine_color_term = 0
 
 "Always show current position
 set ruler
