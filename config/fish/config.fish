@@ -127,11 +127,6 @@ set -U fish_color_command 81a1c1
 set -U fish_color_match --background=blue
 set -U fish_color_user green
 
-# THEME PURE #
-set fish_function_path /home/ahloi/.config/fish/functions/theme-pure/functions/ $fish_function_path
-source /home/ahloi/.config/fish/functions/theme-pure/conf.d/pure.fish
-set -U pure_symbol_prompt "❯"
-set -U pure_symbol_reverse_prompt "❮"
-set -U pure_symbol_git_unpulled_commits "⇣"
-set -U pure_symbol_git_unpushed_commits "⇡"
+# Starship (https://github.com/starship/starship)
+starship init fish | source
 
