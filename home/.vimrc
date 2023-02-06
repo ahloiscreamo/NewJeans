@@ -13,6 +13,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'godlygeek/tabular'
 Plugin 'preservim/vim-markdown'
 Plugin 'rose-pine/vim'
+Plugin 'tpope/vim-sensible'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
