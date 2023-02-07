@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/322577.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Cosmic Coffee Time with Andrew Prestage</title>
+  <lastBuildDate>Tue, 07 Feb 2023 15:31:06 -0500</lastBuildDate>
+  <link>http://cosmiccoffeetime.buzzsprout.com</link>
+  <language>en-au</language>
+  <copyright>© 2023 Cosmic Coffee Time with Andrew Prestage</copyright>
+  <podcast:locked>yes</podcast:locked>
+<podcast:guid>eed99068-6926-5891-a370-231a63c9c866</podcast:guid>
+  <itunes:author>Andrew Prestage</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[It's cosmology in a cup! - Cosmic Coffee Time is bite sized podcasts making sense of space, astronomy, life, and the universe, best enjoyed with a coffee. A down to earth look at what's up there, and it's just for you spacefans. Grab a coffee and see where in the universe we go this time. Follow on Twitter @CosmicCoffTime]]></description>
+  <itunes:keywords>cosmic, coffee, time, cosmiccoffeetime, space, astronomy, universe, planets, sun, moon, cosmos, black hole, big bang, star, orbit, eclipse, </itunes:keywords>
+  <itunes:owner>
+    <itunes:name>Andrew Prestage</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/variants/qQ4h8A9TpiPuBY28mrYxTjbD/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad?.jpg</url>
+     <title>Cosmic Coffee Time with Andrew Prestage</title>
+     <link>http://cosmiccoffeetime.buzzsprout.com</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/variants/qQ4h8A9TpiPuBY28mrYxTjbD/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad?.jpg" />
+  <itunes:category text="Science" />
+  <itunes:category text="Science">
+    <itunes:category text="Astronomy" />
+  </itunes:category>
+  <itunes:category text="Science">
+    <itunes:category text="Natural Sciences" />
+  </itunes:category>
+  <item>
+    <itunes:title>#51 NASA&#39;s astronaut class of 1978. We have a compelling chat with Meredith Bagby about this ground breaking group of space shuttle astronauts, and her fascinating book The New Guys</itunes:title>
+    <title>#51 NASA&#39;s astronaut class of 1978. We have a compelling chat with Meredith Bagby about this ground breaking group of space shuttle astronauts, and her fascinating book The New Guys</title>
+    <description><![CDATA[<p>In 1978, NASA changed the rules around who could be selected as an astronaut. Civilian engineers, doctors and scientists could be selected to fly on the then brand new space shuttle. Meredith Bagby joins us to talk about this group, whose social backgrounds were as diverse as their professions. For the first time, the group included women and people of colour. <br/>There were triumphs with astronauts like Sally Ride and Greg Bluford, and tragedy when four of this talented group were lost in the Challenger disaster.<br/><br/>This is a compelling insight from Meredith, who had access to five astronauts from this historic class.<br/><br/>Find Meredith Bagby&apos;s book <b>The New Guys</b> <a href='https://www.harpercollins.com/products/the-new-guys-meredith-bagby?variant=40424020279330'><b>here</b></a> </p><p>You can request a topic for the show! Or even just say hi!</p><p>We&apos;d love to hear from you.</p><p>Email us!</p><p><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a><br/><br/>Follow Cosmic Coffee Time on Twitter for some special content</p><p><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a></p>]]></description>
+    <content:encoded><![CDATA[<p>In 1978, NASA changed the rules around who could be selected as an astronaut. Civilian engineers, doctors and scientists could be selected to fly on the then brand new space shuttle. Meredith Bagby joins us to talk about this group, whose social backgrounds were as diverse as their professions. For the first time, the group included women and people of colour. <br/>There were triumphs with astronauts like Sally Ride and Greg Bluford, and tragedy when four of this talented group were lost in the Challenger disaster.<br/><br/>This is a compelling insight from Meredith, who had access to five astronauts from this historic class.<br/><br/>Find Meredith Bagby&apos;s book <b>The New Guys</b> <a href='https://www.harpercollins.com/products/the-new-guys-meredith-bagby?variant=40424020279330'><b>here</b></a> </p><p>You can request a topic for the show! Or even just say hi!</p><p>We&apos;d love to hear from you.</p><p>Email us!</p><p><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a><br/><br/>Follow Cosmic Coffee Time on Twitter for some special content</p><p><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/5cbgyuy2gjn0mz1bla8muv6w044o/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Meredith Bagby</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/12189396-51-nasa-s-astronaut-class-of-1978-we-have-a-compelling-chat-with-meredith-bagby-about-this-ground-breaking-group-of-space-shuttle-astronauts-and-her-fascinating-book-the-new-guys.mp3" length="36831931" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12189396</guid>
+    <pubDate>Tue, 07 Feb 2023 01:00:00 +1100</pubDate>
+    <podcast:transcript url="https://feeds.buzzsprout.com/322577/12189396/transcript" type="text/html" />
+    <podcast:transcript url="https://feeds.buzzsprout.com/322577/12189396/transcript.json" type="application/json" />
+    <podcast:transcript url="https://feeds.buzzsprout.com/322577/12189396/transcript.srt" type="application/srt" />
+    <itunes:duration>3065</itunes:duration>
+    <itunes:keywords>New Guys, astronaut, Sally Ride, Meredith, Bagby, Meredith Bagby, first American woman, first African American, space, shuttle, bluford, book, interview, science, astronomy, challenger, columbia, launch, orbit, valentina, tereshkova, apollo, right stuff, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>51</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#50 We all love GPS, but what space science makes it work?</itunes:title>
+    <title>#50 We all love GPS, but what space science makes it work?</title>
+    <description><![CDATA[<p>We all love GPS. The Global Positioning System helps us navigate across country and across town, and it also shows us where our rideshare car is, or how far away our food delivery driver is. Take a look at what space science makes it work, and why it can still provide your coordinates even if you&apos;re miles away from any phone or data signal or Wi-Fi.<br/> <br/> Follow Cosmic Coffee Time on Twitter for some special content<br/> <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We all love GPS. The Global Positioning System helps us navigate across country and across town, and it also shows us where our rideshare car is, or how far away our food delivery driver is. Take a look at what space science makes it work, and why it can still provide your coordinates even if you&apos;re miles away from any phone or data signal or Wi-Fi.<br/> <br/> Follow Cosmic Coffee Time on Twitter for some special content<br/> <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/11876942-50-we-all-love-gps-but-what-space-science-makes-it-work.mp3" length="5140677" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11876942</guid>
+    <pubDate>Sun, 01 Jan 2023 01:00:00 +1100</pubDate>
+    <itunes:duration>425</itunes:duration>
+    <itunes:keywords>GPS, lunar, orbit, astronomy, cosmology, Global, Positioning, System, satellite, navigate, navigation, uber, astronomical, receiver, doppler, planet, solar system, defence, science, stem, star, stars, space, asteroid, nebula, astronaut,</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>50</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#49 The new Mars meteorite impact. NASA Insight has detected a new meteorite impact on Mars! Meteorite expert Greg Brennecka returns to talk about this breathtaking new discovery.</itunes:title>
+    <title>#49 The new Mars meteorite impact. NASA Insight has detected a new meteorite impact on Mars! Meteorite expert Greg Brennecka returns to talk about this breathtaking new discovery.</title>
+    <description><![CDATA[<p>Friend of Cosmic Coffee Time and expert meteoriticist Greg Brennecka returns to talk about the breathtaking detection of a new meteorite impact on Mars. Greg tells us how the impact was detected, and then confirmed with detailed imagery from Mars orbit. What does this tell us about the subsurface geology of Mars, and what does it mean for astrobiology and the future exploration of Mars and beyond?</p><p>It&apos;s a fascinating chat.</p><p><br/></p><p>Find Greg&apos;s book &apos;Impact&apos; at Harper Collins <a href='https://www.harpercollins.com/products/impact-greg-brennecka?variant=39350890201122'>here</a></p><p><br/></p><p>Follow Cosmic Coffee Time on Twitter for some special content</p><p><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a></p><p><br/></p><p>You can request a topic for the show! Or even just say hi!</p><p>We&apos;d love to hear from you.</p><p><br/></p><p>Email us!</p><p><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Friend of Cosmic Coffee Time and expert meteoriticist Greg Brennecka returns to talk about the breathtaking detection of a new meteorite impact on Mars. Greg tells us how the impact was detected, and then confirmed with detailed imagery from Mars orbit. What does this tell us about the subsurface geology of Mars, and what does it mean for astrobiology and the future exploration of Mars and beyond?</p><p>It&apos;s a fascinating chat.</p><p><br/></p><p>Find Greg&apos;s book &apos;Impact&apos; at Harper Collins <a href='https://www.harpercollins.com/products/impact-greg-brennecka?variant=39350890201122'>here</a></p><p><br/></p><p>Follow Cosmic Coffee Time on Twitter for some special content</p><p><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a></p><p><br/></p><p>You can request a topic for the show! Or even just say hi!</p><p>We&apos;d love to hear from you.</p><p><br/></p><p>Email us!</p><p><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage, Greg Brennecka</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/11719491-49-the-new-mars-meteorite-impact-nasa-insight-has-detected-a-new-meteorite-impact-on-mars-meteorite-expert-greg-brennecka-returns-to-talk-about-this-breathtaking-new-discovery.mp3" length="7494792" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11719491</guid>
+    <pubDate>Thu, 01 Dec 2022 01:00:00 +1100</pubDate>
+    <itunes:duration>621</itunes:duration>
+    <itunes:keywords>marsquake, marsquakes, mars, quake, earthquake, orbit, astronomy, cosmology, Insight, orbiter, meteorite, impact, richter, crater, water, reconnaissance, orbiter, ice, planet, solar system, satellite, science, stem, artemis, star, stars, space, nasa, seis</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>49</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#48 Caroline Herschel - So much more than just the sister of the guy who discovered Uranus</itunes:title>
+    <title>#48 Caroline Herschel - So much more than just the sister of the guy who discovered Uranus</title>
+    <description><![CDATA[<p>Caroline Herschel is probably best known as the sister of William Herschel, the person credited with the discovery of planet Uranus, but there&apos;s a lot more to her than this. Caroline was a great astronomer in her own right, having made numerous discoveries using telescopes she helped make herself. She was also an outstanding musician and was the first female professional astronomer in the world, and was recognised with the Gold Medal of the Royal Astronomical Society. <br/>Caroline Herschel achieved all this despite the life long effects of a significant childhood illness.<br/>Quite an incredible person.<br/> <br/> Follow Cosmic Coffee Time on Twitter for some special content<br/> <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Or even just say hi!<br/> We&apos;d love to hear from you.<br/> <br/> Email us!<br/> <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a><br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>Caroline Herschel is probably best known as the sister of William Herschel, the person credited with the discovery of planet Uranus, but there&apos;s a lot more to her than this. Caroline was a great astronomer in her own right, having made numerous discoveries using telescopes she helped make herself. She was also an outstanding musician and was the first female professional astronomer in the world, and was recognised with the Gold Medal of the Royal Astronomical Society. <br/>Caroline Herschel achieved all this despite the life long effects of a significant childhood illness.<br/>Quite an incredible person.<br/> <br/> Follow Cosmic Coffee Time on Twitter for some special content<br/> <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Or even just say hi!<br/> We&apos;d love to hear from you.<br/> <br/> Email us!<br/> <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a><br/><br/></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/11554671-48-caroline-herschel-so-much-more-than-just-the-sister-of-the-guy-who-discovered-uranus.mp3" length="4748277" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11554671</guid>
+    <pubDate>Tue, 01 Nov 2022 01:00:00 +1100</pubDate>
+    <itunes:duration>392</itunes:duration>
+    <itunes:keywords>Caroline, Herschel, Caroline Herschel, William, William Herschel, lunar, orbit, astronomy, cosmology, Hanover, Comet, cluster, NGC, discovery, female, astronomer, astronomical, royal, society, planet, solar system, Bath, science, stem, 1700s, star, stars,</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>48</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#47 Have you ever heard of moonquakes? Let&#39;s take a look at how different they are from earthquakes.</itunes:title>
+    <title>#47 Have you ever heard of moonquakes? Let&#39;s take a look at how different they are from earthquakes.</title>
+    <description><![CDATA[<p>For a long time we speculated that there might have been earthquakes on the moon, we call them moonquakes. How did we eventually detect them, and what makes them so different from earthquakes?<br/>Let&apos;s take a look and figure out what&apos;s going on there.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>For a long time we speculated that there might have been earthquakes on the moon, we call them moonquakes. How did we eventually detect them, and what makes them so different from earthquakes?<br/>Let&apos;s take a look and figure out what&apos;s going on there.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/11350215-47-have-you-ever-heard-of-moonquakes-let-s-take-a-look-at-how-different-they-are-from-earthquakes.mp3" length="4552065" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11350215</guid>
+    <pubDate>Sat, 01 Oct 2022 01:00:00 +1000</pubDate>
+    <itunes:duration>376</itunes:duration>
+    <itunes:keywords>moonquake, moonquakes, moon, quake, earthquake, lunar, orbit, astronomy, cosmology, apollo, armstrong, aldrin, seismic, richter, fault, thrust, reconnaissance, orbiter, damping, planet, solar system, satellite, science, stem, artemis, star, stars, space, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>47</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#46 Meteorite expert Greg Brennecka returns to the podcast to talk about the Nadir crater. An exciting new discovery that could be a 66 million year old meteorite impact.</itunes:title>
+    <title>#46 Meteorite expert Greg Brennecka returns to the podcast to talk about the Nadir crater. An exciting new discovery that could be a 66 million year old meteorite impact.</title>
+    <description><![CDATA[<p>Expert meteoriticist and friend of Cosmic Coffee Time Greg Brennecka returns to talk about an exciting development in the meteorite impact scene, the Nadir crater. This newly discovered undersea structure off the coast of Guinea in western Africa is a proposed meteorite impact site. How was this discovered? when did the impact happen and how do we know if the impactor hit land or sea.<br/>It&apos;s a fascinating chat.<br/><br/>Find Greg&apos;s book &apos;Impact&apos; at Harper Collins <a href='https://www.harpercollins.com/products/impact-greg-brennecka?variant=39350890201122'>here </a><br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Expert meteoriticist and friend of Cosmic Coffee Time Greg Brennecka returns to talk about an exciting development in the meteorite impact scene, the Nadir crater. This newly discovered undersea structure off the coast of Guinea in western Africa is a proposed meteorite impact site. How was this discovered? when did the impact happen and how do we know if the impactor hit land or sea.<br/>It&apos;s a fascinating chat.<br/><br/>Find Greg&apos;s book &apos;Impact&apos; at Harper Collins <a href='https://www.harpercollins.com/products/impact-greg-brennecka?variant=39350890201122'>here </a><br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Greg Brennecka</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/11205661-46-meteorite-expert-greg-brennecka-returns-to-the-podcast-to-talk-about-the-nadir-crater-an-exciting-new-discovery-that-could-be-a-66-million-year-old-meteorite-impact.mp3" length="5639942" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11205661</guid>
+    <pubDate>Thu, 01 Sep 2022 01:00:00 +1000</pubDate>
+    <itunes:duration>466</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, Nadir, Guinea, west Africa, western Africa, star, stars, impact, telescope, Greg Brennecka, Brennecka, meteorite, extinction, dinosaur, science, dinosaurs, mass extinction, asteroid, comet, solar system</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>46</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#45 NASA&#39;s Dragonfly mission to Saturn&#39;s moon, Titan. A drone is going to fly in the atmosphere of Saturn&#39;s largest moon. Incredible!</itunes:title>
+    <title>#45 NASA&#39;s Dragonfly mission to Saturn&#39;s moon, Titan. A drone is going to fly in the atmosphere of Saturn&#39;s largest moon. Incredible!</title>
+    <description><![CDATA[<p>NASA is planning to fly a drone in the atmosphere of the second largest natural satellite in the solar system, Saturn&apos;s Titan. What is that drone going to look like, how is it going to get there and what sort of science is it going to do when it gets there?<br/>It&apos;s an audacious project, and we take a look here.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>NASA is planning to fly a drone in the atmosphere of the second largest natural satellite in the solar system, Saturn&apos;s Titan. What is that drone going to look like, how is it going to get there and what sort of science is it going to do when it gets there?<br/>It&apos;s an audacious project, and we take a look here.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/11008980-45-nasa-s-dragonfly-mission-to-saturn-s-moon-titan-a-drone-is-going-to-fly-in-the-atmosphere-of-saturn-s-largest-moon-incredible.mp3" length="4623602" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11008980</guid>
+    <pubDate>Mon, 01 Aug 2022 01:00:00 +1000</pubDate>
+    <itunes:duration>382</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, Saturn, Dragonfly, robotic, gas giant, star, stars, gas giants, telescope, Cassini, Galileo, Voyager, moon, moons, science, Titan, nasa, probe, apollo, planet, atmosphere, telescope, drone, helicopter, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>45</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#44 About that black hole at the centre of our galaxy... Now we&#39;ve got a picture! Sagittarius A*</itunes:title>
+    <title>#44 About that black hole at the centre of our galaxy... Now we&#39;ve got a picture! Sagittarius A*</title>
+    <description><![CDATA[<p>Scientists have long held a theory that there was a black hole in the centre of our milky way galaxy. This was proved some years ago but we&apos;ve finally got an image of it from real observational data. It&apos;s a fascinating story.<br/>Let&apos;s take a closer look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Scientists have long held a theory that there was a black hole in the centre of our milky way galaxy. This was proved some years ago but we&apos;ve finally got an image of it from real observational data. It&apos;s a fascinating story.<br/>Let&apos;s take a closer look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/10846507-44-about-that-black-hole-at-the-centre-of-our-galaxy-now-we-ve-got-a-picture-sagittarius-a.mp3" length="5105691" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10846507</guid>
+    <pubDate>Fri, 01 Jul 2022 01:00:00 +1000</pubDate>
+    <itunes:duration>422</itunes:duration>
+    <itunes:keywords>Astronomy, space, black hole, cosmology, planet, planets, asteroid, asteroids, radio telescope, black holes, moons, Sagittarius, A*, star, stars, ,*,M87, moon, M87*, galaxy, milky way, event horizon, event horizon collaboration, science, radio telescope, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>44</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#43 Let&#39;s take a look at Sunspots. What are those darker spots on the surface of the sun?</itunes:title>
+    <title>#43 Let&#39;s take a look at Sunspots. What are those darker spots on the surface of the sun?</title>
+    <description><![CDATA[<p>Sunspots are darker and cooler areas on the surface of the sun. What causes them? How long do they last? And how do they fit into the 11 year cycle of solar activity?<br/>Let&apos;s take a look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Sunspots are darker and cooler areas on the surface of the sun. What causes them? How long do they last? And how do they fit into the 11 year cycle of solar activity?<br/>Let&apos;s take a look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/10690514-43-let-s-take-a-look-at-sunspots-what-are-those-darker-spots-on-the-surface-of-the-sun.mp3" length="4045208" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10690514</guid>
+    <pubDate>Wed, 01 Jun 2022 01:00:00 +1000</pubDate>
+    <itunes:duration>333</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, Sun, spot, planet, planets, sunspot, sunspots, solar, cycle, star, maximum, minimum, photosphere, surface, spacecraft, solar system, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>43</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#42 Pulsars. What are these incredible objects and what makes them pulse?</itunes:title>
+    <title>#42 Pulsars. What are these incredible objects and what makes them pulse?</title>
+    <description><![CDATA[<p>You might have heard of pulsars. They&apos;re objects that emit regular pulses of radiation. But what are they, how do they form, and what makes them pulse?<br/><br/>Let&apos;s take a look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>You might have heard of pulsars. They&apos;re objects that emit regular pulses of radiation. But what are they, how do they form, and what makes them pulse?<br/><br/>Let&apos;s take a look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/10504718-42-pulsars-what-are-these-incredible-objects-and-what-makes-them-pulse.mp3" length="5239495" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10504718</guid>
+    <pubDate>Sun, 01 May 2022 01:00:00 +1000</pubDate>
+    <itunes:duration>433</itunes:duration>
+    <itunes:keywords>Astronomy, space, pulsar, cosmology, neutron, radio telescope, quasar, neutron star, electron, proton, seti, intelligent life, clock, radiation, x-ray, gamma, ray, rays, exploration, intelligence, extraterrestrial, telescope, moon, full moon</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>42</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#41 Galileo. His observations in 1610 changed a lot of what we knew about astronomy. Let&#39;s see what he found.</itunes:title>
+    <title>#41 Galileo. His observations in 1610 changed a lot of what we knew about astronomy. Let&#39;s see what he found.</title>
+    <description><![CDATA[<p>Galileo Galilei Made some incredible observations of the moon and was a real pioneer in calculating the height of some of the moon&apos;s geological features. In 1610 he turned the world of planetary astronomy on its head. He described the phases of Venus, came agonisingly close to discovering the true nature of Saturn&apos;s rings, and studied what became to be his namesake system, the four Galilean moons of Jupiter.<br/><br/>Let&apos;s take a look.<br/><br/>Follow Cosmic Coffee Time on Twitter<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Galileo Galilei Made some incredible observations of the moon and was a real pioneer in calculating the height of some of the moon&apos;s geological features. In 1610 he turned the world of planetary astronomy on its head. He described the phases of Venus, came agonisingly close to discovering the true nature of Saturn&apos;s rings, and studied what became to be his namesake system, the four Galilean moons of Jupiter.<br/><br/>Let&apos;s take a look.<br/><br/>Follow Cosmic Coffee Time on Twitter<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/10315426-41-galileo-his-observations-in-1610-changed-a-lot-of-what-we-knew-about-astronomy-let-s-see-what-he-found.mp3" length="4767482" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10315426</guid>
+    <pubDate>Fri, 01 Apr 2022 01:00:00 +1100</pubDate>
+    <itunes:duration>394</itunes:duration>
+    <itunes:keywords>Astronomy, space, lunar, cosmology, Galileo, planets, Galilean, Jupiter, Io, Europa, Ganymede, Callisto, moons, Saturn, rings, Venus, phases, heliocentric, 1610, Pisa, Florence, Renaissance, scientific revolution, heresy, Galilei, Io, Europa, Ganymede, Ca</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>41</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#40 Binary stars. Would you believe that most of the stars we see aren&#39;t just single stars? Incredible I know!</itunes:title>
+    <title>#40 Binary stars. Would you believe that most of the stars we see aren&#39;t just single stars? Incredible I know!</title>
+    <description><![CDATA[<p>As many as 80% of the stars we see in the night sky could be part of a binary system, two or more stars orbiting each other.<br/>So what it a binary system and how can we observe them? We know single stars like our own sun can have a system of planets, but what does that look like for stars in a binary system.<br/><br/>Let&apos;s take a look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>As many as 80% of the stars we see in the night sky could be part of a binary system, two or more stars orbiting each other.<br/>So what it a binary system and how can we observe them? We know single stars like our own sun can have a system of planets, but what does that look like for stars in a binary system.<br/><br/>Let&apos;s take a look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/10134519-40-binary-stars-would-you-believe-that-most-of-the-stars-we-see-aren-t-just-single-stars-incredible-i-know.mp3" length="4463732" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10134519</guid>
+    <pubDate>Tue, 01 Mar 2022 01:00:00 +1100</pubDate>
+    <itunes:duration>368</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, binary, alpha centauri, planet, planets, asteroid, asteroids, spectroscopic, astrometric, star, planetary, eclipsing, binary star, double,</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>40</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#39 Meteorites! We meet with noted meteoriticist Greg Brennecka to talk meteorites, the origins of life on Earth, and his new book &#39;Impact&#39;</itunes:title>
+    <title>#39 Meteorites! We meet with noted meteoriticist Greg Brennecka to talk meteorites, the origins of life on Earth, and his new book &#39;Impact&#39;</title>
+    <description><![CDATA[<p>Until the Apollo moon landings, our only samples of material from space were in the form of meteorites. These meteorites gave us an insight into the origins of our solar system, and might even have provided the complex organic molecules that allowed life to develop on our planet. </p><p>In this episode we have an awesome chat with noted meteoriticist Greg Brennecka. We explore some of the history of meteorite research, the origins of life on Earth and the free samples of Mars rock that arrived on Earth in the form of meteorites. Greg also gives us a highlights package from his new book &apos;Impact, How Rocks From Space Led to Life, Culture, and Donkey Kong&apos;.<br/><br/>Meteorites might have brought the ingredients of life to Earth, but they&apos;ve caused some mass extinctions as well. &quot;...the meteorites giveth, and the meteorites taketh away.&quot; This is a fascinating insight.<br/><br/><b>Find Greg&apos;s book &apos;Impact&apos; </b><a href='https://www.harpercollins.com/products/impact-greg-brennecka?variant=39350890201122'><b>here</b></a><br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Until the Apollo moon landings, our only samples of material from space were in the form of meteorites. These meteorites gave us an insight into the origins of our solar system, and might even have provided the complex organic molecules that allowed life to develop on our planet. </p><p>In this episode we have an awesome chat with noted meteoriticist Greg Brennecka. We explore some of the history of meteorite research, the origins of life on Earth and the free samples of Mars rock that arrived on Earth in the form of meteorites. Greg also gives us a highlights package from his new book &apos;Impact, How Rocks From Space Led to Life, Culture, and Donkey Kong&apos;.<br/><br/>Meteorites might have brought the ingredients of life to Earth, but they&apos;ve caused some mass extinctions as well. &quot;...the meteorites giveth, and the meteorites taketh away.&quot; This is a fascinating insight.<br/><br/><b>Find Greg&apos;s book &apos;Impact&apos; </b><a href='https://www.harpercollins.com/products/impact-greg-brennecka?variant=39350890201122'><b>here</b></a><br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/zio7324d2mzkb7mzmtuvez0k2r94/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Greg Brennecka</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/9917085-39-meteorites-we-meet-with-noted-meteoriticist-greg-brennecka-to-talk-meteorites-the-origins-of-life-on-earth-and-his-new-book-impact.mp3" length="22257758" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9917085</guid>
+    <pubDate>Tue, 01 Feb 2022 01:00:00 +1100</pubDate>
+    <itunes:duration>1851</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, meteorites, meteorite, planet, planets, Greg, Brennecka, Murchison, meteoritics, star, meteoriticist, dinosaurs, crater, impact, Mars, solar system, extinction, life, origin, science, geology, cosmochemist</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>39</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#38 The amazing Mars Perseverance rover and Ingenuity helicopter. Let&#39;s take a look at the Mars 2020 project</itunes:title>
+    <title>#38 The amazing Mars Perseverance rover and Ingenuity helicopter. Let&#39;s take a look at the Mars 2020 project</title>
+    <description><![CDATA[<p>From Mars rovers that were the size of a microwave oven back in the 90s, we now have the Perseverance rover that&apos;s the size of a car. And a helicopter. <br/>We take a look at the amazing Mars 2020 project that is taking Mars exploration to the next level.  It&apos;s collecting samples for future return to Earth and the Ingenuity helicopter is flying through the Martian atmosphere - carrying a small piece of cloth from the Wright brothers&apos; plane.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>From Mars rovers that were the size of a microwave oven back in the 90s, we now have the Perseverance rover that&apos;s the size of a car. And a helicopter. <br/>We take a look at the amazing Mars 2020 project that is taking Mars exploration to the next level.  It&apos;s collecting samples for future return to Earth and the Ingenuity helicopter is flying through the Martian atmosphere - carrying a small piece of cloth from the Wright brothers&apos; plane.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/9737209-38-the-amazing-mars-perseverance-rover-and-ingenuity-helicopter-let-s-take-a-look-at-the-mars-2020-project.mp3" length="5282823" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9737209</guid>
+    <pubDate>Sat, 01 Jan 2022 01:00:00 +1100</pubDate>
+    <itunes:duration>436</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, moon, Mars, planet, planets, asteroid, asteroids, Perseverance, Apollo, star, rover, sample return, Ingenuity, helicopter, astronaut, astronauts, 2020, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>38</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#37 What&#39;s in that unexpected gap between Mars and Jupiter? Let&#39;s take a look at the asteroid belt - a fascinating element of our solar system</itunes:title>
+    <title>#37 What&#39;s in that unexpected gap between Mars and Jupiter? Let&#39;s take a look at the asteroid belt - a fascinating element of our solar system</title>
+    <description><![CDATA[<p>There&apos;s a strange gap between the orbits of Mars and Jupiter, a gap where Bode&apos;s law says we would expect the fifth planet to be. There&apos;s no planet there, but there&apos;s something else that&apos;s just as amazing, it&apos;s the asteroid belt. Let&apos;s take a look at the four main asteroids and see what makes up the other million identified objects. <br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>There&apos;s a strange gap between the orbits of Mars and Jupiter, a gap where Bode&apos;s law says we would expect the fifth planet to be. There&apos;s no planet there, but there&apos;s something else that&apos;s just as amazing, it&apos;s the asteroid belt. Let&apos;s take a look at the four main asteroids and see what makes up the other million identified objects. <br/><br/>Follow Cosmic Coffee Time on Twitter for some special content<br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us!<br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p><p><br/></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/9568258-37-what-s-in-that-unexpected-gap-between-mars-and-jupiter-let-s-take-a-look-at-the-asteroid-belt-a-fascinating-element-of-our-solar-system.mp3" length="4934940" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9568258</guid>
+    <pubDate>Wed, 01 Dec 2021 01:00:00 +1100</pubDate>
+    <itunes:duration>407</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, meteor, meteorite, planet, planets, asteroid, asteroids, meteors, belt, asteroid belt, Ceres, Vesta, Hygeia, Pallas, Mars, Jupiter, Bode, Bode&#39;s, Bode&#39;s law solar system, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>37</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#36 The Voyager spacecraft. Voyager 1 and Voyager 2 are the furthest travelled objects ever made by humans. What did they find on the grand tour of the solar system? And where are they now?</itunes:title>
+    <title>#36 The Voyager spacecraft. Voyager 1 and Voyager 2 are the furthest travelled objects ever made by humans. What did they find on the grand tour of the solar system? And where are they now?</title>
+    <description><![CDATA[<p>Voyager 1 took the famous photograph the Pale Blue Dot. It&apos;s the furthest travelled machine ever made by people. At 23 billion km, it takes nearly a full day for its radio signals to reach us. <br/>Voyager 2 toured all of the gas planets in our solar system and remains the only spacecraft to have visited Uranus and Neptune.<br/>But it gets even better. Both of these 1970s tech spacecraft are still operating in interstellar space and sending data back to earth.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us! <br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Voyager 1 took the famous photograph the Pale Blue Dot. It&apos;s the furthest travelled machine ever made by people. At 23 billion km, it takes nearly a full day for its radio signals to reach us. <br/>Voyager 2 toured all of the gas planets in our solar system and remains the only spacecraft to have visited Uranus and Neptune.<br/>But it gets even better. Both of these 1970s tech spacecraft are still operating in interstellar space and sending data back to earth.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/><a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email us! <br/><a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/9452655-36-the-voyager-spacecraft-voyager-1-and-voyager-2-are-the-furthest-travelled-objects-ever-made-by-humans-what-did-they-find-on-the-grand-tour-of-the-solar-system-and-where-are-they-now.mp3" length="5907730" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9452655</guid>
+    <pubDate>Mon, 01 Nov 2021 01:00:00 +1100</pubDate>
+    <itunes:duration>489</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, Voyager, Voyager 1, Voyager 2, gas giant, star, stars, gas giants, interstellar, deep space network, space probe, mission, Jupiter, NASA, moon, moons, Io, Europa, Ganymede, Callisto, science, STEM, Uran</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>36</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#35 Planet Neptune. The most distant major planet in our solar system and the first to be located by mathematical calculations. Let&#39;s take a look.</itunes:title>
+    <title>#35 Planet Neptune. The most distant major planet in our solar system and the first to be located by mathematical calculations. Let&#39;s take a look.</title>
+    <description><![CDATA[<p>Neptune. Something was perturbing Uranus&apos; orbit, turns out it was the eighth planet, Neptune. Neptune was the first planet to have its existence and position calculated before it was discovered. Let&apos;s take a look at Neptune and its major moon Triton.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/>twitter.com/CosmicCoffTime<br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email it to <br/>cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Neptune. Something was perturbing Uranus&apos; orbit, turns out it was the eighth planet, Neptune. Neptune was the first planet to have its existence and position calculated before it was discovered. Let&apos;s take a look at Neptune and its major moon Triton.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/>twitter.com/CosmicCoffTime<br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email it to <br/>cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/9271140-35-planet-neptune-the-most-distant-major-planet-in-our-solar-system-and-the-first-to-be-located-by-mathematical-calculations-let-s-take-a-look.mp3" length="4577593" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9271140</guid>
+    <pubDate>Fri, 01 Oct 2021 01:00:00 +1000</pubDate>
+    <itunes:duration>378</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, scooter, asteroids, Neptune, Triton, star, stars, Voyager, ice giant, gas giant, ice, giant, gas, Jupiter, moon, moons, Uranus, orbit, galle, science, crater, perturbing, tide, perturbed, lunar, moon ro</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>35</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#34 Planet Uranus. Is that how you say it? The ice giant that was the first planet that needed to be &#39;discovered&#39;.</itunes:title>
+    <title>#34 Planet Uranus. Is that how you say it? The ice giant that was the first planet that needed to be &#39;discovered&#39;.</title>
+    <description><![CDATA[<p>Uranus. Stop giggling, is the first planet to be discovered by telescope. The inner planets have always been known about, but Uranus need to wait until the telescope was invented.<br/>Let&apos;s take a closer look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/>twitter.com/CosmicCoffTime<br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email it to <br/>cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Uranus. Stop giggling, is the first planet to be discovered by telescope. The inner planets have always been known about, but Uranus need to wait until the telescope was invented.<br/>Let&apos;s take a closer look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/>twitter.com/CosmicCoffTime<br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email it to <br/>cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/9106304-34-planet-uranus-is-that-how-you-say-it-the-ice-giant-that-was-the-first-planet-that-needed-to-be-discovered.mp3" length="4485369" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-9106304</guid>
+    <pubDate>Wed, 01 Sep 2021 01:00:00 +1000</pubDate>
+    <itunes:duration>370</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, Uranus, ice giant, ice giants, gas giant, star, stars, gas giants, telescope, herschel, Jupiter, Voyager, moon, moons, science, crater, eclipse, tide, apollo, lunar, moon rock, telescope, moon, full moo</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>34</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#33 Planet Jupiter. It&#39;s more than twice the mass of all the other planets combined and it&#39;s a gas giant. What makes Jupiter different from the rocky terrestrial planets, and does it really have planetary rings?</itunes:title>
+    <title>#33 Planet Jupiter. It&#39;s more than twice the mass of all the other planets combined and it&#39;s a gas giant. What makes Jupiter different from the rocky terrestrial planets, and does it really have planetary rings?</title>
+    <description><![CDATA[<p>Jupiter is the first of the gas giant planets. Let&apos;s take a look at what makes these planets different from the inner planets. It has a fascinating set of moons that help make up the Jovian system, and we find out how it subtle set of planetary rings were discovered.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/>twitter.com/CosmicCoffTime<br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email it to <br/>cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Jupiter is the first of the gas giant planets. Let&apos;s take a look at what makes these planets different from the inner planets. It has a fascinating set of moons that help make up the Jovian system, and we find out how it subtle set of planetary rings were discovered.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/>twitter.com/CosmicCoffTime<br/><br/>You can request a topic for the show! Or even just say hi!<br/>We&apos;d love to hear from you.<br/><br/>Email it to <br/>cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/8935994-33-planet-jupiter-it-s-more-than-twice-the-mass-of-all-the-other-planets-combined-and-it-s-a-gas-giant-what-makes-jupiter-different-from-the-rocky-terrestrial-planets-and-does-it-really-have-planetary-rings.mp3" length="4399673" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8935994</guid>
+    <pubDate>Sun, 01 Aug 2021 01:00:00 +1000</pubDate>
+    <itunes:duration>363</itunes:duration>
+    <itunes:keywords>Astronomy, space, Jupiter, cosmology, planet, planets, asteroid, asteroids, radio telescope, Galilean, moons, Voyager, Clipper, star, stars, ,Jupiter ,Galilean, moon, moons, Io, Europa, Ganymede, Callisto, science, crater, eclipse, tide, Apollo, lunar, mo</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>33</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#32 Kate the Chemist special. We meet with Dr. Kate Biberdorf to talk STEM, TV&#39;s Ice Road Truckers, and her new book It&#39;s Elemental</itunes:title>
+    <title>#32 Kate the Chemist special. We meet with Dr. Kate Biberdorf to talk STEM, TV&#39;s Ice Road Truckers, and her new book It&#39;s Elemental</title>
+    <description><![CDATA[<p>How do you keep a chemistry class&apos;s attention in the age of smart phones? Explosions, loud noises and passion! That&apos;s how Kate the Chemist does it. Dr. Kate Biberdorf is a professor of chemistry at the University of Texas and she&apos;s a science entertainer. She amazed Stephen Colbert with the elephant&apos;s toothpaste experiment on Late Night, and blasted a thousand ping pong balls into the air on the Kelly Clarkson Show.<br/><br/>She took a break from exploding hydrogen balloons and breathing fire to have an awesome chat with us about her STEM army, firing up kids&apos; imaginations with science and exploding a few myths about women in STEM. Her new book It&apos;s Elemental reveals the hidden science in everyday life.<br/><br/>Check out It&apos;s Elemental here - <a href='http://harpercollins.com/products/its-elemental-kate-biberdorf?variant=39307415388194'>harpercollins.com/products/its-elemental-kate-biberdorf?variant=39307415388194</a><br/><br/>Kate&apos;s website - <a href='http://katethechemist.com'>katethechemist.com</a><br/><br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>How do you keep a chemistry class&apos;s attention in the age of smart phones? Explosions, loud noises and passion! That&apos;s how Kate the Chemist does it. Dr. Kate Biberdorf is a professor of chemistry at the University of Texas and she&apos;s a science entertainer. She amazed Stephen Colbert with the elephant&apos;s toothpaste experiment on Late Night, and blasted a thousand ping pong balls into the air on the Kelly Clarkson Show.<br/><br/>She took a break from exploding hydrogen balloons and breathing fire to have an awesome chat with us about her STEM army, firing up kids&apos; imaginations with science and exploding a few myths about women in STEM. Her new book It&apos;s Elemental reveals the hidden science in everyday life.<br/><br/>Check out It&apos;s Elemental here - <a href='http://harpercollins.com/products/its-elemental-kate-biberdorf?variant=39307415388194'>harpercollins.com/products/its-elemental-kate-biberdorf?variant=39307415388194</a><br/><br/>Kate&apos;s website - <a href='http://katethechemist.com'>katethechemist.com</a><br/><br/><br/></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/ur44wu01vamdsiytucror0wevnsb/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Kate the Chemist</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/8848625-32-kate-the-chemist-special-we-meet-with-dr-kate-biberdorf-to-talk-stem-tv-s-ice-road-truckers-and-her-new-book-it-s-elemental.mp3" length="14715222" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8848625</guid>
+    <pubDate>Tue, 13 Jul 2021 01:00:00 +1000</pubDate>
+    <podcast:transcript url="https://feeds.buzzsprout.com/322577/8848625/transcript" type="text/html" />
+    <itunes:duration>1222</itunes:duration>
+    <itunes:keywords>Kate the Chemist, Stem, women, chemistry, science, explosion, explosions, kelly clarkson, stephen colbert, It&#39;s Elemental, the hidden chemistry in everything, harpercollins</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>32</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#31 A conversation with Earl Swift about NASA&#39;s lunar rovers and his new book - Across the Airless Wilds</itunes:title>
+    <title>#31 A conversation with Earl Swift about NASA&#39;s lunar rovers and his new book - Across the Airless Wilds</title>
+    <description><![CDATA[<p>We have a great chat with Earl Swift about NASA&apos;s lunar rovers and his new book Across the Airless Wilds. It&apos;s a fascinating dive into the last three moon landings and what could be regarded as the pinnacle of human exploration.<br/>Earl recounts his time with astronauts Charlie Duke and Dave Scott, and Laszlo Kestay from the United States Geological Survey, and gives us some incredible insights into the the design process of the lunar rovers and their place in the history of exploration.<br/><br/>Earl&apos;s website is: <a href='http://earlswift.com'>earlswift.com</a><br/><br/>Watch the lunar rover in action on the moon - the Lunar Grand Prix film: <a href='http://youtube.com/watch?v=az9nFrnCK60'>youtube.com/watch?v=az9nFrnCK60</a><br/><br/>Find Across the Airless Wilds: <a href='http://harpercollins.com/products/across-the-airless-wilds-earl-swift?variant=32915592249378 '>harpercollins.com/products/across-the-airless-wilds-earl-swift?variant=32915592249378 </a></p>]]></description>
+    <content:encoded><![CDATA[<p>We have a great chat with Earl Swift about NASA&apos;s lunar rovers and his new book Across the Airless Wilds. It&apos;s a fascinating dive into the last three moon landings and what could be regarded as the pinnacle of human exploration.<br/>Earl recounts his time with astronauts Charlie Duke and Dave Scott, and Laszlo Kestay from the United States Geological Survey, and gives us some incredible insights into the the design process of the lunar rovers and their place in the history of exploration.<br/><br/>Earl&apos;s website is: <a href='http://earlswift.com'>earlswift.com</a><br/><br/>Watch the lunar rover in action on the moon - the Lunar Grand Prix film: <a href='http://youtube.com/watch?v=az9nFrnCK60'>youtube.com/watch?v=az9nFrnCK60</a><br/><br/>Find Across the Airless Wilds: <a href='http://harpercollins.com/products/across-the-airless-wilds-earl-swift?variant=32915592249378 '>harpercollins.com/products/across-the-airless-wilds-earl-swift?variant=32915592249378 </a></p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/ieqziuecwgon1tw7i5zwmgspfxnl/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Earl Swift</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/8755273-31-a-conversation-with-earl-swift-about-nasa-s-lunar-rovers-and-his-new-book-across-the-airless-wilds.mp3" length="15562425" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8755273</guid>
+    <pubDate>Tue, 06 Jul 2021 01:00:00 +1000</pubDate>
+    <podcast:transcript url="https://feeds.buzzsprout.com/322577/8755273/transcript" type="text/html" />
+    <itunes:duration>1290</itunes:duration>
+    <itunes:keywords>Astronomy, space, lunar, cosmology, rover, planets, earl swift, charlie duke, Dave Scott, Apollo 15, Apollo 16, Apollo 17, GM, Bendix, Across, the, airless, wilds, exploration, intelligence, extraterrestrial, Jupiter, Galilean, moon, moons, Io, Europa, Ga</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>31</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#30 Planet Mars. Lets take a look at the friendliest planet beyond Earth and some of the cool spacecraft that have been there</itunes:title>
+    <title>#30 Planet Mars. Lets take a look at the friendliest planet beyond Earth and some of the cool spacecraft that have been there</title>
+    <description><![CDATA[<p>There&apos;s a lot about Mars that is very Earth-like, from the length of a day to the kinds of seasons it has. Being a neighbouring planet, it&apos;s no surprise that we talk about sending astronauts to Mars. <br/>While we&apos;re waiting, let&apos;s take a look at some of the super cool spacecraft that have already been to Mars.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/>twitter.com/CosmicCoffTime<br/><br/>You can request a topic for the show!<br/>Email it to <br/>cosmiccoffeetime@gmail.com<br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>There&apos;s a lot about Mars that is very Earth-like, from the length of a day to the kinds of seasons it has. Being a neighbouring planet, it&apos;s no surprise that we talk about sending astronauts to Mars. <br/>While we&apos;re waiting, let&apos;s take a look at some of the super cool spacecraft that have already been to Mars.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <br/>twitter.com/CosmicCoffTime<br/><br/>You can request a topic for the show!<br/>Email it to <br/>cosmiccoffeetime@gmail.com<br/><br/></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/8755406-30-planet-mars-lets-take-a-look-at-the-friendliest-planet-beyond-earth-and-some-of-the-cool-spacecraft-that-have-been-there.mp3" length="5484418" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8755406</guid>
+    <pubDate>Thu, 01 Jul 2021 01:00:00 +1000</pubDate>
+    <itunes:duration>453</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, Mars, Perseverance, rover, moon, Opportunity, Curiosity, Ingenuity, Viking, lander, orbiter, Apollo, Mariner, NASA, Phobos, Diemos, Io, Europa, Ganymede, Callisto, science, exploration, space race, Arms</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>30</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#29 Planet Earth. Let&#39;s take a look at our home - as a planet, in a solar system.</itunes:title>
+    <title>#29 Planet Earth. Let&#39;s take a look at our home - as a planet, in a solar system.</title>
+    <description><![CDATA[<p>Earth. It&apos;s home to every living thing we&apos;ve ever known, but what if we really take a step back and study our planet the same way we study the others. What everyday events have an astronomical cause. And what about all that water, and all that life!<br/><br/>Grab a coffee and join us for a view of our own planet, from outside.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Earth. It&apos;s home to every living thing we&apos;ve ever known, but what if we really take a step back and study our planet the same way we study the others. What everyday events have an astronomical cause. And what about all that water, and all that life!<br/><br/>Grab a coffee and join us for a view of our own planet, from outside.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/8602179-29-planet-earth-let-s-take-a-look-at-our-home-as-a-planet-in-a-solar-system.mp3" length="4813819" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8602179</guid>
+    <pubDate>Tue, 01 Jun 2021 01:00:00 +1000</pubDate>
+    <itunes:duration>397</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, Earth, water, life, seasons, star, stars, earth, home, intelligent, intelligence, third, atmosphere, solstice, moon, moons, equinox, tides, eclipse, tide, apollo, lunar, moon rock, telescope, moon, full</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>29</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#28 Planet Venus. It&#39;s Earth&#39;s twin - but somehow remains mysterious. Let&#39;s take a look.</itunes:title>
+    <title>#28 Planet Venus. It&#39;s Earth&#39;s twin - but somehow remains mysterious. Let&#39;s take a look.</title>
+    <description><![CDATA[<p>Planet Venus is sometimes called Earth&apos;s twin. It&apos;s the same size and in planetary terms it&apos;s close by, but why isn&apos;t it our first choice for exploration? Some of the differences make Venus super difficult to study so in a way it remains mysterious.  <br/>Why is it difficult to study? And what makes the environment on Venus so harsh? <br/>Grab a coffee and join us as we unravel the mystery and take a closer look. <br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Planet Venus is sometimes called Earth&apos;s twin. It&apos;s the same size and in planetary terms it&apos;s close by, but why isn&apos;t it our first choice for exploration? Some of the differences make Venus super difficult to study so in a way it remains mysterious.  <br/>Why is it difficult to study? And what makes the environment on Venus so harsh? <br/>Grab a coffee and join us as we unravel the mystery and take a closer look. <br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/8403081-28-planet-venus-it-s-earth-s-twin-but-somehow-remains-mysterious-let-s-take-a-look.mp3" length="4654591" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8403081</guid>
+    <pubDate>Sat, 01 May 2021 01:00:00 +1000</pubDate>
+    <itunes:duration>384</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, Venus, greenhouse, planet, planets, solar system, atmosphere, Venera, lander, star, stars, planets, Sun, Earth, twin, terrestrial, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>28</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#27 Planet Mercury normally keeps a low profile, but let&#39;s take a closer look at the first planet from the sun.</itunes:title>
+    <title>#27 Planet Mercury normally keeps a low profile, but let&#39;s take a closer look at the first planet from the sun.</title>
+    <description><![CDATA[<p>We don&apos;t get to hear much about planet Mercury. It took us a long time to learn much about it and only two spacecraft have ever been there.<br/>Let&apos;s take a look at some of the little known but fascinating facts about Mercury&apos;s history, why it has the longest day in the solar system and what we&apos;ve learned from lonely pair of spacecraft that have visited it.  <br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We don&apos;t get to hear much about planet Mercury. It took us a long time to learn much about it and only two spacecraft have ever been there.<br/>Let&apos;s take a look at some of the little known but fascinating facts about Mercury&apos;s history, why it has the longest day in the solar system and what we&apos;ve learned from lonely pair of spacecraft that have visited it.  <br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/8199802-27-planet-mercury-normally-keeps-a-low-profile-but-let-s-take-a-closer-look-at-the-first-planet-from-the-sun.mp3" length="4249634" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8199802</guid>
+    <pubDate>Thu, 01 Apr 2021 01:00:00 +1100</pubDate>
+    <itunes:duration>350</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, Mercury, Messenger, planet, planets, Mariner, 10, inner, exploration, star, Beppi, Colombo, crater, 88, spacecraft, solar system, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>27</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#26 What&#39;s the matter? Really, what is the matter that makes up 80% of the mass of the universe but can&#39;t be observed directly. The strange story of dark matter</itunes:title>
+    <title>#26 What&#39;s the matter? Really, what is the matter that makes up 80% of the mass of the universe but can&#39;t be observed directly. The strange story of dark matter</title>
+    <description><![CDATA[<p>So back in the 1930&apos;s, astronomers noticed that there didn&apos;t seem to be enough mass in galactic clusters to hold them together, but they were held together. There mas be some additional mass and gravity to hold everything together, but where is it? It can&apos;t be seen. And this problem produced the theory of dark matter. <br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p><p><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>So back in the 1930&apos;s, astronomers noticed that there didn&apos;t seem to be enough mass in galactic clusters to hold them together, but they were held together. There mas be some additional mass and gravity to hold everything together, but where is it? It can&apos;t be seen. And this problem produced the theory of dark matter. <br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p><p><br/></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/8024640-26-what-s-the-matter-really-what-is-the-matter-that-makes-up-80-of-the-mass-of-the-universe-but-can-t-be-observed-directly-the-strange-story-of-dark-matter.mp3" length="4090490" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-8024640</guid>
+    <pubDate>Mon, 01 Mar 2021 01:00:00 +1100</pubDate>
+    <itunes:duration>337</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, asteroid, asteroids, radio telescope, dark matter, star, stars, dark, matter, galaxy, inter galactic, cluster, gravity, magnon, moon, moons, Io, Europa, Ganymede, Callisto, science, crater, eclipse, tid</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#25 A conversation with David W. Brown about his new book The Mission, and Jupiter&#39;s icy ocean moon Europa</itunes:title>
+    <title>#25 A conversation with David W. Brown about his new book The Mission, and Jupiter&#39;s icy ocean moon Europa</title>
+    <description><![CDATA[<p>Join us for a discussion with David W. Brown about his new book The Mission, the true story of NASA&apos;s bold Europa Clipper mission and the search for signs of life on Jupiter&apos;s icy ocean moon Europa.<br/>David tells us about the incredibly diverse team that put this project together,  why Europa is the most likely place in the solar system to find signs of extraterrestrial life, and why we might just be living in the golden age of space exploration.<br/><br/>David&apos;s website: davidwbrown.com<br/><br/>Find David&apos;s book, The Mission: harpercollins.com/products/the-mission-david-w-brown?variant=32126580064290</p>]]></description>
+    <content:encoded><![CDATA[<p>Join us for a discussion with David W. Brown about his new book The Mission, the true story of NASA&apos;s bold Europa Clipper mission and the search for signs of life on Jupiter&apos;s icy ocean moon Europa.<br/>David tells us about the incredibly diverse team that put this project together,  why Europa is the most likely place in the solar system to find signs of extraterrestrial life, and why we might just be living in the golden age of space exploration.<br/><br/>David&apos;s website: davidwbrown.com<br/><br/>Find David&apos;s book, The Mission: harpercollins.com/products/the-mission-david-w-brown?variant=32126580064290</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/mctmpawgvria8p4wcx3e2yshmdym/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>David W. Brown</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/7802995-25-a-conversation-with-david-w-brown-about-his-new-book-the-mission-and-jupiter-s-icy-ocean-moon-europa.mp3" length="10530897" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-7802995</guid>
+    <pubDate>Thu, 11 Feb 2021 16:00:00 +1100</pubDate>
+    <podcast:transcript url="https://feeds.buzzsprout.com/322577/7802995/transcript" type="text/html" />
+    <itunes:duration>874</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, Europa, David W. Brown, planet, Jupiter, moons, Galilean, Europa Clipper, clipper, NASA, robotic, Io, The Mission, probe, david w brown, book, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>25</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#24 What went wrong with the Hubble Space Telescope?</itunes:title>
+    <title>#24 What went wrong with the Hubble Space Telescope?</title>
+    <description><![CDATA[<p>So way back in the 90s, NASA launched the bus-sized Hubble Space Telescope into orbit. But it had a huge problem, it couldn&apos;t focus the light from space as well as it should have.<br/><br/>What went wrong? And how did NASA fix it, so it could stay in service for thirty years?<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>So way back in the 90s, NASA launched the bus-sized Hubble Space Telescope into orbit. But it had a huge problem, it couldn&apos;t focus the light from space as well as it should have.<br/><br/>What went wrong? And how did NASA fix it, so it could stay in service for thirty years?<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/6961106-24-what-went-wrong-with-the-hubble-space-telescope.mp3" length="4564867" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6961106</guid>
+    <pubDate>Mon, 01 Feb 2021 01:00:00 +1100</pubDate>
+    <itunes:duration>377</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, Hubble, Telescope, planet, planets, asteroid, asteroids, HST, NASA, Columbia, spherical aberration, impact, crater, imaging, mirror, reflecting, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#23 Meteors and meteorites, what are they and why do they burn up?</itunes:title>
+    <title>#23 Meteors and meteorites, what are they and why do they burn up?</title>
+    <description><![CDATA[<p>Meteors, they&apos;re not falling stars, but what are they? Where do these objects come from and why do they &apos;burn up&apos; in the atmosphere? And what&apos;s the difference between a meteor and a meteorite?<br/><br/>We also take a quick look at some of the most famous meteor incidents in history.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>     </p>]]></description>
+    <content:encoded><![CDATA[<p>Meteors, they&apos;re not falling stars, but what are they? Where do these objects come from and why do they &apos;burn up&apos; in the atmosphere? And what&apos;s the difference between a meteor and a meteorite?<br/><br/>We also take a quick look at some of the most famous meteor incidents in history.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>     </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/6906191-23-meteors-and-meteorites-what-are-they-and-why-do-they-burn-up.mp3" length="4392386" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6906191</guid>
+    <pubDate>Fri, 01 Jan 2021 01:00:00 +1100</pubDate>
+    <itunes:duration>362</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, meteor, meteorite, planet, planets, asteroid, asteroids, meteors, meteorites, star, crater, impact, burn up, Russia, iridium, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#22 The Sun. How does it it produce so much energy? And what does the future hold?</itunes:title>
+    <title>#22 The Sun. How does it it produce so much energy? And what does the future hold?</title>
+    <description><![CDATA[<p>Let&apos;s take a closer look at the Sun - but not literally. How does it it produce so much energy and why can it do this for billions and billions of years? It&apos;s the source of practically all light and heat on Earth, so it&apos;s cool to know.<br/><br/>What does the future hold for the Sun? How much longer could it support life on Earth?<br/>Let&apos;s find out<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>   </p>]]></description>
+    <content:encoded><![CDATA[<p>Let&apos;s take a closer look at the Sun - but not literally. How does it it produce so much energy and why can it do this for billions and billions of years? It&apos;s the source of practically all light and heat on Earth, so it&apos;s cool to know.<br/><br/>What does the future hold for the Sun? How much longer could it support life on Earth?<br/>Let&apos;s find out<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>   </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/6571618-22-the-sun-how-does-it-it-produce-so-much-energy-and-what-does-the-future-hold.mp3" length="4177660" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6571618</guid>
+    <pubDate>Tue, 01 Dec 2020 01:00:00 +1100</pubDate>
+    <itunes:duration>344</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, Einstein, E=mc2, planet, planets, asteroid, asteroids, Sun, solar, star, main sequence, red giant, nuclear fusion, Hydrogen, Helium, speed of light, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#21 Let&#39;s take a look at the Moon part 5 - Artemis and the future of human Moon exploration</itunes:title>
+    <title>#21 Let&#39;s take a look at the Moon part 5 - Artemis and the future of human Moon exploration</title>
+    <description><![CDATA[<p>We&apos;ve had a look at the history of human lunar exploration, but this time we&apos;re going to look to the future. We&apos;re going back to the moon with project Artemis. Apollo was great, but that was 50 years ago. How are we doing it this time? It will be more flexible and more sustainable.<br/>Let&apos;s take a look at what&apos;s in store for human lunar exploration over the next decade.<br/> <br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>      </p>]]></description>
+    <content:encoded><![CDATA[<p>We&apos;ve had a look at the history of human lunar exploration, but this time we&apos;re going to look to the future. We&apos;re going back to the moon with project Artemis. Apollo was great, but that was 50 years ago. How are we doing it this time? It will be more flexible and more sustainable.<br/>Let&apos;s take a look at what&apos;s in store for human lunar exploration over the next decade.<br/> <br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>      </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/6116575-21-let-s-take-a-look-at-the-moon-part-5-artemis-and-the-future-of-human-moon-exploration.mp3" length="4177033" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-6116575</guid>
+    <pubDate>Sun, 01 Nov 2020 01:00:00 +1100</pubDate>
+    <itunes:duration>344</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, asteroid, asteroids, moon, Apollo , star, stars, Apollo, Artemis, SLS, Gateway, HLS, Space launch system, astronaut, first woman, astronauts, Io, Europa, Ganymede, Callisto, science, crater, eclipse, ti</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#20 Let&#39;s take a look at the Moon - part 4</itunes:title>
+    <title>#20 Let&#39;s take a look at the Moon - part 4</title>
+    <description><![CDATA[<p>We love the moon. Sometimes we just step outside and it&apos;s there waiting for us. There&apos;s so much to explore with the moon, we&apos;re taking a few episodes to get right into it. Here&apos;s part 4.<br/>Let&apos;s continue our look at the exploration of the moon, this time it&apos;s the Apollo missions. It&apos;s incredible that people have been to the moon, and almost as unbelievable that Apollo was 50 years ago.<br/> <br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>     </p>]]></description>
+    <content:encoded><![CDATA[<p>We love the moon. Sometimes we just step outside and it&apos;s there waiting for us. There&apos;s so much to explore with the moon, we&apos;re taking a few episodes to get right into it. Here&apos;s part 4.<br/>Let&apos;s continue our look at the exploration of the moon, this time it&apos;s the Apollo missions. It&apos;s incredible that people have been to the moon, and almost as unbelievable that Apollo was 50 years ago.<br/> <br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>     </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/5632219-20-let-s-take-a-look-at-the-moon-part-4.mp3" length="5428973" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5632219</guid>
+    <pubDate>Thu, 01 Oct 2020 01:00:00 +1000</pubDate>
+    <itunes:duration>449</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, moon, dinosaur, planet, planets, asteroid, asteroids, extinction, Apollo, star, Armstrong, crater, Buzz, Aldrin, astronaut, astronauts, saturnv, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#19 Let&#39;s take a look at the Moon - part 3</itunes:title>
+    <title>#19 Let&#39;s take a look at the Moon - part 3</title>
+    <description><![CDATA[<p>There&apos;s so much to explore with the moon. It&apos;s our little companion in space, like our next door neighbour. We&apos;re going to take a few episodes to get right into it. Here&apos;s part 3.<br/>Let&apos;s take a look at the exploration of the moon, not the Apollo missions, we&apos;ll save those for another episode, but the vitally important but sometimes forgotten uncrewed missions that came befor Apollo. The Russion Luna program, and NASA&apos;s Ranger and Surveyor programs that paved the way to the moon before Armstrong and Aldrin.<br/>  <br/>   Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>  </p>]]></description>
+    <content:encoded><![CDATA[<p>There&apos;s so much to explore with the moon. It&apos;s our little companion in space, like our next door neighbour. We&apos;re going to take a few episodes to get right into it. Here&apos;s part 3.<br/>Let&apos;s take a look at the exploration of the moon, not the Apollo missions, we&apos;ll save those for another episode, but the vitally important but sometimes forgotten uncrewed missions that came befor Apollo. The Russion Luna program, and NASA&apos;s Ranger and Surveyor programs that paved the way to the moon before Armstrong and Aldrin.<br/>  <br/>   Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>  </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/5179939-19-let-s-take-a-look-at-the-moon-part-3.mp3" length="4516259" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-5179939</guid>
+    <pubDate>Tue, 01 Sep 2020 01:00:00 +1000</pubDate>
+    <itunes:duration>373</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, asteroid, asteroids, radio telescope, moon, star, stars, Ranger, Surveyor, lander, orbiter, Apollo, Luna, NASA, moon, moons, Io, Europa, Ganymede, Callisto, science, exploration, space race, Armstrong, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#18 Let&#39;s take a look at the Moon - part 2</itunes:title>
+    <title>#18 Let&#39;s take a look at the Moon - part 2</title>
+    <description><![CDATA[<p>There&apos;s so much to explore with the moon. It&apos;s our little companion in space, like our next door neighbour. We&apos;re going to take a few episodes to get right into it. Here&apos;s part 2.<br/>Why do all full moons look the same? And what&apos;s with the tides, they&apos;re caused by the moon right?<br/>Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/> <br/>  Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>  </p>]]></description>
+    <content:encoded><![CDATA[<p>There&apos;s so much to explore with the moon. It&apos;s our little companion in space, like our next door neighbour. We&apos;re going to take a few episodes to get right into it. Here&apos;s part 2.<br/>Why do all full moons look the same? And what&apos;s with the tides, they&apos;re caused by the moon right?<br/>Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/> <br/>  Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>  </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/4773335-18-let-s-take-a-look-at-the-moon-part-2.mp3" length="4842215" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4773335</guid>
+    <pubDate>Sat, 01 Aug 2020 01:00:00 +1000</pubDate>
+    <itunes:duration>400</itunes:duration>
+    <itunes:keywords>Astronomy, space, orbit, cosmology, planet, planets, asteroid, asteroids, radio telescope, Frank Drake, star, stars, SERENDIP, wow, intelligent, intelligence, extraterrestrial, Jupiter, Galilean, moon, moons, Io, Europa, Ganymede, Callisto, science, crate</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>18</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#17 Let&#39;s take a look at the Moon - part 1</itunes:title>
+    <title>#17 Let&#39;s take a look at the Moon - part 1</title>
+    <description><![CDATA[<p>There&apos;s so much to explore with the moon. It&apos;s our little companion in space, like our next door neighbour. We&apos;re going to take a few episodes to get right into it. Here&apos;s part 1.<br/><br/>Get comfy, grab a coffee in your favourite reusable cup, and check it out. <br/> <br/>  Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>     </p>]]></description>
+    <content:encoded><![CDATA[<p>There&apos;s so much to explore with the moon. It&apos;s our little companion in space, like our next door neighbour. We&apos;re going to take a few episodes to get right into it. Here&apos;s part 1.<br/><br/>Get comfy, grab a coffee in your favourite reusable cup, and check it out. <br/> <br/>  Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>     </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/4325465-17-let-s-take-a-look-at-the-moon-part-1.mp3" length="4965722" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-4325465</guid>
+    <pubDate>Wed, 01 Jul 2020 01:00:00 +1000</pubDate>
+    <itunes:duration>410</itunes:duration>
+    <itunes:keywords>Astronomy, space,,cosmology,planet,planets,asteroid,asteroids,radio telescope,Frank Drake,star,stars,SERENDIP,wow,intelligent,intelligence,extraterrestrial,Jupiter,Galilean,moon,moons,I,oEuropa,Ganymede,Callisto,science, crater, eclipse, tide, apollo, lun</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>17</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#16 The incredible tale of the four Galilean moons of Jupiter. A special first birthday quadruple episode.</itunes:title>
+    <title>#16 The incredible tale of the four Galilean moons of Jupiter. A special first birthday quadruple episode.</title>
+    <description><![CDATA[<p>It&apos;s Cosmic Coffee Time&apos;s first birthday, and what better way to celebrate than with a quadruple episode exploring the four Galilean moons of Jupiter. Explore the vastly different landscapes of four totally unique and fascinating bodies. What are they really like? And check out how unique they all are.<br/>  <br/>  Get comfy, grab a coffee in your favourite reusable cup, and check it out. We might add a slice of birthday cake too.<br/>  <br/>  Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>  </p>]]></description>
+    <content:encoded><![CDATA[<p>It&apos;s Cosmic Coffee Time&apos;s first birthday, and what better way to celebrate than with a quadruple episode exploring the four Galilean moons of Jupiter. Explore the vastly different landscapes of four totally unique and fascinating bodies. What are they really like? And check out how unique they all are.<br/>  <br/>  Get comfy, grab a coffee in your favourite reusable cup, and check it out. We might add a slice of birthday cake too.<br/>  <br/>  Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>  </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/3960161-16-the-incredible-tale-of-the-four-galilean-moons-of-jupiter-a-special-first-birthday-quadruple-episode.mp3" length="7573474" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3960161</guid>
+    <pubDate>Mon, 01 Jun 2020 01:00:00 +1000</pubDate>
+    <itunes:duration>627</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, SETI, are we alone, planet, planets, asteroid, asteroids, radio telescope, Frank Drake, star, starts, SERENDIP, wow, intelligent, intelligence, extraterrestrial, Jupiter, Galilean, moon, moons, Io, Europa, Ganymede, Callisto, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>16</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#15 So are we really alone in the Universe? Where is everyone? And what are we doing to find extraterrestrial life?</itunes:title>
+    <title>#15 So are we really alone in the Universe? Where is everyone? And what are we doing to find extraterrestrial life?</title>
+    <description><![CDATA[<p>Ever since we started using radio to communicate on Earth, we&apos;ve wondered if we could use it to communicate with other civilizations in different parts of the galaxy. But it seems the harder we look, the less we find. What is SETI? Are we really alone? Let&apos;s take a look. <br/> <br/> Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/> <br/> Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>     </p>]]></description>
+    <content:encoded><![CDATA[<p>Ever since we started using radio to communicate on Earth, we&apos;ve wondered if we could use it to communicate with other civilizations in different parts of the galaxy. But it seems the harder we look, the less we find. What is SETI? Are we really alone? Let&apos;s take a look. <br/> <br/> Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/> <br/> Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/><br/>You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>     </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/3535363-15-so-are-we-really-alone-in-the-universe-where-is-everyone-and-what-are-we-doing-to-find-extraterrestrial-life.mp3" length="4197408" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3535363</guid>
+    <pubDate>Fri, 01 May 2020 01:00:00 +1000</pubDate>
+    <itunes:duration>346</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, SETI, are we alone, planet, planets, asteroid, asteroids, radio telescope, Frank Drake, star, starts, SERENDIP, wow, intelligent, intelligence, extraterrestrial, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>15</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#14 So an asteroid caused the mass extinction of the dinosaurs? Let&#39;s find the crater!</itunes:title>
+    <title>#14 So an asteroid caused the mass extinction of the dinosaurs? Let&#39;s find the crater!</title>
+    <description><![CDATA[<p>So an asteroid fell from space and caused a mass extinction of the dinosaurs. But where is the crater? We know impacts have left craters on the moon, earth, and other planets, But have we found one big enough to have been caused by the dinosaur asteroid?<br/> <br/> Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/> <br/> Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>   </p>]]></description>
+    <content:encoded><![CDATA[<p>So an asteroid fell from space and caused a mass extinction of the dinosaurs. But where is the crater? We know impacts have left craters on the moon, earth, and other planets, But have we found one big enough to have been caused by the dinosaur asteroid?<br/> <br/> Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/> <br/> Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a>   </p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/3136783-14-so-an-asteroid-caused-the-mass-extinction-of-the-dinosaurs-let-s-find-the-crater.mp3" length="3971710" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-3136783</guid>
+    <pubDate>Wed, 01 Apr 2020 08:00:00 +1100</pubDate>
+    <itunes:duration>327</itunes:duration>
+    <itunes:keywords>Astronomy, space, cosmology, dinosaurs, dinosaur, planet, planets, asteroid, asteroids, extinction, mass extinction, star, starts, impact, crater, Yucatan, Mexico, iridium, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>14</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#13 Comets? I know Halley&#39;s, but what other cool comet stuff should I know?</itunes:title>
+    <title>#13 Comets? I know Halley&#39;s, but what other cool comet stuff should I know?</title>
+    <description><![CDATA[<p>Halley&apos;s Comet comes around once every 76 years. You might have missed its last visit in 1986, but it&apos;ll be back in around 40 years...<br/>What is a comet? Why do a lot of people really only know about Halley&apos;s? and how did we learn a whole lot more about another comet a few years ago. Who remembers the gutsy little comet lander called Philae?<br/><br/>Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Halley&apos;s Comet comes around once every 76 years. You might have missed its last visit in 1986, but it&apos;ll be back in around 40 years...<br/>What is a comet? Why do a lot of people really only know about Halley&apos;s? and how did we learn a whole lot more about another comet a few years ago. Who remembers the gutsy little comet lander called Philae?<br/><br/>Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/2846485-13-comets-i-know-halley-s-but-what-other-cool-comet-stuff-should-i-know.mp3" length="3766075" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-2846485</guid>
+    <pubDate>Sun, 01 Mar 2020 00:00:00 +1100</pubDate>
+    <itunes:duration>310</itunes:duration>
+    <itunes:keywords>Comet, comets, halleys, halley&#39;s, Rosetta, Philae, comet tail, oort cloud, Einstein, relativity, eclipse, Broome, Wallal, Kimberley, Broome Bowling Club ,1922, lick observatory, prove, proved, ISS, International space station, space station, space, astron</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#12 Proving Einstein&#39;s relativity in outback Australia. A cracking tale of spacebending gravity</itunes:title>
+    <title>#12 Proving Einstein&#39;s relativity in outback Australia. A cracking tale of spacebending gravity</title>
+    <description><![CDATA[<p>So Einstein&apos;s theory of general relativity predicted black holes, or more specifically, that gravity could warp spacetime. But how could we prove it? Here&apos;s a ripping yarn about some astronomers who travelled across the world in 1922 to test Einstein&apos;s theory during a solar eclipse in far north western Australia.<br/><br/>Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>So Einstein&apos;s theory of general relativity predicted black holes, or more specifically, that gravity could warp spacetime. But how could we prove it? Here&apos;s a ripping yarn about some astronomers who travelled across the world in 1922 to test Einstein&apos;s theory during a solar eclipse in far north western Australia.<br/><br/>Get comfy, grab a coffee in your favourite reusable cup, and check it out.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/2177066-12-proving-einstein-s-relativity-in-outback-australia-a-cracking-tale-of-spacebending-gravity.mp3" length="4157756" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-2177066</guid>
+    <pubDate>Sun, 01 Dec 2019 01:00:00 +1100</pubDate>
+    <itunes:duration>343</itunes:duration>
+    <itunes:keywords>Einstein, relativity, eclipse, Broome, Wallal, Kimberley, Broome Bowling Club, 1922, lick observatory, prove, proved, ISS, International space station, space station, space, astronomy, stem, cosmology, planets, orbit, learn, nasa, exoplanets, stellar, pla</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#11 So there are planets orbiting the stars? Tell me more about exoplanets!</itunes:title>
+    <title>#11 So there are planets orbiting the stars? Tell me more about exoplanets!</title>
+    <description><![CDATA[<p>We love our Earth, (and we love our coffee), we love all the planets in our solar system. But what if I told you that some of the stars you see at night, have their own planets? They&apos;re squillions of miles away, some of them are pretty weird, and some of them might be able to support life.<br/>Grab a coffee in your favourite reusable cup, and check it out.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>We love our Earth, (and we love our coffee), we love all the planets in our solar system. But what if I told you that some of the stars you see at night, have their own planets? They&apos;re squillions of miles away, some of them are pretty weird, and some of them might be able to support life.<br/>Grab a coffee in your favourite reusable cup, and check it out.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1959823-11-so-there-are-planets-orbiting-the-stars-tell-me-more-about-exoplanets.mp3" length="5746692" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1959823</guid>
+    <pubDate>Fri, 01 Nov 2019 01:00:00 +1100</pubDate>
+    <itunes:duration>475</itunes:duration>
+    <itunes:keywords>ISS, International space station, space station, space, astronomy, stem, cosmology, planets, orbit, learn, nasa, exoplanets, stellar planets, Kepler, galactic planets, goldilocks, zone, habitable, zone, sustain life, support life, planets beyound our sola</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#10 How cool is Saturn. I mean really.</itunes:title>
+    <title>#10 How cool is Saturn. I mean really.</title>
+    <description><![CDATA[<p>Sometimes your favourite coffee cup leaves a ring on the table, or on that important document! But rings that you&apos;re always happy to see are the ones around Saturn. Saturn with its system of rings is arguably the most spectacular sight in the solar system. So what is it like to see Saturn with your own eyes? how was its system of rings discovered? and what are we doing to learn about Saturn now?<br/>Get comfortable with your favourite coffee and let&apos;s take a closer look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>Sometimes your favourite coffee cup leaves a ring on the table, or on that important document! But rings that you&apos;re always happy to see are the ones around Saturn. Saturn with its system of rings is arguably the most spectacular sight in the solar system. So what is it like to see Saturn with your own eyes? how was its system of rings discovered? and what are we doing to learn about Saturn now?<br/>Get comfortable with your favourite coffee and let&apos;s take a closer look.<br/><br/>Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1727899-10-how-cool-is-saturn-i-mean-really.mp3" length="4396819" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1727899</guid>
+    <pubDate>Tue, 01 Oct 2019 01:00:00 +1000</pubDate>
+    <itunes:duration>363</itunes:duration>
+    <itunes:keywords>Saturn, rings, solar system, planet, gas giant, gas giants, space, astronomy, stem, cosmology, planets, orbit, learn, nasa, Solar System, planet, astronaut, astronomer, constellation, lunar, meteor, meteorite, space exploration, apollo, universe, telescop</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#9 Hey tell me about the International Space Station</itunes:title>
+    <title>#9 Hey tell me about the International Space Station</title>
+    <description><![CDATA[<p>So many questions about the International Space Station. What do the astronauts do in their free time? Why did they do that twin study? But coolest of all, how do I see the International Space Station from my back yard?<br/>Grab a coffee, and let&apos;s take a look<br/> <br/> Get the ISS Detector app <a href='http://issdetector.com'>issdetector.com</a><br/> Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> Watch the ISS live! <a href='http://www.nasa.gov/multimedia/nasatv/iss_ustream.html'>www.nasa.gov/multimedia/nasatv/iss_ustream.html</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></description>
+    <content:encoded><![CDATA[<p>So many questions about the International Space Station. What do the astronauts do in their free time? Why did they do that twin study? But coolest of all, how do I see the International Space Station from my back yard?<br/>Grab a coffee, and let&apos;s take a look<br/> <br/> Get the ISS Detector app <a href='http://issdetector.com'>issdetector.com</a><br/> Follow Cosmic Coffee Time on Twitter for some special content <a href='http://twitter.com/CosmicCoffTime'>twitter.com/CosmicCoffTime</a><br/> Watch the ISS live! <a href='http://www.nasa.gov/multimedia/nasatv/iss_ustream.html'>www.nasa.gov/multimedia/nasatv/iss_ustream.html</a><br/> <br/> You can request a topic for the show! Email it to <a href='mailto:cosmiccoffeetime@gmail.com'>cosmiccoffeetime@gmail.com</a></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1614370-9-hey-tell-me-about-the-international-space-station.mp3" length="4014728" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1614370</guid>
+    <pubDate>Sun, 01 Sep 2019 01:00:00 +1000</pubDate>
+    <itunes:duration>331</itunes:duration>
+    <itunes:keywords>ISS, International space station, space station, space, astronomy, stem, cosmology, planets, orbit, learn, nasa, Solar System, planet, astronaut, astronomer, constellation, lunar, meteor, meteorite, space exploration, apollo, universe, telescope,</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#8 So Earth&#39;s magnetic field will make my compass needle point south one day?</itunes:title>
+    <title>#8 So Earth&#39;s magnetic field will make my compass needle point south one day?</title>
+    <description><![CDATA[<p>Got five minutes for a coffee? Grab your favourite cup, and hit play to take a closer look at Earth&apos;s magnetic field, it&apos;s stranger than you think! Let&apos;s see what makes it work, and explore the history of how north strangely becomes south sometimes. Stick around to see when it&apos;s likely to happen next.<br/> <br/> Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/> </b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/> Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Got five minutes for a coffee? Grab your favourite cup, and hit play to take a closer look at Earth&apos;s magnetic field, it&apos;s stranger than you think! Let&apos;s see what makes it work, and explore the history of how north strangely becomes south sometimes. Stick around to see when it&apos;s likely to happen next.<br/> <br/> Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/> </b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/> Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1459978-8-so-earth-s-magnetic-field-will-make-my-compass-needle-point-south-one-day.mp3" length="3676544" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1459978</guid>
+    <pubDate>Thu, 01 Aug 2019 01:00:00 +1000</pubDate>
+    <itunes:duration>303</itunes:duration>
+    <itunes:keywords>space, astronomy cosmos, cosmology, planets, earth, science, learn, magnetic field, universe, compass, </itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#7 A black hole sounds pretty weird</itunes:title>
+    <title>#7 A black hole sounds pretty weird</title>
+    <description><![CDATA[<p>Black coffee and black holes, get caffeinated for this one. Black holes are some of the weirdest things in the universe, so let&apos;s understand them a bit better this coffee break.<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com<br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p>Black coffee and black holes, get caffeinated for this one. Black holes are some of the weirdest things in the universe, so let&apos;s understand them a bit better this coffee break.<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com<br/><br/></p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1321516-7-a-black-hole-sounds-pretty-weird.mp3" length="2362083" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1321516</guid>
+    <pubDate>Mon, 01 Jul 2019 00:00:00 +1000</pubDate>
+    <itunes:duration>193</itunes:duration>
+    <itunes:keywords>space, astronomy, planets, cosmology, science, learn, planet, orbit, black hole,</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#6 Why isn&#39;t Pluto a planet any more?</itunes:title>
+    <title>#6 Why isn&#39;t Pluto a planet any more?</title>
+    <description><![CDATA[<p>Pluto is famous these days for not being a planet. What happened? You&apos;ve got a coffee, we&apos;ve got some of the answers.<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Pluto is famous these days for not being a planet. What happened? You&apos;ve got a coffee, we&apos;ve got some of the answers.<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1286866-6-why-isn-t-pluto-a-planet-any-more.mp3" length="2975034" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1286866</guid>
+    <pubDate>Mon, 17 Jun 2019 10:00:00 +1000</pubDate>
+    <itunes:duration>241</itunes:duration>
+    <itunes:keywords>space, astronomy, planets, cosmology, science, learn, Pluto, planet, orbit, Kuiper, belt, Eris,</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#5 NASA Deep Space Communication Network</itunes:title>
+    <title>#5 NASA Deep Space Communication Network</title>
+    <description><![CDATA[<p>Coffee break time again. So we see all these amazing pictures from rovers on Mars, and flybys of distant planets, but how do those pictures get back to Earth? Who&apos;s listening? and what is Australia&apos;s role in all of this?<br/>Check out https://eyes.nasa.gov/dsn/dsn.html<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Coffee break time again. So we see all these amazing pictures from rovers on Mars, and flybys of distant planets, but how do those pictures get back to Earth? Who&apos;s listening? and what is Australia&apos;s role in all of this?<br/>Check out https://eyes.nasa.gov/dsn/dsn.html<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1286761-5-nasa-deep-space-communication-network.mp3" length="4011684" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1286761</guid>
+    <pubDate>Mon, 17 Jun 2019 10:00:00 +1000</pubDate>
+    <itunes:duration>328</itunes:duration>
+    <itunes:keywords>space, astronomy, planets, cosmology, science, learn, Mars, Jupiter, Voyager, pictures, dish, seep space, planet, orbit, Kuiper, belt</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#4 You&#39;ve got to love an eclipse of the sun</itunes:title>
+    <title>#4 You&#39;ve got to love an eclipse of the sun</title>
+    <description><![CDATA[<p>You&apos;ve got your coffee, we&apos;ve got some pretty cool facts about eclipses. If you&apos;ve ever wondered about how a solar eclipse happens, or maybe why they&apos;re so rare, then wonder no more! And what is an orbital node anyway?<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>You&apos;ve got your coffee, we&apos;ve got some pretty cool facts about eclipses. If you&apos;ve ever wondered about how a solar eclipse happens, or maybe why they&apos;re so rare, then wonder no more! And what is an orbital node anyway?<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1286728-4-you-ve-got-to-love-an-eclipse-of-the-sun.mp3" length="2696999" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1286728</guid>
+    <pubDate>Mon, 17 Jun 2019 10:00:00 +1000</pubDate>
+    <itunes:duration>218</itunes:duration>
+    <itunes:keywords>space, astronomy, eclipse, sun, solar, planets, cosmology, science, learn, planet</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#3 What&#39;s with leap years anyway?</itunes:title>
+    <title>#3 What&#39;s with leap years anyway?</title>
+    <description><![CDATA[<p>Coffee smells nice today, and why do we need a leap year? When did we start doing the leap day and what would happen if we didn&apos;t bother with 29 February?<br/>What was unique about the 2000 leap year?<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>Coffee smells nice today, and why do we need a leap year? When did we start doing the leap day and what would happen if we didn&apos;t bother with 29 February?<br/>What was unique about the 2000 leap year?<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1286695-3-what-s-with-leap-years-anyway.mp3" length="3822961" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1286695</guid>
+    <pubDate>Mon, 17 Jun 2019 09:00:00 +1000</pubDate>
+    <itunes:duration>312</itunes:duration>
+    <itunes:keywords>space, astronomy, leap year, universe, cosmology, calendar, learn, 29 February, planets</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#1 How much space is in space?</itunes:title>
+    <title>#1 How much space is in space?</title>
+    <description><![CDATA[<p>We hear a lot about the size of the planets in the solar system and beyond, but how far apart are they? Let&apos;s grab a coffee and find out by using a really relatable scale, you might be surprised!<br/>Visit the scale model Solar System Trail stkildamelbourne.com.au/wp-content/uploads/2015/11/Solar_System_Self_Guided_Trail_web_friendly.pdf<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>We hear a lot about the size of the planets in the solar system and beyond, but how far apart are they? Let&apos;s grab a coffee and find out by using a really relatable scale, you might be surprised!<br/>Visit the scale model Solar System Trail stkildamelbourne.com.au/wp-content/uploads/2015/11/Solar_System_Self_Guided_Trail_web_friendly.pdf<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1286608-1-how-much-space-is-in-space.mp3" length="4129215" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1286608</guid>
+    <pubDate>Mon, 17 Jun 2019 09:00:00 +1000</pubDate>
+    <itunes:duration>337</itunes:duration>
+    <itunes:keywords>space, astronomy, scale, planets, cosmology, science, learn</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>#2 Big bang and the bookends of the universe</itunes:title>
+    <title>#2 Big bang and the bookends of the universe</title>
+    <description><![CDATA[<p>The biggest question - and a coffee break. How did the universe begin? Why can&apos;t we talk about what happened before the universe began? And how will the universe end?<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></description>
+    <content:encoded><![CDATA[<p>The biggest question - and a coffee break. How did the universe begin? Why can&apos;t we talk about what happened before the universe began? And how will the universe end?<br/><br/>Episodes are at <a href='http://cosmiccoffeetime.buzzsprout.com/'>cosmiccoffeetime.buzzsprout.com</a><b><br/></b>Follow on Twitter <a href='https://twitter.com/CosmicCoffTime'>@CosmicCoffTime</a> for some special content.<br/>Want to suggest a topic? email cosmiccoffeetime@gmail.com</p>]]></content:encoded>
+    <itunes:author>Andrew Prestage</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/322577/1286650-2-big-bang-and-the-bookends-of-the-universe.mp3" length="3780978" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-1286650</guid>
+    <pubDate>Mon, 17 Jun 2019 09:00:00 +1000</pubDate>
+    <itunes:duration>308</itunes:duration>
+    <itunes:keywords>space, astronomy, cosmology, big band, big crunch, heat death, learn,</itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
