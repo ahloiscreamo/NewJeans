@@ -8,7 +8,7 @@
  */
 
 configuration {
-  font: "ReadexPro 12";
+  font: "Maple Mono Bold 12";
 
   drun {
     display-name: "";
