@@ -1,10 +1,10 @@
 ! Sxiv
-Sxiv.font      : Readex Pro SemiBold:size=9 
+Sxiv.bar.font  : MapleMono-Bold:size=9 
 Sxiv.foreground: #c4a7e7
 Sxiv.background: #232136
 
 ! Nsxiv
-Nsxiv.bar.font         : Readex Pro SemiBold:size=9 
+Nsxiv.bar.font         : MapleMono-Bold:size=9 
 Nsxiv.bar.background   : #c4a7e7
 Nsxiv.bar.foreground   : #232136
 Nsxiv.window.foreground: #ea9a97
