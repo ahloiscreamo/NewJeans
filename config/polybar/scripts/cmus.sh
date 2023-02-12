@@ -8,10 +8,10 @@ path=$(echo "$output" | grep "^file" | cut -c 12-)
 cmusstatus=$(echo "$output"| grep "^status" | cut -c 8-)
 case $cmusstatus in 
     "playing")
-        icon=" "
+        icon=" "
         ;;
     "paused")
-        icon=" "
+        icon=" "
         ;;
     "stopped")
         echo
