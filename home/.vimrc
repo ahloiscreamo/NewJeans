@@ -10,10 +10,9 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'godlygeek/tabular'
-Plugin 'preservim/vim-markdown'
 Plugin 'rose-pine/vim'
 Plugin 'tpope/vim-sensible'
+Plugin 'codehearts/mascara-vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
@@ -24,6 +23,9 @@ let g:disable_bg = 1
 
 " indentLine
 let g:indentLine_color_term = 0
+
+" Disable folding (vim-markdown)
+let g:vim_markdown_folding_disabled = 1
 
 "Always show current position
 set ruler
