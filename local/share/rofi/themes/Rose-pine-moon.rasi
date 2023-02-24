@@ -8,7 +8,7 @@
  */
 
 configuration {
-  font: "Maple Mono Bold 12";
+  font: "Maple Mono NF Bold 12";
 
   drun {
     display-name: "";
@@ -36,7 +36,7 @@ configuration {
 
   bg: #232136;
   fg: #e0def4;
-  blue: #ea9a97;
+  blue: #3e8fb0;
   purple: #f6c177;
 
   background-color: @bg;
@@ -72,7 +72,7 @@ listview {
 
 element {
   children: [element-icon, element-text];
-  text-color: @blue;
+  text-color: @fg;
 }
 
 element-icon {
