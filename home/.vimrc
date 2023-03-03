@@ -12,7 +12,6 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'rose-pine/vim'
 Plugin 'tpope/vim-sensible'
-Plugin 'codehearts/mascara-vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
