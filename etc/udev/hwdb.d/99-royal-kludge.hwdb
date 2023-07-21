@@ -1,0 +1,3 @@
+evdev:name:Wings Tech Gaming Keyboard:*
+ KEYBOARD_KEY_70028=enter
+ KEYBOARD_KEY_70039=enter
