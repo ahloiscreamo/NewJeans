@@ -8,18 +8,18 @@
  */
 
 configuration {
-  font: "Maple Mono NF Bold 12";
+  font: "Maple Mono NF Bold 14";
 
   drun {
-    display-name: "";
+    display-name: " LAUNCH";
   }
 
   run {
-    display-name: "";
+    display-name: " TERM";
   }
 
   window {
-    display-name: "";
+    display-name: " WINDOW";
   }
 
   timeout {
@@ -38,6 +38,7 @@ configuration {
   fg: #e0def4;
   blue: #3e8fb0;
   purple: #f6c177;
+  green: #3e8fb0;
 
   background-color: @bg;
   text-color: @fg;
@@ -45,6 +46,8 @@ configuration {
 
 window {
   transparency: "real";
+  border: 6;
+  border-color: @green;
 }
 
 mainbox {

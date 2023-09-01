@@ -55,15 +55,15 @@ exec autotiling -w 1
 #for_window [class=".*"] [floating] move absolute position center
 for_window [class="kitty"] floating enable, border normal 0
 for_window [window_role="About"] floating enable
-for_window [class="mpv"] floating enable, border pixel 6, move absolute position center
+for_window [class="mpv"] floating enable, move absolute position center
 for_window [title="Authy"] floating enable
 for_window [class="Yad"] floating enable
 #for_window [class="Sxiv"] floating enable, resize set 349px 440px
-for_window [class="cmusCoverViewer"] floating enable, border normal 0, resize set 280px 280px
+for_window [class="cmusCoverViewer"] floating enable, border normal 0, resize set 280px 292px
 for_window [class="cavalier"] floating enable
 for_window [class="Thunar"] floating enable, move absolute position center
-for_window [class="Sxiv"] floating enable, border pixel 6
-for_window [class="Nsxiv"] floating enable, border pixel 6, resize set 709px 840px, move absolute position center
+for_window [class="Sxiv"] floating enable, 
+for_window [class="Nsxiv"] floating enable, resize set 600px 915px, move absolute position center
 for_window [class="firefox" window_role="Organizer"] floating enable
 for_window [class="Zathura"] floating enable, resize set 645 950, move absolute position center
 for_window [class="Gpick"] floating enable
@@ -80,10 +80,11 @@ for_window [class="ark"] floating enable, move absolute position center
 
 # exec on startup
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-exec --no-startup-id picom -b
-exec_always xinput set-prop 11 "Device Enabled" 0
-exec_always xinput set-prop 9 "Device Enabled" 0
-exec --no-startup-id feh --bg-fill ~/Pictures/NewJeans.png
+#exec --no-startup-id picom -b
+exec_always xinput set-prop 15 "Device Enabled" 0
+exec_always xinput set-prop 14 "Device Enabled" 0
+exec_always xinput set-prop 13 "Device Enabled" 0
+exec --no-startup-id feh --bg-fill ~/Pictures/NewJeans_noise_dark.png
 #exec --no-startup-id feh --bg-fill ~/Pictures/Bicycle.jpg
 #exec --no-startup-id hsetroot -solid '#e0def4'
 exec --no-startup-id unclutter
@@ -162,13 +163,13 @@ bindsym Mod1+minus scratchpad show
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "TERM "
-set $ws2 "WEB "
-set $ws3 "DRAW "
-set $ws4 "MPV "
-set $ws5 "SEED "
-set $ws6 "CIDER "
-set $ws7 "EASYEFFECT "
+set $ws1 "TERM "
+set $ws2 "WEB "
+set $ws3 "DRAW "
+set $ws4 "MPV "
+set $ws5 "SEED "
+set $ws6 "CIDER "
+set $ws7 "EASYEFFECT "
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
