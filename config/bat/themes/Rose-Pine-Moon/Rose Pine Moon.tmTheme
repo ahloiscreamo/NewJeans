@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Rose Pine Moon</string>
+	<string>Rose-Pine-Moon</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -16,9 +16,9 @@
 				<key>foreground</key>
                 <string>#e0def4</string>
                 <key>gutterForeground</key>
-                <string>#393552</string>
+                <string>#56526e</string>
 				<key>invisibles</key>
-				<string>#393552</string>
+				<string>#56526e</string>
 				<key>lineHighlight</key>
 				<string>#44415a</string>
 				<key>selection</key>
@@ -33,7 +33,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#393552</string>
+				<string>#56526e</string>
 			</dict>
 		</dict>
 		<dict>
