@@ -1,0 +1,61 @@
+##############################################################################
+## This is the example configuration file. Copy it to $HOME/.ncmpcpp/config ##
+## or $XDG_CONFIG_HOME/ncmpcpp/config and set up your preferences.          ##
+##############################################################################
+#
+##### directories ######
+##
+## Directory for storing ncmpcpp related files.  Changing it is useful if you
+## want to store everything somewhere else and provide command line setting for
+## alternative location to config file which defines that while launching
+## ncmpcpp.
+##
+#
+ncmpcpp_directory = ~/.config/ncmpcpp
+lyrics_directory = ~/.config/ncmpcpp/lyrics
+
+##### music visualizer #####
+##
+## Note: In order to make music visualizer work you'll need to use mpd fifo
+## output, whose format parameter has to be set to 44100:16:1 for mono
+## visualization or 44100:16:2 for stereo visualization. Example configuration
+## (it has to be put into mpd.conf):
+
+## audio_output {
+##        type            "fifo"
+##        name            "Visualizer feed"
+##        path            "/tmp/mpd.fifo"
+##        format          "44100:16:2"
+## }
+##
+
+#[visualizer]
+#visualizer_fifo_path = "/tmp/mpd.fifo"
+#visualizer_in_stereo = "no"
+#visualizer_type = "spectrum"
+#visualizer_output_name = "my_fifo"
+#visualizer_look = "──"
+#visualizer_look = "▮▮"
+#visualizer_color = "blue, cyan, green, yellow, magenta, red"
+
+#visualizer_sync_interval = 60
+
+#now_playing_prefix = $b
+
+#now_playing_suffix = $/b$5$r!$/r$9
+
+#song_columns_list_format = (30)[6]{a} (40)[8]{t|f:Title} (30)[2]{b}
+
+progressbar_look = "───"
+
+header_visibility = no
+
+statusbar_visibility = no
+
+startup_screen = visualizer
+
+mouse_support = no
+
+#progressbar_color = "6"
+
+#progressbar_elapsed_color = "2"

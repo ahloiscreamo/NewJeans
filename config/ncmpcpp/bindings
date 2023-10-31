@@ -1,0 +1,54 @@
+# the t key isn't used and it's easier to press than /, so lets use it
+def_key "/"
+    find
+def_key "/"
+    find_item_forward
+
+def_key "+"
+    show_clock
+def_key "="
+    volume_up
+
+def_key "b"
+    toggle_bitrate_visibility
+def_key "j"
+    scroll_down
+def_key "k"
+    scroll_up
+
+def_key "page_up"
+    scroll_up_album
+def_key "page_down"
+    scroll_down_album
+
+def_key "ctrl-u"
+    page_up
+#push_characters "kkkkkkkkkkkkkkk"
+def_key "ctrl-d"
+    page_down
+#push_characters "jjjjjjjjjjjjjjj"
+
+def_key "h"
+    seek_backward
+def_key "l"
+    seek_forward
+
+def_key "."
+    show_lyrics
+
+def_key "n"
+    next_found_item
+def_key "N"
+    previous_found_item
+
+def_key "g"
+    move_home
+
+def_key "G"
+    move_end
+
+# not used but bound
+def_key "J"
+    move_sort_order_down
+def_key "K"
+    move_sort_order_up

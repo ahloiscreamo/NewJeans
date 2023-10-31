@@ -1,0 +1,560 @@
+sw_volume: 100
+audio_device_state:1:PipeWire Sound Server
+audio_device_state:1:my_fifo
+state: pause
+current: 399
+time: 19.926000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Frank Ocean - Blonde/01 Nikes.flac
+1:Frank Ocean - Blonde/02 Ivy.flac
+2:Frank Ocean - Blonde/03 Pink + White.flac
+3:Frank Ocean - Blonde/04 Be Yourself.flac
+4:Frank Ocean - Blonde/05 Solo.flac
+5:Frank Ocean - Blonde/06 Skyline To.flac
+6:Frank Ocean - Blonde/07 Self Control.flac
+7:Frank Ocean - Blonde/08 Good Guy.flac
+8:Frank Ocean - Blonde/09 Nights.flac
+9:Frank Ocean - Blonde/10 Solo (Reprise).flac
+10:Frank Ocean - Blonde/11 Pretty Sweet.flac
+11:Frank Ocean - Blonde/12 Facebook Story.flac
+12:Frank Ocean - Blonde/13 Close To You.flac
+13:Frank Ocean - Blonde/14 White Ferrari.flac
+14:Frank Ocean - Blonde/15 Seigfried.flac
+15:Frank Ocean - Blonde/16 Godspeed.flac
+16:Frank Ocean - Blonde/17 Futura Free.flac
+17:J. Cole/J Cole - 'False Prophets' OFFICIAL INSTRUMENTAL.mp3
+18:J. Cole/J. Cole - High For Hours.flac
+19:J. Cole/J. Cole - procrastination (broke) (320 kbps).mp3
+20:J. Cole/Born Sinner (Album)/01 Villuminati.flac
+21:J. Cole/Born Sinner (Album)/02 Kerney Sermon (Skit).flac
+22:J. Cole/Born Sinner (Album)/03 Land of the Snakes.flac
+23:J. Cole/Born Sinner (Album)/04 Power Trip.flac
+24:J. Cole/Born Sinner (Album)/05 Mo Money (Interlude).flac
+25:J. Cole/Born Sinner (Album)/06 Trouble.flac
+26:J. Cole/Born Sinner (Album)/07 Runaway.flac
+27:J. Cole/Born Sinner (Album)/08 She Knows.flac
+28:J. Cole/Born Sinner (Album)/09 Rich Niggaz.flac
+29:J. Cole/Born Sinner (Album)/10 Where's Jermaine (Skit).flac
+30:J. Cole/Born Sinner (Album)/11 Forbidden Fruit.flac
+31:J. Cole/Born Sinner (Album)/12 Chaining Day.flac
+32:J. Cole/Born Sinner (Album)/13 Ain't That Some Shit (Interlude).flac
+33:J. Cole/Born Sinner (Album)/14 Crooked Smile.flac
+34:J. Cole/Born Sinner (Album)/15 Let Nas Down.flac
+35:J. Cole/Born Sinner (Album)/16 Born Sinner.flac
+36:J. Cole/Born Sinner (Album)/17 Miss America.flac
+37:J. Cole/Born Sinner (Album)/18 New York Times.flac
+38:J. Cole/Born Sinner (Album)/19 Is She Gon Pop.flac
+39:J. Cole/Born Sinner (Album)/20 Niggaz Know.flac
+40:J. Cole/Born Sinner (Album)/21 Sparks Will Fly.flac
+41:J. Cole/False Prophets/J. Cole - False Prophets.flac
+42:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/01 - Friday Night Lights (Intro).mp3
+43:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/02 - Too Deep For The Intro.mp3
+44:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/03 - Before Im Gone.mp3
+45:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/04 - Back To The Topic (Freestyle).mp3
+46:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/05 - You Got It.mp3
+47:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/06 - Villematic.mp3
+48:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/07 - Enchanted.mp3
+49:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/08 - Blow Up.mp3
+50:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/09 - Higher.mp3
+51:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/10 - In The Morning.mp3
+52:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/11 - 2Face.mp3
+53:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/12 - The Autograph.mp3
+54:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/13 - Best Friend.mp3
+55:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/14 - Cost Me A Lot.mp3
+56:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/15 - Premeditated Murder.mp3
+57:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/16 - Home For The Holidays.mp3
+58:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/17 - Love Me Not.mp3
+59:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/18 - See World.mp3
+60:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/19 - Farewell.mp3
+61:J. Cole/J Cole - Friday Night Lights (DatPiff.com)/20 - Bonus Looking For Trouble ft Kanye Big Sean Pusha T Cyhi Da Prince.mp3
+62:J. Cole/J Cole - Truly Yours (DatPiff.com)/01 - Can I Holla At Ya.mp3
+63:J. Cole/J Cole - Truly Yours (DatPiff.com)/02 - Crunch Time.mp3
+64:J. Cole/J Cole - Truly Yours (DatPiff.com)/03 - Rise Above.mp3
+65:J. Cole/J Cole - Truly Yours (DatPiff.com)/04 - Tears For ODB.mp3
+66:J. Cole/J Cole - Truly Yours (DatPiff.com)/05 - Stay (2009).mp3
+67:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/1 - Intro.flac
+68:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/2 - January_28th.flac
+69:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/3 - Wet_Dreamz.flac
+70:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/4 - 03'_Adolescence.mp3
+71:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/5 - A_Tale_of_2_Citiez.flac
+72:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/6 - Fire_Squad.flac
+73:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/7 - St._Tropez.flac
+74:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/8 - G.O.M.D.flac
+75:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/9 - No_Role_Modelz.flac
+76:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/10 - Hello.flac
+77:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/11 - Apparently.flac
+78:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/12 - Love_Yourz.flac
+79:J. Cole/J. Cole - 2014 Forest Hills Drive /2014 Forest Hills Drive (Album)/13 - Note_to_Self.flac
+80:J. Cole/J. Cole - 4 Your Eyez Only/1 - For Whom The Bell Tolls.flac
+81:J. Cole/J. Cole - 4 Your Eyez Only/2 - Immortal.flac
+82:J. Cole/J. Cole - 4 Your Eyez Only/3 - Deja Vu.flac
+83:J. Cole/J. Cole - 4 Your Eyez Only/4 - Ville Mentality.flac
+84:J. Cole/J. Cole - 4 Your Eyez Only/5 - She's Mine Pt. 1.flac
+85:J. Cole/J. Cole - 4 Your Eyez Only/6 - Change.flac
+86:J. Cole/J. Cole - 4 Your Eyez Only/7 - Neighbors.flac
+87:J. Cole/J. Cole - 4 Your Eyez Only/8 - Foldin Clothes.flac
+88:J. Cole/J. Cole - 4 Your Eyez Only/9 - She's Mine Pt. 2.flac
+89:J. Cole/J. Cole - 4 Your Eyez Only/10 - 4 Your Eyez Only.flac
+90:J. Cole/J. Cole - Cole World_ The Sideline Story/1 - Intro.flac
+91:J. Cole/J. Cole - Cole World_ The Sideline Story/2 - Dollar And A Dream III.flac
+92:J. Cole/J. Cole - Cole World_ The Sideline Story/3 - Can't Get Enough.flac
+93:J. Cole/J. Cole - Cole World_ The Sideline Story/4 - Lights Please.flac
+94:J. Cole/J. Cole - Cole World_ The Sideline Story/5 - Interlude.flac
+95:J. Cole/J. Cole - Cole World_ The Sideline Story/6 - Sideline Story.flac
+96:J. Cole/J. Cole - Cole World_ The Sideline Story/7 - Mr. Nice Watch.flac
+97:J. Cole/J. Cole - Cole World_ The Sideline Story/8 - Cole World.flac
+98:J. Cole/J. Cole - Cole World_ The Sideline Story/9 - In The Morning.flac
+99:J. Cole/J. Cole - Cole World_ The Sideline Story/10 - Lost Ones.flac
+100:J. Cole/J. Cole - Cole World_ The Sideline Story/11 - Nobody's Perfect.flac
+101:J. Cole/J. Cole - Cole World_ The Sideline Story/12 - Never Told.flac
+102:J. Cole/J. Cole - Cole World_ The Sideline Story/13 - Rise and Shine.flac
+103:J. Cole/J. Cole - Cole World_ The Sideline Story/14 - God's Gift.flac
+104:J. Cole/J. Cole - Cole World_ The Sideline Story/15 - Breakdown.flac
+105:J. Cole/J. Cole - Cole World_ The Sideline Story/16 - Work Out.flac
+106:J. Cole/J. Cole - KOD/1 - Intro.flac
+107:J. Cole/J. Cole - KOD/2 - KOD.flac
+108:J. Cole/J. Cole - KOD/3 - Photograph.flac
+109:J. Cole/J. Cole - KOD/4 - The Cut Off.flac
+110:J. Cole/J. Cole - KOD/5 - ATM.flac
+111:J. Cole/J. Cole - KOD/6 - Motiv8.flac
+112:J. Cole/J. Cole - KOD/7 - Kevin’s Heart.flac
+113:J. Cole/J. Cole - KOD/8 - BRACKETS.flac
+114:J. Cole/J. Cole - KOD/9 - Once an Addict (Interlude).flac
+115:J. Cole/J. Cole - KOD/10 - FRIENDS.flac
+116:J. Cole/J. Cole - KOD/11 - Window Pain (Outro).flac
+117:J. Cole/J. Cole - KOD/12 - 1985 (Intro to “The Fall Off”).flac
+118:J. Cole/J. Cole - Lewis Street/01 - The Climb Back.flac
+119:J. Cole/J. Cole - Lewis Street/02 - Lion King On Ice.flac
+120:J. Cole/J. Cole - The Come Up/1 - Disgusting.flac
+121:J. Cole/J. Cole - The Come Up/2 - We On.flac
+122:J. Cole/J. Cole - The Come Up/3 - No Holding Me Back.flac
+123:J. Cole/J. Cole - The Come Up/4 - The Last Stretch.flac
+124:J. Cole/J. Cole - The Come Up/5 - Dead Presidents.flac
+125:J. Cole/J. Cole - The Come Up/6 - Lil Ghetto Nigga.flac
+126:J. Cole/J. Cole - The Come Up/7 - Homecoming.flac
+127:J. Cole/J. Cole - The Come Up/8 - Carolina On My Mind.flac
+128:J. Cole/J. Cole - The Come Up/9 - Can't Cry.flac
+129:J. Cole/J. Cole - The Come Up/10 - Goin Off.flac
+130:J. Cole/J. Cole - The Come Up/11 - See It To Believe It.flac
+131:J. Cole/J. Cole - The Come Up/12 - Rags To Riches (At the Beep).flac
+132:J. Cole/J. Cole - The Come Up/13 - Get It.flac
+133:J. Cole/J. Cole - The Come Up/14 - I Do My Thing.flac
+134:J. Cole/J. Cole - The Come Up/15 - The Come Up.flac
+135:J. Cole/J. Cole - The Come Up/16 - Purple Rain.flac
+136:J. Cole/J. Cole - The Come Up/17 - Passing Me By.flac
+137:J. Cole/J. Cole - The Come Up/18 - Bring Em In.flac
+138:J. Cole/J. Cole - The Come Up/19 - Like A Star.flac
+139:J. Cole/J. Cole - The Come Up/20 - Neverland.flac
+140:J. Cole/J. Cole - The Come Up/21 - Bref Control (Therapist).flac
+141:J. Cole/The Off-Season/01 - 9 5 . s o u t h.flac
+142:J. Cole/The Off-Season/02 - a m a r i.flac
+143:J. Cole/The Off-Season/03 - m y . l i f e.flac
+144:J. Cole/The Off-Season/04 - a p p l y i n g . p r e s s u r e.flac
+145:J. Cole/The Off-Season/05 - p u n c h i n ‘ . t h e . c l o c k.flac
+146:J. Cole/The Off-Season/06 - 1 0 0 . m i l ‘.flac
+147:J. Cole/The Off-Season/07 - p r i d e . i s . t h e . d e v i l.flac
+148:J. Cole/The Off-Season/08 - l e t . g o . m y . h a n d.flac
+149:J. Cole/The Off-Season/09 - i n t e r l u d e.flac
+150:J. Cole/The Off-Season/10 - t h e . c l i m b . b a c k.flac
+151:J. Cole/The Off-Season/11 - c l o s e.flac
+152:J. Cole/The Off-Season/12 - h u n g e r . o n . h i l l s i d e.flac
+153:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/01 - 32 Ave Intro.mp3
+154:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/02 - Chief Forever.mp3
+155:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/03 - Envy Me.mp3
+156:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/04 - Ultimate.mp3
+157:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/05 - Lord Vader Kush II.mp3
+158:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/06 - Ice Age.mp3
+159:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/07 - Delusional Shone.mp3
+160:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/08 - Past the Wudz Intro.mp3
+161:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/09 - Underwater.mp3
+162:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/10 - Captain Sea Fonk.mp3
+163:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/11 - Bwoii.mp3
+164:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/12 - Planet Shrooms.mp3
+165:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/13 - Smoke 2049.mp3
+166:Denzel Curry/2015-06 - 32 Zel - Planet Shrooms/14 - Void.mp3
+167:Denzel Curry/2017-06 - 13/01 - Bloodshed.mp3
+168:Denzel Curry/2017-06 - 13/02 - Hate Government.mp3
+169:Denzel Curry/2017-06 - 13/03 - Equalizer.mp3
+170:Denzel Curry/2017-06 - 13/04 - Heartless.mp3
+171:Denzel Curry/2017-06 - 13/05 - Zeltron 6 Billion.mp3
+172:Denzel Curry/Denzel Curry - So.Incredible.pkg (Robert Glasper Version)/01 - So.Incredible.pkg (Robert Glasper Version).flac
+173:Denzel Curry/Denzel Curry - TA13OO (2018)/01. TABOO _ TA13OO.flac
+174:Denzel Curry/Denzel Curry - TA13OO (2018)/02. BLACK BALLOONS _ 13LACK 13ALLOONZ (feat. Twelve'len & GoldLink).flac
+175:Denzel Curry/Denzel Curry - TA13OO (2018)/03. CASH MANIAC _ CAZH MAN1AC.flac
+176:Denzel Curry/Denzel Curry - TA13OO (2018)/04. SUMO _ ZUMO.flac
+177:Denzel Curry/Denzel Curry - TA13OO (2018)/05. SUPER SAIYAN SUPERMAN _ ZUPER ZA1YAN ZUPERMAN.flac
+178:Denzel Curry/Denzel Curry - TA13OO (2018)/06. SWITCH IT UP _ ZW1TCH 1T UP.flac
+179:Denzel Curry/Denzel Curry - TA13OO (2018)/07. MAD I GOT IT _ MAD 1 GOT 1T.flac
+180:Denzel Curry/Denzel Curry - TA13OO (2018)/08. SIRENS _ Z1RENZ (feat. J.I.D).flac
+181:Denzel Curry/Denzel Curry - TA13OO (2018)/09. CLOUT COBAIN _ CLOUT CO13A1N.flac
+182:Denzel Curry/Denzel Curry - TA13OO (2018)/10. THE BLACKEST BALLOON _ THE 13LACKEZT 13ALLOON.flac
+183:Denzel Curry/Denzel Curry - TA13OO (2018)/11. PERCS _ PERCZ.flac
+184:Denzel Curry/Denzel Curry - TA13OO (2018)/12. VENGEANCE _ VENGEANCE (feat. JPEGMAFIA & ZillaKami).flac
+185:Denzel Curry/Denzel Curry - TA13OO (2018)/13. BLACK METAL TERRORIST _ 13 M T.flac
+186:Denzel Curry/Denzel Curry - UNLOCKED 1.5/01 - So.Incredible.pkg (Robert Glasper Version).flac
+187:Denzel Curry/Denzel Curry - UNLOCKED 1.5/02 - Track07 (Georgia Anne Muldrow Version).flac
+188:Denzel Curry/Denzel Curry - UNLOCKED 1.5/03 - 'Cosmic'.m4a (The Alchemist Version).flac
+189:Denzel Curry/Denzel Curry - UNLOCKED 1.5/04 - Take it Back v2 (Charlie Heat Version).flac
+190:Denzel Curry/Denzel Curry - UNLOCKED 1.5/05 - Pyro (Sango Leak).flac
+191:Denzel Curry/Denzel Curry - UNLOCKED 1.5/06 - Lay Up.m4a (Jay Versace Version).flac
+192:Denzel Curry/Denzel Curry - UNLOCKED 1.5/07 - DIET 1.5.flac
+193:Denzel Curry/Denzel Curry - UNLOCKED 1.5/08 - Take it Back v2 (GODMODE 950 Version).flac
+194:Denzel Curry/Denzel Curry - ꞌCosmicꞌ.m4a (The Alchemist Version)/01 - 'Cosmic'.m4a (The Alchemist Version).flac
+195:Denzel Curry/Melt My Eyez See Your Future/01 Melt Session 1.flac
+196:Denzel Curry/Melt My Eyez See Your Future/02 Walkin.flac
+197:Denzel Curry/Melt My Eyez See Your Future/03 Worst Comes To Worst.flac
+198:Denzel Curry/Melt My Eyez See Your Future/04 John Wayne.flac
+199:Denzel Curry/Melt My Eyez See Your Future/05 The Last.flac
+200:Denzel Curry/Melt My Eyez See Your Future/06 Mental.flac
+201:Denzel Curry/Melt My Eyez See Your Future/07 Troubles.flac
+202:Denzel Curry/Melt My Eyez See Your Future/08 Ain't No Way.flac
+203:Denzel Curry/Melt My Eyez See Your Future/09 X-Wing.flac
+204:Denzel Curry/Melt My Eyez See Your Future/10 Angelz.flac
+205:Denzel Curry/Melt My Eyez See Your Future/11 The Smell Of Death.flac
+206:Denzel Curry/Melt My Eyez See Your Future/12 Sanjuro.flac
+207:Denzel Curry/Melt My Eyez See Your Future/13 Zatoichi.flac
+208:Denzel Curry/Melt My Eyez See Your Future/14 The Ills.flac
+209:Denzel Curry/UNLOCKED (Album)/01 Track 01.flac
+210:Denzel Curry/UNLOCKED (Album)/02 Take it Back v2.flac
+211:Denzel Curry/UNLOCKED (Album)/03 Lay Up.m4a.flac
+212:Denzel Curry/UNLOCKED (Album)/04 Pyro (leak 2019).flac
+213:Denzel Curry/UNLOCKED (Album)/05 DIET .flac
+214:Denzel Curry/UNLOCKED (Album)/06 So.Incredible.pkg.flac
+215:Denzel Curry/UNLOCKED (Album)/07 Track07.flac
+216:Denzel Curry/UNLOCKED (Album)/08 ꞌCosmicꞌ.m4a.flac
+217:Denzel Curry/Walkin/Denzel Curry - Walkin.mp3
+218:Denzel Curry/ZUU (Album)/01 ZUU.flac
+219:Denzel Curry/ZUU (Album)/02 RICKY.flac
+220:Denzel Curry/ZUU (Album)/03 WISH.flac
+221:Denzel Curry/ZUU (Album)/04 BIRDZ.flac
+222:Denzel Curry/ZUU (Album)/05 AUTOMATIC.flac
+223:Denzel Curry/ZUU (Album)/06 SPEEDBOAT.flac
+224:Denzel Curry/ZUU (Album)/07 BUSHY B INTERLUDE.flac
+225:Denzel Curry/ZUU (Album)/08 YOO.flac
+226:Denzel Curry/ZUU (Album)/09 CAROLMART.flac
+227:Denzel Curry/ZUU (Album)/10 SHAKE 88.flac
+228:Denzel Curry/ZUU (Album)/11 BLACKLAND 66.6.flac
+229:Denzel Curry/ZUU (Album)/12 P.A.T.flac
+230:Logic/Logic - 1-800-273-8255.flac
+231:Logic/Logic - Confessions of a Dangerous Mind.flac
+232:Logic/Logic - Everybody Dies.flac
+233:Logic/Logic - Everyday.flac
+234:Logic/Logic - Keanu Reeves.flac
+235:Logic/Logic - OCD.flac
+236:Logic/Logic - One Day.flac
+237:Logic/Logic - The Return.flac
+238:Logic/Doc D - Planetory Destruction (DatPiff.com)/01 - Intro (DatPiff Exclusive).mp3
+239:Logic/Doc D - Planetory Destruction (DatPiff.com)/02 - Planetory Destruction (feat Big Lenbo) (DatPiff Exclusive).mp3
+240:Logic/Doc D - Planetory Destruction (DatPiff.com)/03 - Better Text Back (DatPiff Exclusive).mp3
+241:Logic/Doc D - Planetory Destruction (DatPiff.com)/04 - Green Juices (DatPiff Exclusive).mp3
+242:Logic/Doc D - Planetory Destruction (DatPiff.com)/05 - Cosmos (Skit 1) (DatPiff Exclusive).mp3
+243:Logic/Doc D - Planetory Destruction (DatPiff.com)/06 - Double Sample (DatPiff Exclusive).mp3
+244:Logic/Doc D - Planetory Destruction (DatPiff.com)/07 - Backstory (DatPiff Exclusive).mp3
+245:Logic/Doc D - Planetory Destruction (DatPiff.com)/08 - Cosmos (Skit 2) (DatPiff Exclusive).mp3
+246:Logic/Doc D - Planetory Destruction (DatPiff.com)/09 - Back To The Basement (DatPiff Exclusive).mp3
+247:Logic/Doc D - Planetory Destruction (DatPiff.com)/10 - Outer Space Gang ft LIKE J Mars (DatPiff Exclusive).mp3
+248:Logic/Doc D - Planetory Destruction (DatPiff.com)/11 - Butt-Ass-Naked (DatPiff Exclusive).mp3
+249:Logic/Doc D - Planetory Destruction (DatPiff.com)/12 - Ready Player Gun (DatPiff Exclusive).mp3
+250:Logic/Doc D - Planetory Destruction (DatPiff.com)/13 - Cosmos 1057 (Skit 3) (DatPiff Exclusive).mp3
+251:Logic/Doc D - Planetory Destruction (DatPiff.com)/14 - 20 Million Woolongs ft Punch (DatPiff Exclusive).mp3
+252:Logic/Doc D - Planetory Destruction (DatPiff.com)/15 - Bounty Law ft Del The Funky Homosapien (DatPiff Exclusive).mp3
+253:Logic/Doc D - Planetory Destruction (DatPiff.com)/16 - Cosmos (Skit 4) (DatPiff Exclusive).mp3
+254:Logic/Doc D - Planetory Destruction (DatPiff.com)/17 - Death of Destruction (DatPiff Exclusive).mp3
+255:Logic/Intro/01 - Intro.flac
+256:Logic/Joyner Lucas - Isis ft. Logic [2019-Single]/01 Isis (feat. Logic.mp3
+257:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/1. Cruisin' Through the Universe (feat. RZA).flac
+258:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/2. Wake Up (feat. Lucy Rose).flac
+259:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/3. Lightsabers (feat. C Dot Castro).flac
+260:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/4. Clone Wars III.flac
+261:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/5. Redpill VII.flac
+262:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/6. Playwright (feat. Andy Hull).flac
+263:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/7. Gaithersburg Freestyle (feat. C Dot Castro, Big Lenbo, Fat Trel, & ADÉ).flac
+264:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/8. Insipio.flac
+265:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/9. Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah).flac
+266:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/10. Shimmy (feat. Joey Bada$$).flac
+267:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/11. Paradise II (feat. Norah Jones).flac
+268:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/12. Come on Down (feat. Jordan Harris).flac
+269:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/13. Village Slum.flac
+270:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/14. Highlife.flac
+271:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/15. 38.9897 °N, 76.9378 °W (feat. C Dot Castro & Big Lenbo).flac
+272:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/16. Ayo (feat. Bun B & Lil Keke).flac
+273:Logic/Logic - (2023) - College Park - (24Bit-48kHz)/17. Lightyear.flac
+274:Logic/Logic - Bobby Tarantino/1 - illuminatro.flac
+275:Logic/Logic - Bobby Tarantino/2 - Flexicution.flac
+276:Logic/Logic - Bobby Tarantino/3 - The Jam.flac
+277:Logic/Logic - Bobby Tarantino/4 - Slave II.flac
+278:Logic/Logic - Bobby Tarantino/5 - A Word From Our Sponsor.flac
+279:Logic/Logic - Bobby Tarantino/6 - Wrist.flac
+280:Logic/Logic - Bobby Tarantino/7 - Super Mario World.flac
+281:Logic/Logic - Bobby Tarantino/8 - Studio Ambience At Night_ Malibu.flac
+282:Logic/Logic - Bobby Tarantino/9 - 44 Bars.flac
+283:Logic/Logic - Bobby Tarantino/10 - Slave.flac
+284:Logic/Logic - Bobby Tarantino/11 - Deeper Than Money.flac
+285:Logic/Logic - Bobby Tarantino II (2018)/01. Grandpa's Space Ship.mp3
+286:Logic/Logic - Bobby Tarantino II (2018)/02. Overnight.mp3
+287:Logic/Logic - Bobby Tarantino II (2018)/03. Contra.mp3
+288:Logic/Logic - Bobby Tarantino II (2018)/04. BoomTrap Protocol.mp3
+289:Logic/Logic - Bobby Tarantino II (2018)/05. Yuck.mp3
+290:Logic/Logic - Bobby Tarantino II (2018)/06. Indica Badu (feat. Wiz Khalifa).mp3
+291:Logic/Logic - Bobby Tarantino II (2018)/07. Midnight.mp3
+292:Logic/Logic - Bobby Tarantino II (2018)/08. Warm It Up (feat. Young Sinatra).mp3
+293:Logic/Logic - Bobby Tarantino II (2018)/09. Wizard Of Oz.mp3
+294:Logic/Logic - Bobby Tarantino II (2018)/10. State Of Emergency (feat. 2 Chainz).mp3
+295:Logic/Logic - Bobby Tarantino II (2018)/11. Wassup (feat. Big Sean).mp3
+296:Logic/Logic - Bobby Tarantino II (2018)/12. Everyday.mp3
+297:Logic/Logic - Bobby Tarantino II (2018)/13. 44 More.mp3
+298:Logic/Logic - Bobby Tarantino III/01 - introll.mp3
+299:Logic/Logic - Bobby Tarantino III/02 - Vaccine.mp3
+300:Logic/Logic - Bobby Tarantino III/03 - Get Up.mp3
+301:Logic/Logic - Bobby Tarantino III/04 - My Way.mp3
+302:Logic/Logic - Bobby Tarantino III/05 - Call Me.mp3
+303:Logic/Logic - Bobby Tarantino III/06 - Inside.mp3
+304:Logic/Logic - Bobby Tarantino III/07 - Flawless.mp3
+305:Logic/Logic - Bobby Tarantino III/08 - Stupid Skit.mp3
+306:Logic/Logic - Bobby Tarantino III/09 - Theme For The People.mp3
+307:Logic/Logic - Bobby Tarantino III/10 - God Might Judge.mp3
+308:Logic/Logic - Bobby Tarantino III/11 - See You Space Cowboy.mp3
+309:Logic/Logic - Bobby Tarantino III/12 - untitled.mp3
+310:Logic/Logic - Confessions of a Dangerous Mind/1 - Confessions of a Dangerous Mind.flac
+311:Logic/Logic - Confessions of a Dangerous Mind/2 - Homicide.flac
+312:Logic/Logic - Confessions of a Dangerous Mind/3 - Wannabe.flac
+313:Logic/Logic - Confessions of a Dangerous Mind/4 - clickbait.flac
+314:Logic/Logic - Confessions of a Dangerous Mind/5 - Mama_Show Love.flac
+315:Logic/Logic - Confessions of a Dangerous Mind/6 - Out Of Sight.flac
+316:Logic/Logic - Confessions of a Dangerous Mind/7 - Pardon My Ego.flac
+317:Logic/Logic - Confessions of a Dangerous Mind/8 - COMMANDO.flac
+318:Logic/Logic - Confessions of a Dangerous Mind/9 - Icy.flac
+319:Logic/Logic - Confessions of a Dangerous Mind/10 - Still Ballin.flac
+320:Logic/Logic - Confessions of a Dangerous Mind/11 - Cocaine.flac
+321:Logic/Logic - Confessions of a Dangerous Mind/12 - Limitless.flac
+322:Logic/Logic - Confessions of a Dangerous Mind/13 - Keanu Reeves.flac
+323:Logic/Logic - Confessions of a Dangerous Mind/14 - Don't Be Afraid To Be Different.flac
+324:Logic/Logic - Confessions of a Dangerous Mind/15 - BOBBY.flac
+325:Logic/Logic - Confessions of a Dangerous Mind/16 - Lost In Translation.flac
+326:Logic/Logic - Everybody/1 - Hallelujah.flac
+327:Logic/Logic - Everybody/2 - Everybody.flac
+328:Logic/Logic - Everybody/3 - Confess.flac
+329:Logic/Logic - Everybody/4 - Killing Spree.flac
+330:Logic/Logic - Everybody/5 - Take It Back.flac
+331:Logic/Logic - Everybody/6 - America.flac
+332:Logic/Logic - Everybody/7 - Ink Blot.flac
+333:Logic/Logic - Everybody/8 - Mos Definitely.flac
+334:Logic/Logic - Everybody/9 - Waiting Room.flac
+335:Logic/Logic - Everybody/10 - 1-800-273-8255.flac
+336:Logic/Logic - Everybody/11 - Anziety.flac
+337:Logic/Logic - Everybody/12 - Black SpiderMan.flac
+338:Logic/Logic - Everybody/13 - AfricAryaN.flac
+339:Logic/Logic - No Pressure/01 - No Pressure (intro).flac
+340:Logic/Logic - No Pressure/02 - Hit My Line.flac
+341:Logic/Logic - No Pressure/03 - GP4.flac
+342:Logic/Logic - No Pressure/04 - Celebration.flac
+343:Logic/Logic - No Pressure/05 - Open MicAquarius III.flac
+344:Logic/Logic - No Pressure/06 - Soul Food II.flac
+345:Logic/Logic - No Pressure/07 - Perfect.flac
+346:Logic/Logic - No Pressure/08 - man i is.flac
+347:Logic/Logic - No Pressure/09 - DadBod.flac
+348:Logic/Logic - No Pressure/10 - 5 Hooks.flac
+349:Logic/Logic - No Pressure/11 - Dark Place.flac
+350:Logic/Logic - No Pressure/12 - A2Z.flac
+351:Logic/Logic - No Pressure/13 - Heard Em Say.flac
+352:Logic/Logic - No Pressure/14 - Amen.flac
+353:Logic/Logic - No Pressure/15 - Obediently Yours.flac
+354:Logic/Logic - Supermarket (Soundtrack)/1 - Bohemian Trapsody.flac
+355:Logic/Logic - Supermarket (Soundtrack)/2 - Can I Kick It.flac
+356:Logic/Logic - Supermarket (Soundtrack)/3 - Time Machine.flac
+357:Logic/Logic - Supermarket (Soundtrack)/4 - Pretty Young Girl.flac
+358:Logic/Logic - Supermarket (Soundtrack)/5 - Supermarket.flac
+359:Logic/Logic - Supermarket (Soundtrack)/6 - Baby.flac
+360:Logic/Logic - Supermarket (Soundtrack)/7 - By The Bridge.flac
+361:Logic/Logic - Supermarket (Soundtrack)/Logic - Best Friend.flac
+362:Logic/Logic - Supermarket (Soundtrack)/9 - Lemon Drop.flac
+363:Logic/Logic - Supermarket (Soundtrack)/10 - I'm Probably Gonna Rock Your World.flac
+364:Logic/Logic - Supermarket (Soundtrack)/11 - Vacation From Myself.flac
+365:Logic/Logic - Supermarket (Soundtrack)/12 - DeLorean.flac
+366:Logic/Logic - Supermarket (Soundtrack)/13 - I Love You Forever.flac
+367:Logic/Logic - The Incredible True Story (Album)/01 Contact.flac
+368:Logic/Logic - The Incredible True Story (Album)/02 Fade Away.flac
+369:Logic/Logic - The Incredible True Story (Album)/03 Upgrade.flac
+370:Logic/Logic - The Incredible True Story (Album)/04 White People (Scene).flac
+371:Logic/Logic - The Incredible True Story (Album)/05 Like Woah.flac
+372:Logic/Logic - The Incredible True Story (Album)/06 Young Jesus.flac
+373:Logic/Logic - The Incredible True Story (Album)/07 Innermission.flac
+374:Logic/Logic - The Incredible True Story (Album)/08 I Am The Greatest.flac
+375:Logic/Logic - The Incredible True Story (Album)/09 The Cube (Scene).flac
+376:Logic/Logic - The Incredible True Story (Album)/10 Lord Willin'.flac
+377:Logic/Logic - The Incredible True Story (Album)/11 City Of Stars.flac
+378:Logic/Logic - The Incredible True Story (Album)/12 Stainless.flac
+379:Logic/Logic - The Incredible True Story (Album)/13 Babel.flac
+380:Logic/Logic - The Incredible True Story (Album)/14 Paradise.flac
+381:Logic/Logic - The Incredible True Story (Album)/15 Never Been.flac
+382:Logic/Logic - The Incredible True Story (Album)/16 Run It.flac
+383:Logic/Logic - The Incredible True Story (Album)/17 Lucidity (Scene).flac
+384:Logic/Logic - The Incredible True Story (Album)/18 The Incredible True Story.flac
+385:Logic/Logic - Vinyl Days/01-logic-danger.mp3
+386:Logic/Logic - Vinyl Days/02-logic-tetris.mp3
+387:Logic/Logic - Vinyl Days/03-logic-in_my_lifetime_feat._action_bronson.mp3
+388:Logic/Logic - Vinyl Days/04-logic-decades.mp3
+389:Logic/Logic - Vinyl Days/05-logic-jj_abrahams.mp3
+390:Logic/Logic - Vinyl Days/06-logic-blackwhiteboy.mp3
+391:Logic/Logic - Vinyl Days/07-logic-quasi.mp3
+392:Logic/Logic - Vinyl Days/08-logic-bleed_it.mp3
+393:Logic/Logic - Vinyl Days/09-logic-ladonda.mp3
+394:Logic/Logic - Vinyl Days/10-logic-aaron_judge.mp3
+395:Logic/Logic - Vinyl Days/11-logic-clouds_feat._langston_bristol_and_currensy.mp3
+396:Logic/Logic - Vinyl Days/12-logic-michael_rap.mp3
+397:Logic/Logic - Vinyl Days/13-logic-therapy_music_feat..mp3
+398:Logic/Logic - Vinyl Days/14-logic-tony_revolori-.mp3
+399:Logic/Logic - Vinyl Days/15-logic-rogue_one.mp3
+400:Logic/Logic - Vinyl Days/16-logic-breath_control_feat._wiz_khalifa.mp3
+401:Logic/Logic - Vinyl Days/17-logic-nems.mp3
+402:Logic/Logic - Vinyl Days/18-logic-nardwuar_feat._doc_d.mp3
+403:Logic/Logic - Vinyl Days/19-logic-kickstyle_feat._iamjmars_and_big_lenbo_and_c_dot_castro.mp3
+404:Logic/Logic - Vinyl Days/20-logic-earlybird.mp3
+405:Logic/Logic - Vinyl Days/21-logic-ten_years_feat._royce_da_59.mp3
+406:Logic/Logic - Vinyl Days/22-logic-porta_one_feat._rza.mp3
+407:Logic/Logic - Vinyl Days/23-logic-needledrop.mp3
+408:Logic/Logic - Vinyl Days/24-logic-introducing_nezi_feat._nezi_momodu.mp3
+409:Logic/Logic - Vinyl Days/25-logic-orville_feat._blu_and_exile_and_like.mp3
+410:Logic/Logic - Vinyl Days/26-logic-carnival_feat._az.mp3
+411:Logic/Logic - Vinyl Days/27-logic-lenas_insight.mp3
+412:Logic/Logic - Vinyl Days/28-logic-vinyl_days_feat._dj_premier.mp3
+413:Logic/Logic - Vinyl Days/29-logic-i_guess_i_love_it_feat._the_game.mp3
+414:Logic/Logic - Vinyl Days/30-logic-sayonara.mp3
+415:Logic/Logic - YSIV (2018)/01. Thank You (feat. Lucy Rose & The RattPack).mp3
+416:Logic/Logic - YSIV (2018)/02. Everybody Dies.mp3
+417:Logic/Logic - YSIV (2018)/03. The Return.mp3
+418:Logic/Logic - YSIV (2018)/04. The Glorious Five.mp3
+419:Logic/Logic - YSIV (2018)/05. One Day (feat. Ryan Tedder).mp3
+420:Logic/Logic - YSIV (2018)/06. Wu Tang Forever (feat. Ghostface Killah, Raekwon, RZA, Method Man, Inspectah Deck, Cappadonna, Jackpot Scotty Wotty, U-God, Masta Killa & GZA).mp3
+421:Logic/Logic - YSIV (2018)/07. 100 Miles and Running (feat. Wale & John Lindahl).mp3
+422:Logic/Logic - YSIV (2018)/08. Ordinary Day (feat. Hailee Steinfeld).mp3
+423:Logic/Logic - YSIV (2018)/09. YSIV.mp3
+424:Logic/Logic - YSIV (2018)/10. Street Dreams II.mp3
+425:Logic/Logic - YSIV (2018)/11. The Adventures of Stoney Bob (feat. Kajo, Slaydro & Big Lenbo).mp3
+426:Logic/Logic - YSIV (2018)/12. Legacy.mp3
+427:Logic/Logic - YSIV (2018)/13. ICONIC (feat. Jaden Smith).mp3
+428:Logic/Logic - YSIV (2018)/14. Last Call.mp3
+429:Logic/Logic Presents - TwitchTape Vol.1/01 - stimuclate (prod. Logic).mp3
+430:Logic/Logic Presents - TwitchTape Vol.1/02 - groovy (prod. Logic).mp3
+431:Logic/Logic Presents - TwitchTape Vol.1/03 - little bobby (prod. Logic).mp3
+432:Logic/Logic Presents - TwitchTape Vol.1/04 - eat the rice (prod. Logic).mp3
+433:Logic/Logic Presents - TwitchTape Vol.1/05 - borat (prod. Logic).mp3
+434:Logic/Logic_-_Young_Sia_Undeniable-2012/01 - Inception.mp3
+435:Logic/Logic_-_Young_Sia_Undeniable-2012/02 - Set The Tone.mp3
+436:Logic/Logic_-_Young_Sia_Undeniable-2012/03 - Dead Presidents III.mp3
+437:Logic/Logic_-_Young_Sia_Undeniable-2012/04 - Used To Hate It.mp3
+438:Logic/Logic_-_Young_Sia_Undeniable-2012/05 - No Biggie.mp3
+439:Logic/Logic_-_Young_Sia_Undeniable-2012/06 - Disgusting (Feat C Dot Castro).mp3
+440:Logic/Logic_-_Young_Sia_Undeniable-2012/07 - Relaxation.mp3
+441:Logic/Logic_-_Young_Sia_Undeniable-2012/08 - Tic Tac Toe.mp3
+442:Logic/Logic_-_Young_Sia_Undeniable-2012/09 - ThirstMail (Skit).mp3
+443:Logic/Logic_-_Young_Sia_Undeniable-2012/10 - The Spotlight.mp3
+444:Logic/Logic_-_Young_Sia_Undeniable-2012/11 - Life Of A Don.mp3
+445:Logic/Logic_-_Young_Sia_Undeniable-2012/12 - We Get High.mp3
+446:Logic/Logic_-_Young_Sia_Undeniable-2012/13 - Numbers.mp3
+447:Logic/Logic_-_Young_Sia_Undeniable-2012/14 - 500 Days Of Summer.mp3
+448:Logic/Logic_-_Young_Sia_Undeniable-2012/15 - What You Want.mp3
+449:Logic/Logic_-_Young_Sia_Undeniable-2012/16 - Do Ya Like.mp3
+450:Logic/Logic_-_Young_Sia_Undeniable-2012/17 - Aye Girl.mp3
+451:Logic/Logic_-_Young_Sia_Undeniable-2012/18 - Young Sinatra III.mp3
+452:Logic/Logic_-_Young_Sia_Undeniable-2012/19 - All Sinatra Everything.mp3
+453:Logic/Logic_-_Young_Sia_Undeniable-2012/20 - Dear God.mp3
+454:Logic/Logic_-_Young_Sia_Undeniable-2012/21 - I Made It.mp3
+455:Logic/Logic_-_Young_Sia_Undeniable-2012/22 - World Wide.mp3
+456:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/01 - Welcome To Forever (ft Jon Bellion) (Prod by 6ix).mp3
+457:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/02 - 925 (Prod by Swiff D).mp3
+458:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/03 - Roll Call.mp3
+459:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/04 - 5AM (Prod by C-Sick).mp3
+460:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/05 - Break It Down (ft Jhene Aiko) (Prod by C-Sick).mp3
+461:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/06 - Feel Good.mp3
+462:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/07 - Saturday (skit) (ft John  Pops  Witherspoon).mp3
+463:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/08 - On The Low (ft Kid Ink Trinidad Jame) (Prod by Swiff D).mp3
+464:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/09 - Walk On By (Prod by C-Sick).mp3
+465:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/10 - The Come Up (Prod by 6ix).mp3
+466:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/11 - Nasty (Prod by Don Cannon).mp3
+467:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/12 - Life Is Good (Prod by Key Wane).mp3
+468:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/13 - Randolph Returns (skit).mp3
+469:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/14 - Ballin (ft Castro) (Prod by Arthur McArthur).mp3
+470:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/15 - Young Jedi (ft Dizzy Wright) (Prod by 6ix).mp3
+471:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/16 - The High Life (ft Elijah Blake) (Prod by Kevin Randolph).mp3
+472:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/17 - Common Logic   Midnight Marauder (Prod by C-Sick Logic).mp3
+473:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/18 - Just A Man (Prod by Kevin Randolph).mp3
+474:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/19 - Man Of The Year (Prod by NO ID).mp3
+475:Logic/Logic_-_Young_Sia_Welcome_To_Forever-2013/20 - The End (Prod by Kevin Randolph C-Sick).mp3
+476:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 01 Still Pushin 08.07.2023 v5.flac
+477:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 02 Free Music (Unmastered).flac
+478:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 03 started (2019 demo).flac
+479:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 04 I Choose You.flac
+480:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 05 POWER 08.07.2023 v3.flac
+481:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 06 rendezvous.flac
+482:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 07 Mystery Door 105.7 (SKIT).flac
+483:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 08 Smooth Operator_Ref 06.06.19.flac
+484:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 09 Dark Place (demo).flac
+485:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 10 Starfield.flac
+486:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 11 Glamorous_Ref 06.25.19 v2.flac
+487:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 12 WillIt_Ref 11.01.18.flac
+488:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 13 03_Raiders of the Lost Art (Madlib’s Mix).flac
+489:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 14 a message from my younger self (06.16.2011).flac
+490:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 15 Tired In Malibu 02.01.2021 REF.flac
+491:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 16 Super High Freestyle 08.07.2023 2.flac
+492:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 17 Feelin' My Self_Ref 06.08.19.flac
+493:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 18 2am on Tour (2018).flac
+494:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 19 Get High V3 (02.28.2015).flac
+495:Logic/Logic_Inglorious_Basterd - Inglorious Basterd/Logic_Inglorious_Basterd - Inglorious Basterd - 20 Griptape feat. John Lindahl.flac
+496:Logic/Logic-Young_Broke_Infamous/01 - Stain In The Game.mp3
+497:Logic/Logic-Young_Broke_Infamous/02 - Nothing But A Hero RMX.mp3
+498:Logic/Logic-Young_Broke_Infamous/03 - Young Sinatra.mp3
+499:Logic/Logic-Young_Broke_Infamous/04 - I Want It All.mp3
+500:Logic/Logic-Young_Broke_Infamous/05 - I Just Wanna.mp3
+501:Logic/Logic-Young_Broke_Infamous/06 - Can I Love.mp3
+502:Logic/Logic-Young_Broke_Infamous/07 - Love Jones (Skit).mp3
+503:Logic/Logic-Young_Broke_Infamous/08 - Love Jones.mp3
+504:Logic/Logic-Young_Broke_Infamous/09 - Give It To Me.mp3
+505:Logic/Logic-Young_Broke_Infamous/10 - Sunny In The Booth (Skit).mp3
+506:Logic/Logic-Young_Broke_Infamous/11 - growing pains.mp3
+507:Logic/Logic-Young_Broke_Infamous/12 - Young Broke  Infamous.mp3
+508:Logic/Logic-Young_Broke_Infamous/13 - Scenario.mp3
+509:Logic/Logic-Young_Broke_Infamous/14 - Ask Em.mp3
+510:Logic/Logic-Young_Broke_Infamous/15 - BackPack.mp3
+511:Logic/Logic-Young_Broke_Infamous/16 - Sellin Drugs.mp3
+512:Logic/Logic-Young_Broke_Infamous/17 - Worthy.mp3
+513:Logic/Logic-Young_Broke_Infamous/18 - WordPlay (Bonus).mp3
+514:Logic/Logic-Young_Broke_Infamous/19 - Back And Forth Feat C Dot Castro (Bonus).mp3
+515:Logic/Under Pressure (Deluxe Version)/01 Intro.mp3
+516:Logic/Under Pressure (Deluxe Version)/02 Soul Food.mp3
+517:Logic/Under Pressure (Deluxe Version)/03 I'm Gone.mp3
+518:Logic/Under Pressure (Deluxe Version)/04 Gang Related.mp3
+519:Logic/Under Pressure (Deluxe Version)/05 Buried Alive.mp3
+520:Logic/Under Pressure (Deluxe Version)/06 Bounce.mp3
+521:Logic/Under Pressure (Deluxe Version)/07 Growing Pains III.mp3
+522:Logic/Under Pressure (Deluxe Version)/08 Never Enough.mp3
+523:Logic/Under Pressure (Deluxe Version)/09 Metropolis.mp3
+524:Logic/Under Pressure (Deluxe Version)/10 Nikki.mp3
+525:Logic/Under Pressure (Deluxe Version)/11 Under Pressure.mp3
+526:Logic/Under Pressure (Deluxe Version)/12 Till the End.mp3
+527:Logic/Under Pressure (Deluxe Version)/13 Driving Ms Daisy (feat. Childish.mp3
+528:Logic/Under Pressure (Deluxe Version)/14 Now.mp3
+529:Logic/Under Pressure (Deluxe Version)/15 Alright (feat. Big Sean).mp3
+530:Logic/Vaccine/01 - Vaccine.flac
+531:Logic/YS Collection Vol. 1/01 - All I Do.flac
+532:Logic/YS Collection Vol. 1/02 - One.flac
+533:Logic/YS Collection Vol. 1/03 - The Come Up.flac
+534:Logic/YS Collection Vol. 1/04 - We Get High.flac
+535:Logic/YS Collection Vol. 1/05 - Relaxation.flac
+536:Logic/YS Collection Vol. 1/06 - Numbers.flac
+537:Logic/YS Collection Vol. 1/07 - 5 A.M..flac
+538:Logic/YS Collection Vol. 1/08 - Ballin'.flac
+539:Logic/YS Collection Vol. 1/09 - Man Of The Year.flac
+540:Logic/YS Collection Vol. 1/10 - Just Another Day.flac
+541:Logic/YS Collection Vol. 1/11 - Dead Presidents lll.flac
+542:Logic/YS Collection Vol. 1/12 - Inception.mp3
+543:Logic/YS Collection Vol. 1/13 - Walk On By.flac
+544:Logic/YS Collection Vol. 1/14 - Tokyo Nights.flac
+playlist_end

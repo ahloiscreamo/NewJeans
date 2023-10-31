@@ -60,8 +60,8 @@
 # For fifo 'source' will be the path to fifo-file.
 # For shmem 'source' will be /squeezelite-AA:BB:CC:DD:EE:FF where 'AA:BB:CC:DD:EE:FF' will be squeezelite's MAC address
 
-method = pipewire
-source = auto
+; method = pipewire
+; source = auto
 
 ; method = pulse
 ; source = auto
@@ -69,10 +69,10 @@ source = auto
 ; method = alsa
 ; source = hw:Loopback,1
 
-; method = fifo
-; source = /tmp/mpd.fifo
-; sample_rate = 44100
-; sample_bits = 16
+method = fifo
+source = /tmp/mpd.fifo
+sample_rate = 44100
+sample_bits = 16
 
 ; method = shmem
 ; source = /squeezelite-AA:BB:CC:DD:EE:FF
@@ -102,7 +102,7 @@ source = auto
 # 'mono' outputs left to right lowest to highest frequencies.
 # 'mono_option' set mono to either take input from 'left', 'right' or 'average'.
 # set 'reverse' to 1 to display frequencies the other way around.
-; channels = stereo
+channels = stereo
 ; mono_option = average
 ; reverse = 0
 

@@ -40,7 +40,7 @@ bindsym Mod1+y border pixel 6
 bindsym Mod1+Shift+f --release exec farge
 
 # Kunst
-# bindsym Mod+Ctrl+m exec kunst
+ bindsym Mod+Ctrl+m exec kunst
 
 # gaps default
 gaps inner 0
@@ -49,7 +49,7 @@ gaps outer 0
 gaps top 40
 
 # enable autotiling
-exec autotiling -w 1 
+#exec autotiling -w 1 
 
 # floating mode
 #for_window [class=".*"] [floating] move absolute position center
@@ -68,6 +68,7 @@ for_window [class="firefox" window_role="Organizer"] floating enable
 for_window [class="Zathura"] floating enable, resize set 645 950, move absolute position center
 for_window [class="Gpick"] floating enable
 for_window [class="FreeTube"] floating enable, move absolute position center
+for_window [class="YouTube Music"] floating enable, border normal 0, move absolute position center
 for_window [class="Gcolor3"] floating enable
 for_window [class="gmic_qt"] floating enable
 #for_window [class="fragments"] floating enable, move absolute position center
@@ -77,6 +78,7 @@ for_window [instance="fontpreview"] floating enable
 for_window [class="SimpleScreenRecorder"] floating enable
 for_window [class="Gnome-screenshot"] floating enable, move absolute position center
 for_window [class="ark"] floating enable, move absolute position center
+for_window [class="moon fm"] floating enable, move absolute position center
 
 # exec on startup
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
@@ -87,7 +89,7 @@ exec_always xinput set-prop 13 "Device Enabled" 0
 exec --no-startup-id feh --bg-fill ~/Pictures/NewJeans_noise_dark.png
 #exec --no-startup-id feh --bg-fill ~/Pictures/Bicycle.jpg
 #exec --no-startup-id hsetroot -solid '#e0def4'
-exec --no-startup-id unclutter
+#exec --no-startup-id unclutter
 
 # xclip mpv
 bindsym Mod1+Shift+p exec /home/ahloi/youtube-watch.sh
