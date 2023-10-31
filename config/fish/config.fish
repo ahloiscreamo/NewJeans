@@ -11,7 +11,7 @@ export NNN_OPENER_DETACH=1
 export EDITOR="vim"
 export NNN_EDITOR="/usr/bin/vim"
 export NNN_VISUAL="vim"
-export NNN_COLORS="5639"
+export NNN_COLORS="5632"
 export NNN_FCOLORS="0B0B04060006060009060B06"
 export NNN_BMS='m:/mnt;g:/mnt/Kingston/gallery-dl/instagram;d:~/Downloads;p:~/Pictures;t:~/Documents;f:~/Desktop'
 export NNN_PLUG='a:addtoplaylist;j:autojump;p:preview-tui;i:imgview;l:launch;r:renamer;w:wallpaper;o:organize;x:xdgdefault'
@@ -35,8 +35,11 @@ export FZF_DEFAULT_OPTS='
 '
 
 #Bat
-export BAT_THEME="Rose Pine Moon"
-#export BAT_THEME="Catppuccin-mocha"
+export BAT_THEME="Rose-Pine-Moon"
+
+#Mangal
+export MANGAL_FORMATS_USE="cbz"
+export MANGAL_DOWNLOADER_CREATE_VOLUME_DIR="true"
 
 #Alias
 #alias nnn="nnn -r -e -x -D -C" 
@@ -47,9 +50,9 @@ alias w3m="w3m -o inline_img_protocol=4"
 alias exa="exa --icons --group-directories-first -s=type"
 alias ls="exa"
 alias ncdu="ncdu --color dark"
-alias cat="bat --paging=never"
+#alias cat="bat --paging=never"
 alias muc="muc --file ~/.local/share/fish/fish_history --count 10 --pretty --shell="fish""
-alias ytfzf="ytfzf -T kitty"
+#alias ytfzf="ytfzf -T mpv"
 
 #Firefox
 export MOZ_X11_EGL="1"
@@ -60,6 +63,7 @@ export MOZ_X11_EGL="1"
 #Kunst
 # The size of the album art to be displayed
 export KUNST_SIZE="250x250"
+export KUNST_MUSIC_DIR="/mnt/Kingston/Music"
 
 #Font Preview
 # Input prompt of fuzzy searcher
@@ -83,9 +87,6 @@ export FONTPREVIEW_FG_COLOR="#000000"
 # Preview text that should be displayed in the font preview window
 export FONTPREVIEW_PREVIEW_TEXT="ABCDEFGHIJKLM\nNOPQRSTUVWXYZ\nabcdefghijklm\nnopqrstuvwxyz\n1234567890\n!@\%(){}[]"
 
-# Where your music is located
-export KUNST_MUSIC_DIR="/gallery/Music/"
-
 #fff
 # w3m-img offsets.
 export FFF_W3M_XOFFSET=27
@@ -98,16 +99,16 @@ export FFF_OPENER="xdg-open"
 export FFF_LS_COLORS=1
 
 # Directory color [0-9]
-export FFF_COL1=4
+export FFF_COL1=5
 
 # Status background color [0-9]
-export FFF_COL2=4
+export FFF_COL2=6
 
 # Selection color [0-9] (copied/moved files)
-export FFF_COL3=6
+export FFF_COL3=3
 
 # Cursor color [0-9]
-export FFF_COL4=3
+export FFF_COL4=1
 
 # Status foreground color [0-9]
 export FFF_COL5=0
