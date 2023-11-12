@@ -12,7 +12,8 @@ export EDITOR="vim"
 export NNN_EDITOR="/usr/bin/vim"
 export NNN_VISUAL="vim"
 export NNN_COLORS="5632"
-export NNN_FCOLORS="0B0B04060006060009060B06"
+export NNN_FCOLORS="0B0405020006060009060B01"
+#export NNN_FCOLORS="0000E6310000000000000000"
 export NNN_BMS='m:/mnt;g:/mnt/Kingston/gallery-dl/instagram;d:~/Downloads;p:~/Pictures;t:~/Documents;f:~/Desktop'
 export NNN_PLUG='a:addtoplaylist;j:autojump;p:preview-tui;i:imgview;l:launch;r:renamer;w:wallpaper;o:organize;x:xdgdefault'
 
@@ -23,14 +24,14 @@ alias v='googler -V --url-handler mpv $argv'
 alias yv='googler -w youtube.com --url-handler mpv $argv'
 
 #Ddgr
-export BROWSER=w3m
+export BROWSER="w3m"
 
 #Qt5ct
 export QT_QPA_PLATFORMTHEME="qt5ct"
 
 #fzf
 export FZF_DEFAULT_OPTS='
---color fg:#e0def4,bg:#232136,hl:#3e8fb0,fg+:#232136,bg+:#ea9a97,hl+:#3e8fb0
+--color fg:#e0def4,bg:#232136,hl:#3e8fb0,fg+:#232136,bg+:#3e8fb0,hl+:#3e8fb0
 --color pointer:#232136,info:#e0def4,spinner:#e0def4,header:#e0def4,prompt:#c4a7e7,marker:#c4a7e7,border:#393552,gutter:#c4a7e7
 '
 
@@ -43,16 +44,21 @@ export MANGAL_DOWNLOADER_CREATE_VOLUME_DIR="true"
 
 #Alias
 #alias nnn="nnn -r -e -x -D -C" 
-alias nnn="nnn -r -e -x -C"
+#alias nnn="nnn -r -e -x -C"
+alias nnn="nnn -r -e -x"
 alias icat="kitty +kitten icat"
 alias stig="stig tui hide topbar"
 alias w3m="w3m -o inline_img_protocol=4"
-alias exa="exa --icons --group-directories-first -s=type"
-alias ls="exa"
+alias eza="eza --icons --group-directories-first -s=type"
+alias ls="eza"
 alias ncdu="ncdu --color dark"
 #alias cat="bat --paging=never"
 alias muc="muc --file ~/.local/share/fish/fish_history --count 10 --pretty --shell="fish""
+alias tap="tap -db --color fg=e0def4,bg=232136,hl=c4a7e7,prompt=3e8fb0,header=ea9a97,header+=eb6f92,progress=f6c177,info=3e8fb0,err=eb6f92"
 #alias ytfzf="ytfzf -T mpv"
+
+#Icons_in_terminal
+source ~/.local/share/icons-in-terminal/icons.fish
 
 #Firefox
 export MOZ_X11_EGL="1"
@@ -62,7 +68,7 @@ export MOZ_X11_EGL="1"
 
 #Kunst
 # The size of the album art to be displayed
-export KUNST_SIZE="250x250"
+export KUNST_SIZE="270x270"
 export KUNST_MUSIC_DIR="/mnt/Kingston/Music"
 
 #Font Preview
@@ -122,8 +128,8 @@ export FFF_COL5=0
 # Cargo Rust path
 export PATH="$HOME/.cargo/bin:$PATH"
 
-# fish 
-set -gx BROWSER firefox
+# fish
+#set -gx BROWSER firefox
 set -U fish_color_command 81a1c1
 set -U fish_color_match --background=blue
 set -U fish_color_user green
