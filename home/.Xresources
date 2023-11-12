@@ -7,7 +7,7 @@ Sxiv.background: #232136
 Nsxiv.bar.font         : MapleMonoNF-Bold:size=9 
 Nsxiv.bar.background   : #c4a7e7
 Nsxiv.bar.foreground   : #232136
-Nsxiv.window.foreground: #ea9a97
+Nsxiv.window.foreground: #3e8fb0
 Nsxiv.window.background: #232136
 Nsxiv.mark.foreground  : #c4a7e7
 
