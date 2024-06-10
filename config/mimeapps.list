@@ -1,10 +1,13 @@
 [Added Associations]
 font/ttf=org.gnome.FontViewer.desktop;
-image/jpeg=org.inkscape.Inkscape.desktop;
+image/jpeg=krita_jpeg.desktop;sxiv.desktop;org.inkscape.Inkscape.desktop;
 image/svg+xml=org.inkscape.Inkscape.desktop;
 image/gif=krita_gif.desktop;
 audio/x-dsf=mpv.desktop;
 application/zip=engrampa.desktop;org.kde.ark.desktop;xarchiver.desktop;
+image/png=krita_png.desktop;
+application/pdf=org.inkscape.Inkscape.desktop;firefox.desktop;
+application/x-krita=krita_kra.desktop;krita_krz.desktop;
 
 [Default Applications]
 image/jpeg=nsxiv-rifle.desktop
@@ -20,7 +23,7 @@ video/x-msvideo=mpv.desktop
 image/webp=nsxiv-rifle.desktop
 video/flv=mpv.desktop
 video/x-flv=mpv.desktop
-text/plain=nvim.desktop
+text/plain=vim.desktop
 audio/mpeg=mpv.desktop
 image/gif=nsxiv.desktop
 application/vnd.comicbook-rar=org.pwmt.zathura.desktop
@@ -30,3 +33,5 @@ application/epub+zip=org.pwmt.zathura.desktop
 application/vnd.comicbook+zip=org.pwmt.zathura.desktop
 application/x-cbt=org.pwmt.zathura.desktop
 application/vnd.rar=unrar.desktop
+image/jpg=nsxiv-rifle.desktop
+audio/x-dsf=mpv.desktop
