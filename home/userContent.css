@@ -1,0 +1,13 @@
+@-moz-document url("about:newtab"),
+               url("about:home")
+{
+  :root[lwt-newtab-brighttext] {
+    --newtab-background-color: #232136 !important;
+  }
+}
+
+body {
+    --newtab-background-color-secondary: #393552 !important;
+    --newtab-text-primary-color: #e0def4 !important;
+    --newtab-primary-action-background-pocket: #c4a7e7 !important;
+}
