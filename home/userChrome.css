@@ -1,311 +1,54 @@
-/* Linux & macOS specific styles */
-@media (-moz-gtk-csd-available), (-moz-mac-big-sur-theme: 0), (-moz-mac-big-sur-theme: 1) {
-    #TabsToolbar:not([customizing="true"]) {
-        visibility: collapse !important;
-    }
+/* ########  Sidetabs Styles  ######### */
 
-    #toolbar-menubar {
-        padding-top: 0px !important;
-    }
-
-    #TabsToolbar:not([customizing="true"]) {
-        visibility: collapse !important;
-    }
-
-    #toolbar-menubar {
-        padding-top: 0px !important;
-    }
-
-    #nav-bar {
-        padding-left: 80px;
-    }
-
-    #TabsToolbar .titlebar-buttonbox-container {
-        visibility: visible !important;
-        position: absolute;
-        top: 12px;
-        left: 0px;
-    }
-
-    .titlebar-buttonbox-container {
-        display: block;
-    }
-
-    .titlebar-button > .toolbarbutton-icon {
-        height: 13x !important;
-        min-height: 13px !important;
-        width: 13px !important;
-        min-width: 13px !important;
-    }
-
-    .titlebar-button {
-        padding-left: 6px !important;
-        padding-right: 6px !important;
-        padding-top: 6px !important;
-    }
-
-    .titlebar-placeholder[type="pre-tabs"] {
-        width: 120px !important;
-    }
-
-    .titlebar-buttonbox-container {
-        -moz-box-ordinal-group: 0;
-    }
+/* ~~~~~~~~ Autohiding styles ~~~~~~~~~ */
+:root {
+ --sidebar-hover-width: 36px;
+ --sidebar-visible-width: 190px;
+ --sidebar-debounce-delay: 150ms;
+ 
 }
-
-
-/* Windows specific styles */
-@media (-moz-platform: windows-win10) {
-    /* Hide main tabs toolbar */
-    :root[tabsintitlebar]{
-        --uc-window-control-width: 138px; /* Space at the right of nav-bar for window controls */
-        /* --uc-window-drag-space-width: 24px; */  /* To add extra window drag space in nav-bar */
-    }
-
-    #nav-bar{
-        border-inline: var(--uc-window-drag-space-width,0px) solid var(--toolbar-bgcolor) ;
-        border-inline-style: solid !important;
-        border-right-width: calc(var(--uc-window-control-width,0px) + var(--uc-window-drag-space-width,0px));
-
-        padding-top: 0px !important;
-        margin-left: -80px; /* Removes the space left when hiding .titlebar-buttonbox-container */
-    }
-
-    :root {
-        --uc-toolbar-height: 32px;
-        --chrome-content-separator-color: none !important;
-    }
-
-    :root:not([uidensity="compact"]) {
-        --uc-toolbar-height: 38px;
-    }
-
-    #TabsToolbar {
-        visibility: collapse !important;
-    }
-
-    /* Hide the Windows controls on the left side. */
-    #TabsToolbar .titlebar-buttonbox-container {
-        visibility: hidden !important;
-    }
-    /* Line up the Windows controls with the rest of the icons in the toolbar. */
-    .titlebar-buttonbox-container {
-        margin-top: 7px;
-    }
-
-    :root:not([inFullscreen]) #nav-bar {
-        margin-top: calc(0px - var(--uc-toolbar-height));
-    }
-
-    #toolbar-menubar {
-        min-height: unset !important;
-        height: var(--uc-toolbar-height) !important;
-        position: relative;
-    }
-
-    #main-menubar {
-        -moz-box-flex: 1;
-        background-color: var(--toolbar-bgcolor,--toolbar-non-lwt-bgcolor);
-        background-clip: padding-box;
-        border-right: 30px solid transparent;
-        border-image: linear-gradient(to left, transparent, var(--toolbar-bgcolor,--toolbar-non-lwt-bgcolor) 30px) 20 / 30px;
-    }
-
-    #toolbar-menubar:not([inactive]) {
-        z-index: 2;
-    }
-
-    #toolbar-menubar[inactive] > #menubar-items {
-        opacity: 0;
-        pointer-events: none;
-        margin-left: var(--uc-window-drag-space-width,0px);
-    }
-
-    :root[inFullscreen] #nav-bar {
-        border-inline: none !important;
-    }
+#sidebar-box {
+ display: grid !important;
+ min-width: var(--sidebar-hover-width) !important;
+ max-width: var(--sidebar-hover-width) !important;
+ overflow: visible !important;
+ height: 100% !important;
+ min-height: 100% !important;
+ max-height: 100% !important;
 }
-
-
-/* General styles */
-#browser {
-    position: relative;
+#sidebar {
+ height: 100% !important;
+ width: var(--sidebar-hover-width) !important;
+ z-index: 200 !important;
+ position: absolute !important;
+ transition: width 150ms var(--sidebar-debounce-delay) ease !important;
+ min-width: 0 !important;
 }
-
-#nav-bar, #urlbar {
-    z-index: 100;
+#sidebar:hover {
+ width: var(--sidebar-visible-width) !important;
 }
-
-#sidebar-box[sidebarcommand*="tabcenter"] {
-    z-index: 1;
+/* ~~~~~~~~ Hidden elements styles ~~~~~~~~~ */
+#TabsToolbar>:not(.titlebar-buttonbox-container) {
+	display: none !important;
 }
-
-#sidebar-box[sidebarcommand*="tabcenter"] #sidebar-header {
-    visibility: collapse;
-    display: none;
+#navigator-toolbox {
+	/*This rule has no effect on windows*/
+	background: var(--toolbar-bgcolor) !important
 }
-
-#sidebar-box[sidebarcommand*="tabcenter"]:not([hidden]) {
-    display: block;
-    position: absolute;
-    min-width: 48px;
-    max-width: 48px;
-    overflow: hidden;
-    transition: all 0.2s ease;
-    border-right: 1px solid var(--sidebar-border-color);
-    z-index: 1;
-    top: 0;
-    bottom: 0;
+@media not (-moz-platform: macos), (-moz-mac-rtl)  {
+	#TabsToolbar>.titlebar-buttonbox-container {
+		margin-left: auto !important;
+	}
 }
-
-[sidebarcommand*="tabcenter"] #sidebar,
-#sidebar-box[sidebarcommand*="tabcenter"]:hover {
-    min-width: 10vw !important;
-    width: 30vw !important;
-    max-width: 200px !important;
-    z-index: 10 !important;
+@media (-moz-platform: macos)  {
+	#TabsToolbar>.titlebar-buttonbox-container {
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
 }
-
-@media (width >= 1200px) {
-    [sidebarcommand*="tabcenter"] #sidebar,
-    #sidebar-box[sidebarcommand*="tabcenter"]:hover {
-        max-width: 250px !important;
-    }
+#sidebar-header {
+	display: none !important;
 }
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
-[sidebarcommand*="tabcenter"] ~ #sidebar-splitter {
-    display: none;
-}
-
-[sidebarcommand*="tabcenter"] #sidebar {
-    max-height: 100%;
-    height: 100%;
-}
-
-#sidebar-box[sidebarcommand*="tabcenter"]:not([hidden]) ~ #appcontent {
-    margin-left: 48px;
-}
-
-#main-window[inFullscreen][inDOMFullscreen] #appcontent {
-    margin-left: 0;
-}
-
-#main-window[inFullscreen] #sidebar {
-    height: 100vh;
-}
-
-[sidebarcommand*="tabcenter"] #sidebar-header {
-    background: #0C0C0D;
-    border-bottom: none !important;
-}
-
-[sidebarcommand*="tabcenter"] ~ #sidebar-splitter {
-    border-right-color: #0C0C0D !important;
-    border-left-color: #0C0C0D !important;
-}
-
-[sidebarcommand*="tabcenter"] #sidebar-switcher-target,
-[sidebarcommand*="tabcenter"] #sidebar-close {
-    filter: invert(100%);
-}
-
-@media (max-width: 630px) {
-    #urlbar-container {
-        min-width: 100% !important;
-    }
-
-    #menubar-items {
-        display: none !important;
-    }
-}
-
-/* Source file https://github.com/MrOtherGuy/firefox-csshacks/tree/master/chrome/autohide_sidebar.css made available under Mozilla Public License v. 2.0
-See the above repository for updates as well as full license text. */
-
-/* Show sidebar only when the cursor is over it  */
-/* The border controlling sidebar width will be removed so you'll need to modify these values to change width */
-
-#sidebar-box{
-  --uc-sidebar-width: 46px;
-  --uc-sidebar-hover-width: 210px;
-  --uc-autohide-sidebar-delay: 600ms; /* Wait 0.6s before hiding sidebar */
-  position: relative;
-  min-width: var(--uc-sidebar-width) !important;
-  width: var(--uc-sidebar-width) !important;
-  max-width: var(--uc-sidebar-width) !important;
-  z-index:1;
-}
-
-#sidebar-box[positionend]{ direction: rtl }
-#sidebar-box[positionend] > *{ direction: ltr }
-
-#sidebar-box[positionend]:-moz-locale-dir(rtl){ direction: ltr }
-#sidebar-box[positionend]:-moz-locale-dir(rtl) > *{ direction: rtl }
-
-#main-window[sizemode="fullscreen"] #sidebar-box{ --uc-sidebar-width: 1px; }
-
-#sidebar-splitter{ display: none }
-
-#sidebar-header{
-  overflow: hidden;
-  color: var(--chrome-color, inherit) !important;
-  padding-inline: 0 !important;
-}
-
-#sidebar-header::before,
-#sidebar-header::after{
-  content: "";
-  display: -moz-box;
-  padding-left: 2px;
-}
-
-#sidebar-switcher-target{
-  -moz-box-pack: start !important;
-}
-
-#sidebar-header,
-#sidebar{
-  transition: min-width 115ms linear var(--uc-autohide-sidebar-delay) !important;
-  min-width: var(--uc-sidebar-width) !important;
-  will-change: min-width;
-}
-#sidebar-box:hover > #sidebar-header,
-#sidebar-box:hover > #sidebar{
-  min-width: var(--uc-sidebar-hover-width) !important;
-  transition-delay: 0ms !important;
-}
-
-.sidebar-panel{
-  background-color: transparent !important;
-  color: var(--newtab-text-primary-color) !important;
-}
-
-.sidebar-panel #search-box{
-  -moz-appearance: none !important;
-  background-color: rgba(249,249,250,0.1) !important; 
-  color: inherit !important;
-}
-
-/* Add sidebar divider and give it background */
-
-#sidebar,
-#sidebar-header{
-  background-color: inherit !important;
-  border-inline: 1px solid rgb(35,33,54);
-  border-inline-width: 0px 6px;
-}
-
-#sidebar-box:not([positionend]) > :-moz-locale-dir(rtl),
-#sidebar-box[positionend] > *{
-  border-inline-width: 1px 0px;
-}
-
-/* Move statuspanel to the other side when sidebar is hovered so it doesn't get covered by sidebar */
-
-#sidebar-box:not([positionend]):hover ~ #appcontent #statuspanel{
-  inset-inline: auto 0px !important;
-}
-#sidebar-box:not([positionend]):hover ~ #appcontent #statuspanel-label{
-  margin-inline: 0px !important;
-  border-left-style: solid !important; 
-}
+/* #################################### */
