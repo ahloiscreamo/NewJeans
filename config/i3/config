@@ -1,6 +1,6 @@
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:Readex Pro Bold italic 4
+font pango:Readex Pro Bold italic 6
 title_align center
 
 # Start XDG autostart .desktop files using dex. See also
@@ -24,12 +24,13 @@ bindsym Mod1+Return exec kitty
 # disable border
 #for_window [class="^.*"] border normal 0
 for_window [class="^.*"] border pixel 6
+#for_window [class="^.*"] border pixel 4
 
 # Activate smart borders (always)
 smart_borders on
 
 # Activate smart gaps
-# smart_gaps on
+smart_gaps on
 
 # Toggle title bar
 bindsym Mod1+t border normal 0
@@ -40,7 +41,7 @@ bindsym Mod1+y border pixel 6
 bindsym Mod1+Shift+f --release exec farge
 
 # Kunst
- bindsym Mod+Ctrl+m exec kunst
+bindsym Mod1+Ctrl+m exec kunst --music_dir "/mnt/Kingston/Music" --size "280x280"
 
 # gaps default
 gaps inner 0
@@ -54,12 +55,18 @@ gaps top 40
 # floating mode
 #for_window [class=".*"] [floating] move absolute position center
 for_window [class="kitty"] floating enable, border normal 0
+#for_window [class="kitty"] floating enable
 for_window [window_role="About"] floating enable
-for_window [class="mpv"] floating enable, move absolute position center
+#for_window [class="mpv"] floating enable, move absolute position center
+for_window [class="mpv"] floating enable
+for_window [class="ffplay"] floating enable, move absolute position center
+for_window [window_role="PictureInPicture"] floating enable, border pixel 1, move absolute position center
 for_window [title="Authy"] floating enable
 for_window [class="Yad"] floating enable
 #for_window [class="Sxiv"] floating enable, resize set 349px 440px
-for_window [class="cmusCoverViewer"] floating enable, border normal 0, resize set 280px 292px
+#for_window [class="cmusCoverViewer"] floating enable, border normal 0, resize set 280px 292px
+#for_window [class="cmusCoverViewer"] floating enable, resize set 280px 292px
+for_window [class="cmusCoverViewer"] floating enable, border normal 0, resize set 300px 314px
 for_window [class="cavalier"] floating enable
 for_window [class="Thunar"] floating enable, move absolute position center
 for_window [class="Sxiv"] floating enable, 
@@ -69,7 +76,7 @@ for_window [class="Zathura"] floating enable, resize set 645 950, move absolute 
 for_window [class="Gpick"] floating enable
 for_window [class="FreeTube"] floating enable, move absolute position center
 for_window [class="YouTube Music"] floating enable, border normal 0, move absolute position center
-for_window [class="Gcolor3"] floating enable
+for_window [class="Nl.hjdskes.gcolor3"] floating enable
 for_window [class="gmic_qt"] floating enable
 #for_window [class="fragments"] floating enable, move absolute position center
 for_window [class="Transmission-gtk"] floating enable, move absolute position center
@@ -83,9 +90,11 @@ for_window [class="moon fm"] floating enable, move absolute position center
 # exec on startup
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 #exec --no-startup-id picom -b
-exec_always xinput set-prop 15 "Device Enabled" 0
-exec_always xinput set-prop 14 "Device Enabled" 0
-exec_always xinput set-prop 13 "Device Enabled" 0
+#exec_always xinput set-prop 15 "Device Enabled" 0
+exec_always xinput --disable "Wacom Intuos Pro S Finger"
+exec_always xinput --disable "Wacom Intuos Pro S Pad"
+exec_always xinput --disable "Wacom Intuos Pro S Pen Eraser (0x3780cc3a)"
+#exec --no-startup-id feh --bg-fill ~/Pictures/NewJeans_noise.png
 exec --no-startup-id feh --bg-fill ~/Pictures/NewJeans_noise_dark.png
 #exec --no-startup-id feh --bg-fill ~/Pictures/Bicycle.jpg
 #exec --no-startup-id hsetroot -solid '#e0def4'
@@ -140,7 +149,7 @@ bindsym Mod1+v split v
 bindsym Mod1+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
-bindsym Mod1+s layout stacking
+#$bindsym Mod1+s layout stacking
 #bindsym Mod1+w layout tabbed
 bindsym Mod1+e layout toggle split
 
@@ -170,7 +179,7 @@ set $ws2 "WEB "
 set $ws3 "DRAW "
 set $ws4 "MPV "
 set $ws5 "SEED "
-set $ws6 "CIDER "
+set $ws6 "YOUTUBE MUSIC "
 set $ws7 "EASYEFFECT "
 set $ws8 "8"
 set $ws9 "9"
@@ -184,7 +193,8 @@ assign [class="krita"] $ws3
 assign [class="Inkscape"] $ws3
 assign [class="mpv"] $ws4
 assign [class="Transmission-gtk"] $ws5
-assign [class="Cider"] $ws6
+assign [class="org.nicotine_plus.Nicotine"] $ws5
+assign [class="YouTube Music"] $ws6
 assign [class="easyeffects"] $ws7
 assign [window_role="PictureInPictures"] $ws4
 
@@ -262,8 +272,9 @@ bindsym Mod1+Shift+Up resize shrink width $x_spd px or $x_spd ppt, resize shrink
 bindsym Mod1+Shift+Down resize grow width $x_spd px or $x_spd ppt, resize grow height $x_spd px or $x_spd ppt, move left $hx_spd px, move up $hx_spd px
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #c4a7e7 #c4a7e7 #c4a7e7   #c4a7e7   #c4a7e7 
+client.focused          #c4a7e7 #c4a7e7 #c4a7e7   #c4a7e7   #c4a7e7
 client.focused_inactive #ea9a97 #ea9a97 #ea9a97   #ea9a97   #ea9a97
+#client.focused_inactive #393552 #393552 #393552   #393552   #393552
 client.unfocused        #c4a7e7 #c4a7e7 #c4a7e7   #c4a7e7   #c4a7e7 
 client.urgent           #eb6f92 #eb6f92 #eb6f92   #eb6f92   #eb6f92
 client.placeholder      #232136 #232136 #232136   #232136   #232136
