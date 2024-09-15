@@ -5,9 +5,6 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-# alias ls='ls --color=auto'
-# PS1='[\u@\h \W]\$ '
-
 #NNN
 export NNN_FIFO="/tmp/nnn.fifo nnn"
 export NNN_PREVIEW="/tmp/nnn-preview-tui-fifopid."
@@ -16,43 +13,53 @@ export NNN_OPENER_DETACH=1
 export EDITOR="vim"
 export NNN_EDITOR="/usr/bin/vim"
 export NNN_VISUAL="vim"
-export NNN_COLORS="4136"
-#export NNN_FCOLORS="0B0B04060006060009060B06"
-BLK="0B" CHR="0B" DIR="04" EXE="06" REG="00" HARDLINK="06" SYMLINK="06" MISSING="00" ORPHAN="09" FIFO="06" SOCK="0B" OTHER="06"
-export NNN_FCOLORS="$BLK$CHR$DIR$EXE$REG$HARDLINK$SYMLINK$MISSING$ORPHAN$FIFO$SOCK$OTHER"
+export NNN_COLORS="5632"
+export NNN_FCOLORS="0B0405020006060009060B01"
 export NNN_BMS='m:/mnt;g:/mnt/Kingston/gallery-dl/instagram;d:~/Downloads;p:~/Pictures;t:~/Documents;f:~/Desktop'
-export NNN_PLUG='j:autojump;p:preview-tui;l:launch;r:renamer;w:wallpaper;o:organize;x:xdgdefault'
+export NNN_PLUG='a:addtoplaylist;j:autojump;p:preview-tui;i:imgview;l:launch;r:renamer;w:wallpaper;o:organize;x:xdgdefault'
 
-#Googler
-#for Google Videos (any source)
-alias v='googler -V --url-handler mpv $argv'
-#for site-specific videos (e.g. YouTube)
-alias yv='googler -w youtube.com --url-handler mpv $argv'
+#Ddgr
+export BROWSER="w3m"
+
+#Qt5ct
+export QT_QPA_PLATFORMTHEME="qt5ct"
 
 #fzf
-export FZF_DEFAULT_OPTS='
---color fg:#D8DEE9,bg:#242d4f,hl:#A3BE8C,fg+:#D8DEE9,bg+:#b08ba9,hl+:#A3BE8C
---color pointer:#d9dbdf,info:#d9dbdf,spinner:#d9dbdf,header:#d9dbdf,prompt:#81A1C1,marker:#EBCB8B,border:#b38dac,gutter:#81a1c1
-'
+export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
+  --color=fg:#e0def4,fg+:#e0def4,bg:#232136,bg+:#393552
+  --color=hl:#3e8fb0,hl+:#9ccfd8,info:#f6c177,marker:#f6c177
+  --color=prompt:#eb6f92,spinner:#c4a7e7,pointer:#c4a7e7,header:#9ccfd8
+  --color=border:#6e6a86,label:#aeaeae,query:#d9d9d9
+  --border="rounded" --border-label="" --preview-window="noborder" --prompt="> "
+  --marker=">" --pointer="◆" --separator="─" --scrollbar="│"'
 
 #Bat
-export BAT_THEME="Nord"
+export BAT_THEME="Rose-Pine-Moon"
+
+#Mangal
+export MANGAL_FORMATS_USE="cbz"
+export MANGAL_DOWNLOADER_CREATE_VOLUME_DIR="true"
 
 #Alias
-#alias nnn="nnn -r -e -x -D -C" 
+alias magic="magic-tape.sh"
 alias nnn="nnn -r -e -x"
 alias icat="kitty +kitten icat"
-alias stig="stig tui hide topbar"
+alias w3m="w3m -o inline_img_protocol=4"
+alias eza="eza --icons --group-directories-first -s=type"
+alias ls="eza"
+alias ncdu="ncdu --color dark"
+alias archwiki-offline="archwiki-offline -o w3m -m fzf"
+alias archwiki="archwiki-offline"
+alias muc="muc --file ~/.local/share/fish/fish_history --count 10 --pretty --shell="fish""
+alias tap="tap -db --color fg=e0def4,bg=232136,hl=c4a7e7,prompt=3e8fb0,header=ea9a97,header+=eb6f92,progress=f6c177,info=3e8fb0,err=eb6f92"
 
 #Firefox
 export MOZ_X11_EGL="1"
 
-#Ranger
-#export RANGER_LOAD_DEFAULT_RC=false
-
 #Kunst
 # The size of the album art to be displayed
-export KUNST_SIZE="250x250"
+export KUNST_SIZE="280x280"
+export KUNST_MUSIC_DIR="/mnt/Kingston/Music"
 
 #Font Preview
 # Input prompt of fuzzy searcher
@@ -76,9 +83,6 @@ export FONTPREVIEW_FG_COLOR="#000000"
 # Preview text that should be displayed in the font preview window
 export FONTPREVIEW_PREVIEW_TEXT="ABCDEFGHIJKLM\nNOPQRSTUVWXYZ\nabcdefghijklm\nnopqrstuvwxyz\n1234567890\n!@\%(){}[]"
 
-# Where your music is located
-export KUNST_MUSIC_DIR="/gallery/Music/"
-
 #fff
 # w3m-img offsets.
 export FFF_W3M_XOFFSET=27
@@ -91,20 +95,21 @@ export FFF_OPENER="xdg-open"
 export FFF_LS_COLORS=1
 
 # Directory color [0-9]
-export FFF_COL1=4
+export FFF_COL1=5
 
 # Status background color [0-9]
-export FFF_COL2=4
+export FFF_COL2=6
 
 # Selection color [0-9] (copied/moved files)
-export FFF_COL3=6
+export FFF_COL3=3
 
 # Cursor color [0-9]
-export FFF_COL4=3
+export FFF_COL4=1
 
 # Status foreground color [0-9]
 export FFF_COL5=0
 
+# No Idea
 if [ "$TERM" = "linux" ]; then
     _SEDCMD='s/.*\*color\([0-9]\{1,\}\).*#\([0-9a-fA-F]\{6\}\).*/\1 \2/p'
     for i in $(sed -n "$_SEDCMD" $HOME/.Xresources | awk '$1 < 16 {printf "\\e]P%X%s", $1, $2}'); do
@@ -115,5 +120,5 @@ fi
 
 #autostartx x
 if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
-      exec startx
+      exec startx 
 fi

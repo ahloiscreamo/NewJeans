@@ -13,15 +13,8 @@ export NNN_EDITOR="/usr/bin/vim"
 export NNN_VISUAL="vim"
 export NNN_COLORS="5632"
 export NNN_FCOLORS="0B0405020006060009060B01"
-#export NNN_FCOLORS="0000E6310000000000000000"
 export NNN_BMS='m:/mnt;g:/mnt/Kingston/gallery-dl/instagram;d:~/Downloads;p:~/Pictures;t:~/Documents;f:~/Desktop'
 export NNN_PLUG='a:addtoplaylist;j:autojump;p:preview-tui;i:imgview;l:launch;r:renamer;w:wallpaper;o:organize;x:xdgdefault'
-
-#Googler
-#for Google Videos (any source)
-alias v='googler -V --url-handler mpv $argv'
-#for site-specific videos (e.g. YouTube)
-alias yv='googler -w youtube.com --url-handler mpv $argv'
 
 #Ddgr
 export BROWSER="w3m"
@@ -35,7 +28,7 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
   --color=hl:#3e8fb0,hl+:#9ccfd8,info:#f6c177,marker:#f6c177
   --color=prompt:#eb6f92,spinner:#c4a7e7,pointer:#c4a7e7,header:#9ccfd8
   --color=border:#6e6a86,label:#aeaeae,query:#d9d9d9
-  --border="rounded" --border-label="" --preview-window="border-rounded" --prompt="> "
+  --border="rounded" --border-label="" --preview-window="noborder" --prompt="> "
   --marker=">" --pointer="◆" --separator="─" --scrollbar="│"'
 
 #Set up fzf key bindings
@@ -49,30 +42,23 @@ export MANGAL_FORMATS_USE="cbz"
 export MANGAL_DOWNLOADER_CREATE_VOLUME_DIR="true"
 
 #Alias
-#alias nnn="nnn -r -e -x -D -C" 
-#alias nnn="nnn -r -e -x -C"
+alias magic="magic-tape.sh"
 alias nnn="nnn -r -e -x"
 alias icat="kitty +kitten icat"
-alias stig="stig tui hide topbar"
 alias w3m="w3m -o inline_img_protocol=4"
 alias eza="eza --icons --group-directories-first -s=type"
 alias ls="eza"
 alias ncdu="ncdu --color dark"
 alias archwiki-offline="archwiki-offline -o w3m -m fzf"
 alias archwiki="archwiki-offline"
-#alias cat="bat --paging=never"
 alias muc="muc --file ~/.local/share/fish/fish_history --count 10 --pretty --shell="fish""
 alias tap="tap -db --color fg=e0def4,bg=232136,hl=c4a7e7,prompt=3e8fb0,header=ea9a97,header+=eb6f92,progress=f6c177,info=3e8fb0,err=eb6f92"
-#alias ytfzf="ytfzf -T mpv"
 
 #Icons_in_terminal
 source ~/.local/share/icons-in-terminal/icons.fish
 
 #Firefox
 export MOZ_X11_EGL="1"
-
-#Ranger
-#export RANGER_LOAD_DEFAULT_RC=false
 
 #Kunst
 # The size of the album art to be displayed
@@ -127,12 +113,6 @@ export FFF_COL4=1
 # Status foreground color [0-9]
 export FFF_COL5=0
 
-# Shfm
-#export SHFM_OPENER="$HOME/.config/shfm/SHFM_OPENER"
-
-# Pip packages path
-#export PATH="$HOME/.local/bin:$PATH"
-
 # Cargo Rust path
 export PATH="$HOME/.cargo/bin:$PATH"
 
@@ -144,7 +124,6 @@ set -U fish_color_user green
 
 # Starship (https://github.com/starship/starship)
 starship init fish | source
-
 
 # Created by `pipx` on 2023-12-07 10:26:03
 set PATH $PATH /home/ahloi/.local/bin
