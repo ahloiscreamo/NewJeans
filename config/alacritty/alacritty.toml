@@ -1,0 +1,18 @@
+# Theme
+import = ["~/.config/alacritty/rose-pine-moon.toml"]
+
+[shell]
+program = "/bin/fish"
+args = ["-l"]
+
+[window]
+padding = { x = 20,y = 20 }
+dynamic_padding = false
+
+[font]
+normal = { family = "Maple Mono NF", style = "Regular" }
+bold   = { family = "Maple Mono NF", style = "Bold" }
+italic = { family = "Maple Mono NF", style = "Italic" }
+bold_italic = { family = "Maple Mono NF", style = "Bold Italic" }
+
+
