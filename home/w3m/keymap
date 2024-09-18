@@ -1,0 +1,2 @@
+keymap i COMMAND "SET_OPTION display_image=toggle ; RESHAPE"
+keymap R COMMAND "READ_SHELL 'rdrview $W3M_URL -H 2> /dev/null 1> /tmp/readable.html' ; LOAD /tmp/readable.html"
