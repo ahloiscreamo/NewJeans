@@ -28,26 +28,15 @@
  width: var(--sidebar-visible-width) !important;
 }
 /* ~~~~~~~~ Hidden elements styles ~~~~~~~~~ */
-#TabsToolbar>:not(.titlebar-buttonbox-container) {
+#TabsToolbar {
 	display: none !important;
-}
-#navigator-toolbox {
-	/*This rule has no effect on windows*/
-	background: var(--toolbar-bgcolor) !important
-}
-@media not (-moz-platform: macos), (-moz-mac-rtl)  {
-	#TabsToolbar>.titlebar-buttonbox-container {
-		margin-left: auto !important;
-	}
-}
-@media (-moz-platform: macos)  {
-	#TabsToolbar>.titlebar-buttonbox-container {
-		margin-top: 5px;
-		margin-bottom: 5px;
-	}
 }
 #sidebar-header {
 	display: none !important;
+}
+/* ~~~~~~~~ Remove navbar bottom 1px border ~~~~~~~~~ */
+#navigator-toolbox #nav-bar {
+margin-bottom: -1px !important;      
 }
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
