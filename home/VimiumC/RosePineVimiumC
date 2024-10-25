@@ -1,10 +1,20 @@
 /* find-host, not working write to the find-host section, so I put it outside */
 .R.HM.D>.LH {
-    background: #3e8fb0cc;
+    background: #f6c177;
     border: none;
     border-radius: 1px;
     backdrop-filter: blur(1.5px);
-    color: #e0def4;
+    color: #191724;
+    font-size: 14px;
+}
+
+/* hints matching chars */
+.MC {
+  color: #3e8fb0;
+}
+
+.D .MC {
+  color: #ffffff;
 }
 
 /* #ui */
@@ -16,13 +26,13 @@
 
 @media screen and (min-width: 1080px) {
     .Omnibar {
-       left: calc(20vw - 12px);
+       left: calc(20vw - 13px);
        width: calc(60vw + 24px); 
     }
 }
 @media screen and (min-width: 1080px) {
     .Omnibar {
-       left: calc(30vw - 12px);
+       left: calc(30vw - 13px);
        width: calc(40vw + 24px); 
     }
 }
@@ -46,7 +56,8 @@
 }
 
 body::after {
-    border: none;
+    border: yes;
+    border-color: #56526e;
 }
 
 .item {
@@ -76,7 +87,7 @@ body::after {
 }
 
 .bottom>a {
-    font-size: .12;
+    font-size: .13;
 }
 
 #toolbar {
