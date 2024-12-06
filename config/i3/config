@@ -7,6 +7,12 @@ title_align center
 # https://wiki.archlinux.org/index.php/XDG_Autostart
 exec --no-startup-id dex --autostart --environment i3
 
+# Disable/enable shortcut
+mode "pass-through" { 
+   bindsym Mod1+p mode "default" 
+} 
+bindsym Mod1+p mode "pass-through"   
+
 # use these keys for focus, movement, and resize directions when reaching for
 # the arrows is not convenient
 set $up k
@@ -23,7 +29,7 @@ bindsym Mod1+Return exec kitty
 # window management
 # disable border
 #for_window [class="^.*"] border normal 0
-for_window [class="^.*"] border pixel 6
+for_window [class="^.*"] border pixel 3
 #for_window [class="^.*"] border pixel 4
 
 # Activate smart borders (always)
@@ -35,7 +41,7 @@ smart_gaps on
 # Toggle title bar
 bindsym Mod1+t border normal 0
 bindsym Mod1+u border none
-bindsym Mod1+y border pixel 6
+bindsym Mod1+y border pixel 3
 
 # Farge
 bindsym Mod1+Shift+f --release exec farge
@@ -44,12 +50,12 @@ bindsym Mod1+Shift+f --release exec farge
 bindsym Mod1+Ctrl+m exec kunst --music_dir "/mnt/Kingston/Music" --size "280x280"
 
 # gaps default
-gaps inner 20
+gaps inner 10
 #gaps outer 10
 gaps top 40
 
 # enable autotiling
-exec_always --no-startup-id autotiling -w 1 
+#exec_always --no-startup-id autotiling -w 1 
 
 # floating mode
 #for_window [class=".*"] [floating] move absolute position center
@@ -58,9 +64,9 @@ exec_always --no-startup-id autotiling -w 1
 for_window [class="kitty"] border pixel 0
 for_window [window_role="About"] floating enable
 #for_window [class="mpv"] floating enable, move absolute position center
-for_window [class="mpv"] floating enable, border pixel 4
+for_window [class="mpv"] floating enable, border pixel 1
 for_window [class="ffplay"] floating enable, move absolute position center
-for_window [window_role="PictureInPicture"] floating enable, border pixel 1, move absolute position center
+for_window [window_role="PictureInPicture"] floating enable, border pixel 0, move absolute position center
 for_window [title="Authy"] floating enable
 for_window [class="Yad"] floating enable
 #for_window [class="Sxiv"] floating enable, resize set 349px 440px
@@ -83,7 +89,6 @@ for_window [instance="fontpreview"] floating enable
 for_window [class="SimpleScreenRecorder"] floating enable
 for_window [class="Gnome-screenshot"] floating enable, move absolute position center
 for_window [class="ark"] floating enable, move absolute position center
-for_window [class="moon fm"] floating enable, move absolute position center
 
 # exec on startup
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
@@ -102,7 +107,7 @@ exec --no-startup-id feh --bg-fill ~/Pictures/Bicycle.jpg
 bindsym Mod1+Shift+p exec /home/ahloi/youtube-watch.sh
 
 # wmfocus
-bindsym Mod1+w exec /home/ahloi/wmfocus
+bindsym Mod1+m exec /home/ahloi/wmfocus
 
 # flashfocus
 exec_always --no-startup-id flashfocus
@@ -151,8 +156,8 @@ bindsym Mod1+v split v
 bindsym Mod1+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
-#$bindsym Mod1+s layout stacking
-#bindsym Mod1+w layout tabbed
+bindsym Mod1+s layout stacking
+bindsym Mod1+w layout tabbed
 bindsym Mod1+e layout toggle split
 
 # toggle tiling / floating
@@ -239,16 +244,16 @@ mode "resize" {
         # Pressing right will grow the window’s width.
         # Pressing up will shrink the window’s height.
         # Pressing down will grow the window’s height.
-        bindsym h resize shrink width 3 px or 3 ppt
-        bindsym j resize grow height 3 px or 3 ppt
-        bindsym k resize shrink height 3 px or 3 ppt
-        bindsym l resize grow width 3 px or 3 ppt
+        bindsym h resize shrink width 1 px or 1 ppt
+        bindsym j resize grow height 1 px or 1 ppt
+        bindsym k resize shrink height 1 px or 1 ppt
+        bindsym l resize grow width 1 px or 1 ppt
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrink width 30 px or 30 ppt
-        bindsym Down resize grow height 30 px or 30 ppt
-        bindsym Up resize shrink height 30 px or 30 ppt
-        bindsym Right resize grow width 30 px or 30 ppt
+        bindsym Left resize shrink width 10 px or 10 ppt
+        bindsym Down resize grow height 10 px or 10 ppt
+        bindsym Up resize shrink height 10 px or 10 ppt
+        bindsym Right resize grow width 10 px or 10 ppt
 
         # back to normal: Enter or Escape or Mod1+r
         bindsym Return mode "default"

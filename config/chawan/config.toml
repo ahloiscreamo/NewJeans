@@ -1,0 +1,17 @@
+#[start]
+#visual-home = "https://www.google.com/"
+
+[buffer]
+images = true
+
+[display]
+color-mode = "ansi"
+format-mode = "auto"
+image-mode = "kitty"
+highlight-color = "eb6f92"
+highlight-marks = true
+double-width-ambiguous = false
+set-title = true
+default-background-color = "e0def4"
+default-foreground-color = "232136"
+

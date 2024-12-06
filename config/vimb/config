@@ -1,0 +1,77 @@
+# Homepage that vimb opens if started without a URI.
+set home-page=duckduckgo.com
+
+# Path to the default download directory. If no download directory is set,
+# download will be written into current directory. The following pattern will
+# be expanded if the download is started '~/', '~user', '$VAR' and '${VAR}'.
+set download-path=~/tmp/
+
+# If enabled the inputbox will be hidden whenever it contains no text.
+set input-autohide=true
+
+# Enable or disable the spell checking feature.
+set spell-checking=true
+
+# Set comma separated list of spell checking languages to be used for
+# spell checking.
+set spell-checking-languages=en,de
+
+# Enable or disable support for WebGL on pages.
+set webgl=true
+
+# While typing a search command, show where the pattern typed so far matches.
+set incsearch=true
+
+# The font family to use as the default for content that does not specify a
+# font.
+set default-font=Maple Mono NF Regular
+
+# The font family used as the default for content using monospace font.
+set monospace-font=Maple Mono NF Regular
+
+# The font family used as the default for content using sans-serif font.
+set sans-serif-font=Maple Mono NF Regular
+
+# The font family used as the default for content using serif font.
+set serif-font=Maple Mono NF Regular
+
+# The default font size used to display text.
+set font-size=16
+
+# Default font size for the monospace font.
+set monospace-font-size=13
+
+# Default Full-Content zoom level in percent. Default is 100.
+set default-zoom=100
+
+# Shortcuts allow the opening of an URI built up from a named template with
+# additional parameters.
+shortcut-add duck=https://duckduckgo.com/?q=$0
+shortcut-add d=http://dict.cc/?s=$0
+shortcut-add g=https://encrypted.google.com/search?q=$0
+shortcut-add y=http://www.youtube.com/results?search_query=$0
+shortcut-add s=https://www.startpage.com/do/dsearch?query=$0
+
+# Set the shortcut as the default, that is the shortcut to be used if no
+# shortcut is given and the string to open is not an URI.
+shortcut-default duck
+
+# Map page zoom in normal mode to keys commonly used across applications
+# + (zoom in), - (zoom out), = (zoom reset)
+nmap + zI
+nmap - zO
+nmap = zz
+
+# Simply Read
+nnoremap <C-R> :e! simplyread();<CR>
+
+# GUI color settings
+# Color scheme: RosePine
+set completion-css=color:#232136;background-color:#6e6a86;font:12pt Maple Mono NF;
+set completion-hover-css=color:#232136;background-color:#6e6a86;font:12pt Maple Mono NF;
+set completion-selected-css=color:#393552;background-color:#6e6a86;font:12pt Maple Mono NF;
+set input-css=color:#232136;background-color:#6e6a86;font:12pt Maple Mono NF;
+set input-error-css=color:#232136;background-color:#eb6f92;font:12pt Maple Mono NF;
+set status-css=color:#232136;background-color:#f6c177;font:12pt Maple Mono NF;
+set status-ssl-css=color:#232136;background-color:#3e8fb0;font:12pt Maple Mono NF;
+set status-ssl-invalid-css=color:#232136;background-color:#eb6f92;font:12pt Maple Mono NF;

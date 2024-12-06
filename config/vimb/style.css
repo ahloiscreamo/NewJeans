@@ -1,0 +1,63 @@
+*,div,pre,textarea,body,input,td,tr,p {
+    background-color: #232136 !important;
+    background-image: none !important;
+    color: #e0def4 !important;
+}
+h1,h2,h3,h4 {
+    background-color: #232136 !important;
+    color: #9ccfd8 !important;
+}
+a {
+    color: #3e8fb0 !important;
+}
+a:hover,a:focus {
+    color: #3e8fb0 !important;
+}
+a:visited {
+    color: #eb6f92 !important;
+}
+img {
+    opacity: 1;
+}
+img:hover {
+    opacity: 1;
+}
+
+/* Hint mode color styling
+ * Color scheme: Base16 Eighties (https://github.com/chriskempson/base16)
+ *
+ * The precedence of the user style is lower than that of the website so you
+ * have to mark your style definition to have higher priority.
+ */
+span[vimbhint^='label'] {
+    background-color: #e0def4 !important;
+    border: 1px solid #44415a !important;
+    color: #44415a !important;
+    font: bold 10pt monospace !important;
+    opacity: 1 !important;
+    padding: .1em .4em !important;
+    text-transform: uppercase !important;
+}
+span[vimbhint='label focus'] {
+    font: bold 13pt monospace !important;
+}
+*[vimbhint^='hint'] {
+    background-color: #ffcc66 !important;
+    color: #44415a !important;
+}
+*[vimbhint='hint focus'] {
+    background-color: #c4a7e7 !important;
+    color: #44415a !important;
+}
+
+/* Disable scrollbars 
+ */
+body::-webkit-scrollbar {
+    display: none;
+}
+
+/* Fonts
+ */
+* {
+   font-family: Maple Mono NF !important;
+}
