@@ -15,3 +15,11 @@ set-title = true
 default-background-color = "e0def4"
 default-foreground-color = "232136"
 
+[page]
+' r' = "pager.externFilterSource('rdrview -Hu \"$CHA_URL\"')" 
+
+[[siteconf]]
+#allow javascript YouTube
+host = "https://www.youtube.com/"
+scripting = true
+styling = true
