@@ -30,7 +30,8 @@
     # The width can be negative.  In this case the actual width is the
     # screen width minus the width defined in within the geometry option.
     # geometry = "300x5-30+20"
-    geometry = "0x5-30+55"
+    # geometry = "0x5-30+55"
+    origin=top-center
 
     # Show how many messages are currently hidden (because of geometry).
     indicate_hidden = yes
@@ -62,10 +63,11 @@
 
     # Defines width in pixels of frame around the notification window.
     # Set to 0 to disable.
-    frame_width = 3
+    frame_width = 4
 
     # Defines color of the frame around the notification window.
-    frame_color = "#ea9a97"
+    # frame_color = "#ea9a97"
+    frame_color = "#eb6f92"
 
     # Define a color for the separator.
     # possible values are:
@@ -129,7 +131,7 @@
     #   %n  progress value if set without any extra characters
     #   %%  Literal %
     # Markup is allowed
-    format = "<b>%s</b>\n<i>%b</i>"
+    # format = "<b>%s</b>\n<i>%b</i>"
     # format = "<b>%s</b>\n%b"
 
     # Alignment of message text.
@@ -230,6 +232,7 @@
     # The radius will be automatically lowered if it exceeds half of the
     # notification height to avoid clipping text and/or icons.
     corner_radius = 14
+    # corner_radius = 0
 
     # Ignore the dbus closeNotification message.
     # Useful to enforce the timeout set by dunst configuration. Without this

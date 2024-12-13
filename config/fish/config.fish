@@ -27,7 +27,7 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
   --color=fg:#e0def4,fg+:#e0def4,bg:#232136,bg+:#393552
   --color=hl:#3e8fb0,hl+:#9ccfd8,info:#f6c177,marker:#f6c177
   --color=prompt:#eb6f92,spinner:#c4a7e7,pointer:#c4a7e7,header:#9ccfd8
-  --color=border:#6e6a86,label:#aeaeae,query:#d9d9d9
+  --color=border:#393552,label:#44415a,query:#6e6a86
   --border="rounded" --border-label="" --preview-window="noborder" --prompt="> "
   --marker=">" --pointer="◆" --separator="─" --scrollbar="│"'
 
