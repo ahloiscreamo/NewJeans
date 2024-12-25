@@ -3,6 +3,7 @@
 
 [buffer]
 images = true
+autofocus = true
 
 [display]
 color-mode = "ansi"
@@ -17,6 +18,10 @@ default-foreground-color = "232136"
 
 [page]
 ' r' = "pager.externFilterSource('rdrview -Hu \"$CHA_URL\"')" 
+' f' = "pager.externFilterSource('fmt')"
+
+[css]
+inline = """plaintext, pre { white-space: pre-wrap }"""
 
 [[siteconf]]
 #allow javascript YouTube

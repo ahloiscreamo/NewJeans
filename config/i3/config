@@ -36,7 +36,7 @@ for_window [class="^.*"] border pixel 6
 smart_borders on
 
 # Activate smart gaps
-#smart_gaps on
+smart_gaps on
 
 # Toggle title bar
 bindsym Mod1+t border normal 0
@@ -50,7 +50,7 @@ bindsym Mod1+Shift+f --release exec farge
 bindsym Mod1+Ctrl+m exec kunst --music_dir "/mnt/Kingston/Music" --size "280x280"
 
 # gaps default
-gaps inner 10
+gaps inner 20
 #gaps outer 10
 gaps top 40
 
@@ -66,7 +66,7 @@ for_window [window_role="About"] floating enable
 #for_window [class="mpv"] floating enable, move absolute position center
 for_window [class="mpv"] floating enable, border pixel 6
 for_window [class="ffplay"] floating enable, move absolute position center
-for_window [window_role="PictureInPicture"] floating enable, border pixel 0, move absolute position center
+for_window [window_role="PictureInPicture"] floating enable, border pixel 6, move absolute position center
 for_window [title="Authy"] floating enable
 for_window [class="Yad"] floating enable
 #for_window [class="Sxiv"] floating enable, resize set 349px 440px
@@ -186,7 +186,7 @@ set $ws2 "WEB "
 set $ws3 "DRAW "
 set $ws4 "MPV "
 set $ws5 "SEED "
-set $ws6 "YOUTUBE MUSIC "
+set $ws6 "STREAM "
 set $ws7 "EASYEFFECT "
 set $ws8 "8"
 set $ws9 "9"
@@ -195,15 +195,17 @@ set $ws10 "10"
 #bind program to workspace
 assign [class="kitty"] $ws1
 assign [class="firefox"] $ws2
-assign [class="MyPaint"] $ws3
+assign [class="alacritty"] $ws2
 assign [class="krita"] $ws3
 assign [class="Inkscape"] $ws3
 assign [class="mpv"] $ws4
-assign [class="Transmission-gtk"] $ws5
-assign [class="org.nicotine_plus.Nicotine"] $ws5
-assign [class="YouTube Music"] $ws6
-assign [class="easyeffects"] $ws7
 assign [window_role="PictureInPictures"] $ws4
+assign [class="Transmission-gtk"] $ws5
+assign [class="org.nicotine_plus.Nicotine"] $ws5 
+assign [class="YouTube Music"] $ws6 
+assign [class="FFPWA-01JBC5V5SG3ZMGARGNPM7FS8HR"] $ws6
+assign [class="Spotify"] $ws6 
+assign [class="easyeffects"] $ws7
 
 # switch to workspace
 bindsym Mod1+1 workspace $ws1
@@ -279,9 +281,9 @@ bindsym Mod1+Shift+Up resize shrink width $x_spd px or $x_spd ppt, resize shrink
 bindsym Mod1+Shift+Down resize grow width $x_spd px or $x_spd ppt, resize grow height $x_spd px or $x_spd ppt, move left $hx_spd px, move up $hx_spd px
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #c4a7e7 #c4a7e7 #645575   #c4a7e7   #c4a7e7
-client.focused_inactive #ea9a97 #ea9a97 #754d4c   #ea9a97   #ea9a97
-client.unfocused        #ea9a97 #ea9a97 #754d4c   #ea9a97   #ea9a97 
-client.urgent           #eb6f92 #eb6f92 #eb6f92   #eb6f92   #eb6f92
+client.focused          #c4a7e7 #c4a7e7 #7550a5   #c4a7e7   #c4a7e7
+client.focused_inactive #ea9a97 #ea9a97 #a05550   #ea9a97   #ea9a97
+client.unfocused        #ea9a97 #ea9a97 #a05550   #ea9a97   #ea9a97 
+client.urgent           #eb6f92 #eb6f92 #b43f60   #eb6f92   #eb6f92
 client.placeholder      #232136 #232136 #232136   #232136   #232136
 client.background       #e0def4
