@@ -1,11 +1,13 @@
 #!/bin/bash
 
 iconcolor=#eb6f92
+inactiveicon="" # Choose an appropriate inactive icon
 
 output=$(cmus-remote -C status)
 artist=$(echo "$output" | grep "^tag artist" | cut -c 12-)
 path=$(echo "$output" | grep "^file" | cut -c 12-)
 cmusstatus=$(echo "$output"| grep "^status" | cut -c 8-)
+
 case $cmusstatus in 
     "playing")
         icon=" "
@@ -14,8 +16,9 @@ case $cmusstatus in
         icon=" "
         ;;
     "stopped")
-        echo
+        echo -n "%{F$iconcolor}$inactiveicon%{F-}"
         exit 0
+        ;;
 esac
 
 if [[ $artist = *[!\ ]* ]]; then
@@ -30,6 +33,5 @@ elif [[ $path = *[!\ ]* ]]; then
     done
     echo -n "%{F$iconcolor}$icon%{F-} $file"
 else
-        echo
+    echo -n "%{F$iconcolor}$inactiveicon%{F-}"
 fi
-

@@ -23,8 +23,15 @@ set $right semicolon
 # use Mouse+Mod1 to drag floating windows to their wanted position
 floating_modifier Mod1
 
+# hide mouse to corner
+bindsym Mod1+Menu exec /home/ahloi/mousemove.sh
+
 # start a terminal
 bindsym Mod1+Return exec kitty
+
+# use hints
+bindsym Mod1+i exec hints
+bindsym Mod1+o exec hints --mode scroll
 
 # window management
 # disable border
@@ -79,7 +86,6 @@ for_window [class="Nsxiv"] floating enable, resize set 600px 915px, move absolut
 for_window [class="firefox" window_role="Organizer"] floating enable
 for_window [class="Zathura"] floating enable, resize set 645 950, move absolute position center
 for_window [class="Gpick"] floating enable
-for_window [class="YouTube Music"] floating enable, border normal 0, move absolute position center
 for_window [class="Nl.hjdskes.gcolor3"] floating enable
 for_window [class="gmic_qt"] floating enable
 #for_window [class="fragments"] floating enable, move absolute position center
@@ -181,13 +187,13 @@ bindsym Mod1+minus scratchpad show
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "TERM "
-set $ws2 "WEB "
-set $ws3 "DRAW "
-set $ws4 "MPV "
-set $ws5 "SEED "
-set $ws6 "STREAM "
-set $ws7 "EASYEFFECT "
+set $ws1 "TERM  "
+set $ws2 "WEB  "
+set $ws3 "DRAW  "
+set $ws4 "MPV  "
+set $ws5 "SEED  "
+set $ws6 "STREAM  "
+set $ws7 "EASYEFFECT  "
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
@@ -287,3 +293,12 @@ client.unfocused        #ea9a97 #ea9a97 #a05550   #ea9a97   #ea9a97
 client.urgent           #eb6f92 #eb6f92 #b43f60   #eb6f92   #eb6f92
 client.placeholder      #232136 #232136 #232136   #232136   #232136
 client.background       #e0def4
+
+# class                 border  backgr. text    indicator child_border
+#client.focused          #44415a #44415a #c4a7e7   #44415a   #44415a
+#client.focused_inactive #393552 #393552 #ea9a97   #393552   #393552
+#client.unfocused        #393552 #393552 #ea9a97   #393552   #393552 
+#client.urgent           #eb6f92 #eb6f92 #b43f60   #eb6f92   #eb6f92
+#client.placeholder      #232136 #232136 #232136   #232136   #232136
+#client.background       #e0def4
+
