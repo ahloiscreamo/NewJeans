@@ -33,6 +33,15 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
   --border="rounded" --border-label="" --preview-window="noborder" --prompt="> "
   --marker=">" --pointer="◆" --separator="─" --scrollbar="│"'
 
+#yt-x
+export YT_X_FZF_OPTS=$FZF_DEFAULT_OPTS'
+--color=fg:#e0def4,fg+:#e0def4,bg:#232136,bg+:#44415a
+--color=hl:#3e8fb0,hl+:#9ccfd8,info:#f6c177,marker:#3e8fb0
+--color=prompt:#eb6f92,spinner:#c4a7e7,pointer:#c4a7e7,header:#3e8fb0
+--color=border:#44415a,label:#ea9a97,query:#f6c177
+--border="rounded" --border-label="" --preview-window="border-rounded" --prompt="> "
+--marker=">" --pointer="◆" --separator="─" --scrollbar="│"'
+
 #Bat
 export BAT_THEME="Rose-Pine-Moon"
 
