@@ -1,0 +1,22 @@
+color mixer_frame               cyan    default
+color mixer_text                cyan    default
+color mixer_active              yellow  default bold
+color ctl_frame                 cyan    default bold
+color ctl_mute                  cyan    default
+color ctl_nomute                white   green   bold
+color ctl_capture               red     default bold
+color ctl_nocapture             white   default
+color ctl_label                 white   black   bold
+color ctl_label_focus           white   red     bold
+color ctl_mark_focus            red     default bold
+color ctl_bar_lo                green   green   bold
+color ctl_bar_mi                white   white   bold
+color ctl_bar_hi                red     red     bold
+color ctl_inactive              white   default
+color ctl_label_inactive        white   default reverse
+color errormsg                  white   red     bold
+color infomsg                   white   red     bold
+color textbox                   white   blue    bold
+color textfield                 white   default reverse
+color menu                      white   green   bold
+color menu_selected             white   green   reverse

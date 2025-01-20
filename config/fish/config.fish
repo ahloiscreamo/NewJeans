@@ -24,7 +24,7 @@ export QT_QPA_PLATFORMTHEME="qt5ct"
 
 #fzf
 export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'
-  --color=fg:#e0def4,fg+:#e0def4,bg:#232136,bg+:#393552
+  --color=fg:#c8c8e5,fg+:#c8c8e5,bg:#232136,bg+:#393552
   --color=hl:#3e8fb0,hl+:#9ccfd8,info:#f6c177,marker:#f6c177
   --color=prompt:#eb6f92,spinner:#c4a7e7,pointer:#c4a7e7,header:#9ccfd8
   --color=border:#6e6a86,label:#44415a,query:#6e6a86
@@ -36,7 +36,7 @@ fzf --fish | source
 
 #yt-x
 set -gx YT_X_FZF_OPTS $FZF_DEFAULT_OPTS'
---color=fg:#e0def4,fg+:#e0def4,bg:#232136,bg+:#44415a
+--color=fg:#c8c8e5,fg+:#c8c8e5,bg:#232136,bg+:#44415a
 --color=hl:#3e8fb0,hl+:#9ccfd8,info:#f6c177,marker:#3e8fb0
 --color=prompt:#eb6f92,spinner:#c4a7e7,pointer:#c4a7e7,header:#3e8fb0
 --color=border:#44415a,label:#ea9a97,query:#f6c177
@@ -61,7 +61,7 @@ alias ncdu="ncdu --color dark"
 alias archwiki-offline="archwiki-offline -o w3m -m fzf"
 alias archwiki="archwiki-offline"
 alias muc="muc --file ~/.local/share/fish/fish_history --count 10 --pretty --shell="fish""
-alias tap="tap -db --color fg=e0def4,bg=232136,hl=c4a7e7,prompt=3e8fb0,header=ea9a97,header+=eb6f92,progress=f6c177,info=3e8fb0,err=eb6f92"
+alias tap="tap -db --color fg=c8c8e5,bg=232136,hl=c4a7e7,prompt=3e8fb0,header=ea9a97,header+=eb6f92,progress=f6c177,info=3e8fb0,err=eb6f92"
 
 #Icons_in_terminal
 source ~/.local/share/icons-in-terminal/icons.fish
