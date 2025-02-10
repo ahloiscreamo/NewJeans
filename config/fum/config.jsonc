@@ -1,20 +1,16 @@
 {
 "players": ["org.mpris.MediaPlayer2.mpd", "spotify"],
-"use_active_player": false,
+"use_active_player": true,
 "debug": false,
-"width": 23,
-"height": 18,
+"width": 25,
+"height": 13,
 "direction": "vertical",
 "layout": [
-  { "type": "label", "text": "> $title <", "align": "center" },
-  { "type": "label", "text": "> $artists <", "align": "center" },
-  { "type": "empty", "size": 1 },
    { "type": "cover-art",
-     "width": 25,
-     "height": 25,
-     "align": "center"
+     "width": 20,
+     "height": 20,
+     "align": "center" 
    },
-    { "type": "empty", "size": 1 },
      {
        "type": "container",
        "height": 1,
@@ -22,12 +18,10 @@
        "children": [
          { "type": "button", "text": "󰒝", "action": "shuffle_toggle()" },
          { "type": "button", "text": "󰒮", "action": "prev()" },
-         { "type": "button", "text": "$status_icon", "action": "play_pause()" },
+         { "type": "button", "text": "$status-icon", "action": "play_pause()" },
          { "type": "button", "text": "󰒭", "action": "next()" },
          { "type": "button", "text": "󰑐", "action": "loop_track()" }
        ]
-     },
-       { "type": "empty", "size": 1 },
-     { "type": "progress", "progress": "", "empty": "" }
+     } 
    ]
 }

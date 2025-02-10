@@ -30,6 +30,7 @@ bindsym Mod1+Menu exec /home/ahloi/mousemove.sh
 bindsym Mod1+Return exec kitty
 
 # use hints
+exec_always for id in $(xinput list | grep "ydotool.*pointer" | cut -d '=' -f 2 | cut -f 1); do xinput --set-prop $id 'libinput Accel Profile Enabled' 0, 1; done
 bindsym Mod1+i exec hints
 bindsym Mod1+o exec hints --mode scroll
 
@@ -68,10 +69,10 @@ gaps top 40
 #for_window [class=".*"] [floating] move absolute position center
 #for_window [class="kitty"] floating enable, border normal 0
 for_window [class="kitty"] border normal 0
-#for_window [class="kitty"] border pixel 0
+for_window [class="Surf"] border pixel 0, floating enable
 for_window [window_role="About"] floating enable
-#for_window [class="mpv"] floating enable, move absolute position center
-for_window [class="mpv"] floating enable, border pixel 6
+#for_window [class="mpv"] floating enable, border pixel 3, move absolute position center
+for_window [class="mpv"] floating enable, border pixel 3
 for_window [class="ffplay"] floating enable, move absolute position center
 for_window [window_role="PictureInPicture"] floating enable, border pixel 6, move absolute position center
 for_window [title="Authy"] floating enable
@@ -98,6 +99,7 @@ for_window [class="ark"] floating enable, move absolute position center
 
 # exec on startup
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always --no-startup-id ydotoold
 #exec --no-startup-id picom -b
 #exec_always xinput set-prop 15 "Device Enabled" 0
 exec_always xinput --disable "Wacom Intuos Pro S Finger"
@@ -187,13 +189,13 @@ bindsym Mod1+minus scratchpad show
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "TERM  "
-set $ws2 "WEB  "
-set $ws3 "DRAW  "
-set $ws4 "MPV  "
-set $ws5 "SEED  "
-set $ws6 "STREAM  "
-set $ws7 "EASYEFFECT  "
+set $ws1 "TERM "
+set $ws2 "WEB "
+set $ws3 "DRAW "
+set $ws4 "MPV "
+set $ws5 "SEED "
+set $ws6 "STREAM "
+set $ws7 "EASYEFFECT "
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"

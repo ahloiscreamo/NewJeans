@@ -1,0 +1,3 @@
+#!/bin/sh
+[ -r conf ] && . ./conf
+exec earlyoom $EARLYOOM_ARGS -r 3600

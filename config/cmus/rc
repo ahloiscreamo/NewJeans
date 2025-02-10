@@ -5,15 +5,15 @@ set dsp.alsa.device=default
 set mixer.alsa.device=default
 set mixer.alsa.channel=Master
 
-set format_current= %a  %l  %=  %04y  
+set format_current= %a  %l  %=  %04y 
 set format_playlist= %-18a  %-18l  %t%=  %04y 
 set format_playlist_va= %-18a %-18l  %t%=  %04y 
 set format_trackwin= %t%=
-set format_trackwin_album= %l
+set format_trackwin_album= %l 
 set format_trackwin_va= %t%= 
 set format_treewin= %l
 set format_treewin_artist=%a
-set format_statusline= %{status} %02n %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }} 
+set format_statusline= %{status} %02n %t%= %1{follow}%1{repeat}%1{shuffle} %{?show_playback_position?%{position} %{?duration?/ %{duration} }?%{?duration?%{duration} }}
 set format_title=cmus
  
 set altformat_title=%f
@@ -23,7 +23,7 @@ set show_hidden=false
 set lib_sort=artist album discnumber tracknumber title filename
 set play_sorted=false
 set repeat=false
-set follow=true
+set follow=false 
 
 bind -f library a set lib_sort=artist album discnumber tracknumber title filename
 bind -f library A set lib_sort=album discnumber tracknumber title filename

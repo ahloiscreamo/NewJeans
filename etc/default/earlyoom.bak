@@ -3,7 +3,7 @@
 
 # Options to pass to earlyoom
 #EARLYOOM_ARGS="-r 3600 -n --avoid '(^|/)(init|systemd|Xorg|sshd)$'"
-EARLYOOM_ARGS=" -m 96,92 -s 100,100 -r 5 -n --avoid '(^|/)(runit|Xorg|sshd)$'" 
+EARLYOOM_ARGS=" -m 5 -s 100 -r 5 -n --prefer (firefox|Web\sContent) --avoid '(^|/)(runit|Xorg|sshd)$'" 
 
 # Examples:
 

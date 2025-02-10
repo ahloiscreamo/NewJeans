@@ -32,11 +32,14 @@ now_playing_suffix = "$/b$9"
 song_columns_list_format = (20)[]{a} (3f)[green]{NE} (35)[white]{t|f:Title} (20)[cyan]{b} (4f)[magenta]{l}
 
 [statusbar]
-progressbar_look = "▃▃▃"
+#progressbar_look = "▃▃▃"
 #progressbar_look = "━━━"
-#progressbar_look = "   "
-#progressbar_color = "6"
-#progressbar_elapsed_color = "176"
+#progressbar_look = ""
+#progressbar_look = ""
+#progressbar_look = ""
+progressbar_look = ""
+progressbar_color = "1"
+progressbar_elapsed_color = "3"
 statusbar_visibility = "no"
 statusbar_color = "default"
 song_status_format = "{{%a{ - %t}}|{ - %f}{ - %b{ (%y)}}}"
@@ -53,4 +56,5 @@ enable_window_title = "no"
 external_editor = "vim"
 
 [notify]
+#execute_on_song_change = "/home/ahloi/.config/ncmpcpp/songinfo"
 execute_on_song_change="/home/ahloi/.config/ncmpcpp/notify_mpd.sh"

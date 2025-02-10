@@ -1,9 +1,9 @@
 {
   "hints": {
-    "hint_height": 20, 
-    "hint_width_padding": 5,
-    "hint_font_size": 13,
-    "hint_font_face": "Maple Mono NF Bold",
+    "hint_height": 30, 
+    "hint_width_padding": 10,
+    "hint_font_size": 15,
+    "hint_font_face": "Maple Mono NF",
     "hint_font_r": 0,
     "hint_font_g": 0,
     "hint_font_b": 0,

@@ -10,10 +10,10 @@ cmusstatus=$(echo "$output"| grep "^status" | cut -c 8-)
 
 case $cmusstatus in 
     "playing")
-        icon=" "
+        icon=""
         ;;
     "paused")
-        icon=" "
+        icon=""
         ;;
     "stopped")
         echo -n "%{F$iconcolor}$inactiveicon%{F-}"
