@@ -1,0 +1,5 @@
+#default
+exec earlyoom $EARLYOOM_ARGS -r 3600
+
+#disable swap & monitor firefox
+exec earlyoom -s 100 $EARLYOOM_ARGS -r 3600 --prefer '^firefox$'
